@@ -890,7 +890,7 @@
           </Events>
           <NoDataMessage name="CardNoDataMessageUiPlugin">
             <Bindings>
-              <Resource target="maintext" type="Label" id="CardDisplays_NoDataMessageMainText" defaultLabel="No displays for this customer." />
+              <Resource target="maintext" type="Label" id="CardDisplays_NoDataMessageMainText" defaultLabel="No displays for this display." />
               <Resource id="Done" target="infoIcon" type="Image" />
             </Bindings>
           </NoDataMessage>
