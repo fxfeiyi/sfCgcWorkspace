@@ -59,6 +59,8 @@
         <Label id="AddNewCustomerTaskId" text="Add new Customer Task1" translationStatus="1"/>
         <Label id="AllCustomerTasksLink" text="All Customer Tasks" translationStatus="1"/>
         <Label id="CustomerTasksCardTitle" text="Customer Tasks Today" translationStatus="1"/>
+        <Label id="CardDisplays_NoDataMessageMainText" text="No displays for this customer." translationStatus="1"/>
+        <Label id="DisplaysCardTitle" text="Displays" translationStatus="1"/>
         <Label id="AddNewTaskId" text="Add new Task" translationStatus="1"/>
         <Label id="AllTasksLink" text="All Tasks" translationStatus="1"/>
         <Label id="TasksCardTitle" text="Tasks Due Today" translationStatus="1"/>

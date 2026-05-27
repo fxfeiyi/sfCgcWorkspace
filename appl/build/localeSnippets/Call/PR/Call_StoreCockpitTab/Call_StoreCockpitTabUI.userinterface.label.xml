@@ -45,6 +45,7 @@
         <Label id="AllCustomerTasksLink" text="All Customer Tasks" translationStatus="1"/>
         <Label id="CustomerTasksCardTitle" text="Customer Tasks" translationStatus="1"/>
         <Label id="CardDisplays_NoDataMessageMainText" text="No displays for this customer." translationStatus="1"/>
+        <Label id="DisplaysCardTitle" text="Displays" translationStatus="1"/>
         <Label id="CardOrderHistory_NoDataMessageMainText" text="No orders for this customer," translationStatus="1"/>
         <Label id="CardOrderHistory_NoDataMessageSubText" text="why don’t you create one." translationStatus="1"/>
         <Label id="CreateNewOrderId" text="Create New Order" translationStatus="1"/>

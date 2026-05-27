@@ -400,91 +400,91 @@
     "result": [
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CanLoadSalesFolderDecisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 310,
+        "line": 336,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardVisits_RefreshRelatedData_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 422,
+        "line": 448,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CreateNewCall_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 456,
+        "line": 482,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardVisits_ContextMenu_Result_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 508,
+        "line": 534,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CallDataCheck_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 540,
+        "line": 566,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: openOrders_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 616,
+        "line": 642,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardNotificationsLoad_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 919,
+        "line": 945,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardNotifications_ContextMenu_Result_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 932,
+        "line": 958,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardTasks_RefreshRelatedData_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1000,
+        "line": 1026,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardTasks_CreateTask_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1018,
+        "line": 1044,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardTasks_ContextMenu_Result_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1046,
+        "line": 1072,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardCustomerTasks_RefreshRelatedData_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1208,
+        "line": 1267,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardCustomerTasks_CreateTask_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1229,
+        "line": 1288,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardCustomerTasks_ContextMenu_Result_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1260,
+        "line": 1319,
         "severity": "WARN",
         "validationNumber": "00000158"
       },
       {
         "message": "Found no 'EMPTY' type case in DECISION action: CardOverdueCustomers_ContextMenu_Result_Decisionin process: Application::CockpitProcess. If not all possible cases are covered, this will cause runtime problems.",
-        "line": 1409,
+        "line": 1468,
         "severity": "WARN",
         "validationNumber": "00000158"
       }
