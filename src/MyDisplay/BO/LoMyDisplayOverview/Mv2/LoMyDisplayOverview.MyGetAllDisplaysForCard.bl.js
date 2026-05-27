@@ -65,7 +65,7 @@ jsonQuery.params = jsonParams;
 
 me.removeAllItems();
 
-var promise = Facade.getListAsync("LoDisplaysOverview", jsonQuery).then(
+var promise = Facade.getListAsync("DsLoMyDisplayOverview", jsonQuery).then(
   function(issue) {
     var numberOfTasks;
     if(!Utils.isDefined(numberOfListItems)){
