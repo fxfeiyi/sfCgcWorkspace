@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTodo">
+        <Label id="CasBoToDoDescriptionEmpty" text="Please enter a description." translationStatus="1"/>
+        <Label id="CasBoToDoInitiationDateGTDueDate" text="Please enter a Due Date that is greater than or equal to Initiation Date." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

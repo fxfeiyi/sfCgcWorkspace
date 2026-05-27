@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourManagementCreateTourUI">
+        <Label id="doneId" text="Create" translationStatus="1"/>
+        <Label id="TourCreateNewTitleId" text="New Tour" translationStatus="1"/>
+        <Label id="templateId" text="Tour Template" translationStatus="1"/>
+        <Label id="warehouseId" text="Start Warehouse" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

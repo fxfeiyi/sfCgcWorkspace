@@ -1,0 +1,83 @@
+<!--To add a new card to a dashboard some steps are neccessary
+1. Adapt the UI and add the section for your card
+1.1
+2. Adapt the corresponding Process contract of your UI card
+2.1 Declare a varialbe to store the information if card data are loaded
+2.2 Declare a variable to store the information for the SubComponent name. Text which is displayed in case there are no data found
+3. Maintain utils class we reuse from several places to identify is a card should be visible or collapsible. You can use your own function or you adjust the available helper business object
+3.1 modify the  isCollapsible function
+3.2 modify the isVisisble function
+3.3 to store the values for isCollapsible and isVisible you need to create two simple properties to host the current value
+-->
+<CardContainer name="${NAME}">
+    <Bindings>
+      <!-- Title and counter -->
+      <Resource target="Title" type="Label" id="${NAME}Title" defaultLabel="<YOUR DEFAULT LABEL IN CASE No LOCALE ENTRY>" />
+      <Resource target="Information" type="Label" id="${NAME}Info" defaultLabel="<YOUR DEFAULT LABLE IN CASE No LOCALE ENTRY>" />
+      <!-- Data loaded flag (by setting this card gets rendered) -->
+      <Binding target="IsReadyToLoad" type="Text" binding="ProcessContext::${NAME}_DataLoaded>" bindingMode="ONE_WAY" />
+      <!-- Defines id card is visible or hidden. ProcessContext::CardController is an instance of object BoSalesCockpitHelper which host some convenience function we can reuse -->
+      <!-- As default of this function is false we comment out this section. When the section is not there or commented out it is visible -->
+      <!--
+      <Binding type="Visible" target="Visible" call="ProcessContext::CardController.isCardVisible" />
+        <Parameters>
+          <Input name="cardName" type="Literal" value="${NAME}" />
+        </Parameters>
+      -->
+      <!-- Defines id card is collapsible.  ProcessContext::CardController is an instance of object BoSalesCockpitHelper which host some convenience function we can reuse
+      The isCardCollapsible functions need to be adapted and a new simple property collpaseState_${NAME} (e.g. collapseState_CardDisplay ) has to be defined to persist the current status -->
+      <Binding type="Text" target="IsCollapsible" call="ProcessContext::CardController.isCardCollapsible>" bindingMode="ONE_WAY">
+        <Parameters>
+          <Input name="cardName" type="Literal" value="${NAME}" />
+        </Parameters>
+      </Binding>
+      <!-- Defines this card is maximizable. ProcessContext::CardController is an instance of object BoSalesCockpitHelper which host some convenience function we can reuse -->
+      <Binding type="Text" target="ShowMaximizeButton" call="ProcessContext::CardController.isCardMaximizable">
+        <Parameters>
+          <Input name="cardName" type="Literal" value="${NAME}" />
+        </Parameters>
+      </Binding>
+      <!-- This is a binding to a simple property out of the BoSalesCockpitHelper to store the information if card was collapsed or not -->
+      <Binding target="CollapseState" type="Text" binding="ProcessContext::CardController.collapseState_CardDisplay" bindingMode="TWO_WAY" />
+      <!-- Subcomponent (e.g. used for no data message) -->
+      <Binding target="DisplayedSubcomponentName" type="Text" binding="ProcessContext::${NAME}_SubComponentName" bindingMode="ONE_WAY" />
+    </Bindings>
+    <VisibilityRoles allRoles="true" />
+    <Events>
+      <LoadContainerData event="${NAME}_loadData" />
+    </Events>
+    <!-- No Data Message Subcomponent. We reuse an existing UIplugin and only handover the information-->
+    <NoDataMessage name="CardNoDataMessageUiPlugin">
+      <Bindings>
+        <Resource target="maintext" type="Label" id="${NAME}NoDataMainText" defaultLabel="No data available, " />
+        <Resource target="subtext" type="Label" id="${NAME}NoDataSubText" defaultLabel="relax and enjoy the sun!" />
+        <Resource target="infoIcon" type="Image" id="Done" />
+      </Bindings>
+    </NoDataMessage>
+    <CockpitList name="Display" hasBorder="false" dataSource="ProcessContext::${NAME}_DisplayList.Items[]">
+      <Items name="Items" itemPattern="${NAME}Items">
+        <ItemListLayout>
+          <Tablet>
+            <Default>
+              <Col flex="1">
+                <Row layoutType="itemIdentifierCockpit" bindingId="Row_Name" />
+                <Row layoutType="itemSecondaryCockpit" bindingId="Row_Description" />
+              </Col>
+            </Default>
+          </Tablet>
+          <Phone>
+            <Default>
+              <Col flex="1">
+                <Row layoutType="itemIdentifierCockpit" bindingId="Name" />
+              </Col>
+            </Default>
+          </Phone>
+        </ItemListLayout>
+        <Bindings>
+          <!-- bindings in list are referenced with a leading dot (.) in front of the name. eg. .description -->
+          <Binding target="Row_Name" type="Text" binding=".<YOUR BINDING TO THE SimpleProperty OF THE ListItem OF THE DATASOURCE SPECIFIED ABOVE AS ATTRIBUTE OF CickpitList NODE>" bindingMode="ONE_WAY" />
+          <Binding target="Row_Description" type="Text" binding=".<YOUR BINDING TO THE SimpleProperty OF THE ListItem OF THE DATASOURCE SPECIFIED ABOVE AS ATTRIBUTE OF CickpitList NODE>" bindingMode="ONE_WAY" />
+        </Bindings>
+      </Items>
+    </CockpitList>
+  </CardContainer>

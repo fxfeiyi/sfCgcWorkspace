@@ -1,0 +1,159 @@
+[2026-05-04T15:50:09.559] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:27:15.245] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:31:01.608] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:31:03.278] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:33:12.271] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:33:24.927] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:33:46.242] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:33:48.685] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:42:35.599] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T17:59:11.121] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:06:36.110] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:06:37.549] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:06:39.159] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:06:41.177] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:12:34.665] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:33:17.249] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:03.446] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:07.199] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:08.715] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:10.111] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:11.924] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:35:13.328] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:14.193] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:46.937] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:48.402] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:50.260] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:51.425] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T18:41:52.492] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Data_Type_Option__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T21:56:05.299] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Contract_Payment_Template__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T21:56:05.485] [ERROR] local - ERROR: [Error: SQLITE_ERROR: no such column: Contract__c.Description_] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T21:56:06.074] [ERROR] local - ERROR: [Error: SQLITE_ERROR: near "as": syntax error] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-04T21:56:08.107] [ERROR] local - ERROR: [Error: SQLITE_ERROR: near "as": syntax error] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[2026-05-05T20:06:00.868] [ERROR] local - We couldn’t complete the closeDbConnection operation. Try again or contact Salesforce Support and provide the error details: ["Open a database connection first, then pass the request"]
+[2026-05-05T20:06:00.873] [ERROR] local - We couldn’t complete the closeDbConnection operation. Try again or contact Salesforce Support and provide the error details: ["Open a database connection first, then pass the request"]
+[2026-05-05T20:06:00.922] [ERROR] local - We couldn’t complete the closeDbConnection operation. Try again or contact Salesforce Support and provide the error details: ["Open a database connection first, then pass the request"]
+[2026-05-18T10:58:52.721] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-18T10:58:52.766] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-18T10:58:52.794] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-18T10:58:52.823] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-18T10:58:52.853] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-18T10:58:52.882] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}
+[2026-05-19T14:11:54.013] [ERROR] local - ERROR: [Error: SQLITE_LOCKED: database table is locked] {
+  errno: 6,
+  code: 'SQLITE_LOCKED'
+}

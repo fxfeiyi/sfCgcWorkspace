@@ -1,0 +1,3 @@
+<DataSources>
+	<DataSource name="${#name#}" keyAttribute="${#keyAttribute#}" refKeyAttribute="${#refKeyAttribute#}" />
+</DataSources>

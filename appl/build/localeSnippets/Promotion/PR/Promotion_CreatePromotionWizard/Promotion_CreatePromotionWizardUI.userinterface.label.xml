@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="PromotionCreatePromotionWizardUI">
+        <Label id="createCustomerContractId" text="Done" translationStatus="1"/>
+        <Label id="PromotionCreateCustomerContractTitleId" text="Add Contract" translationStatus="1"/>
+        <Label id="CustomerName" text="Customer" translationStatus="1"/>
+        <Label id="CustomerContractTypeId" text="Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoProductOverview">
+        <Label id="ProductOverview_prdId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductOverview_text1" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductOverview_category" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductOverview_eAN" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductOverview_prdType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductOverview_foreignProduct" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

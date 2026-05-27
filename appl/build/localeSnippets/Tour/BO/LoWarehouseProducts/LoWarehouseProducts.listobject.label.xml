@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoWarehouseProductForAdd">
+        <Label id="WarehouseProductForSearch_consumerGoodsProductCodeId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="WarehouseProductForSearch_description1" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="WarehouseProductForSearchh_gtin" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="WarehouseProductForSearch_productType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="WarehouseProductForSearch_category" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

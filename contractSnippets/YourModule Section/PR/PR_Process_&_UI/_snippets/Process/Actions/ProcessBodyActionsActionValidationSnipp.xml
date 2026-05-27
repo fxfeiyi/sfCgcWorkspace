@@ -1,0 +1,6 @@
+<Action name="${#ActionName#}" actionType="VALIDATION" >
+	<Validations>
+		<Validation name="${#ValidationName#}"/>
+	</Validations>
+	<TransitionTo action="${#TransitionToAction#}" />
+</Action>

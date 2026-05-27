@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global>
+      <Label id="Ok" text="Ok" translationStatus="1"/>
+    </Global>
+    <NavigationLabels/>
+    <ConfirmationMessages>
+      <Process id="Visit.RetailStoreCockpitProcess">
+        <Label id="ConfirmStartVisitMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmStartVisitMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageOfflineOnly" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageOfflineOnly" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageOnlineOnly" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageOnlineOnly" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageMixed" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmAbandonMessageMixed" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmEndVisitMessageOpenOnline" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmEndVisitMessageOpenOnline" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmEndVisitMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ConfirmEndVisitMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="VisitIsInPlannedState" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="VisitIsInPlannedState" text="AUTO-GENERATED" translationStatus="1"/>
+      </Process>
+    </ConfirmationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoToDoOverview">
+        <Label id="ToDo_Description" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Todo_TodoType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Status" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Initiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Responsible" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoToDoOverviewForSupervisor">
+        <Label id="ToDo_Description" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Todo_TodoType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Status" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Initiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ToDo_Responsible" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

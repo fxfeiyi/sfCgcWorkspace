@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoTourOverview">
+        <Label id="AsoTourOverview_Template" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoTourOverview_Id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoTourOverview_DateFrom" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoTourOverview_WarehouseId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoTourOverview_Warehouse" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoTourOverview_TmgStatus" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTruckLoadWizardAddProduct">
+        <Label id="CasSdoFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

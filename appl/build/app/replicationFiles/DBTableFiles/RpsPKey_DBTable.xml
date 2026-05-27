@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DBSchema>
+  <EnvironmentSettings>
+    <Setting Name="GenerationDate" Value="2026-05-26 23:22:09"/>
+    <Setting Name="FileName" Value="/Repository/TB/RpsPKey.dbtable.xml"/>
+    <Setting Name="ModelerVersion" Value=""/>
+    <Setting Name="ModelerHotfix" Value=""/>
+    <Setting Name="ProjectUId" Value=""/>
+    <Setting Name="Client" Value="010"/>
+    <Setting Name="GeneratorVersion" Value="CW12.0"/>
+    <Setting Name="ApplicationName" Value="CAS"/>
+    <Setting Name="ApplicationVersion" Value="12.0"/>
+    <Setting Name="User" Value="modeler_user"/>
+    <Setting Name="ProjectNo" Value=""/>
+    <Setting Name="OERVersion" Value=""/>
+  </EnvironmentSettings>
+  <tables>
+    <DBTable name="RpsPKey" namespace="core" schemaVersion="1.0">
+      <columns>
+        <column name="PKey" defaultValue="" nullable="false" domain="DomPKey" migrationDefault=" " dataType="TEXT" size="34"/>
+        <column name="UserLu" defaultValue="" nullable="true" domain="DomSysLu" migrationDefault=" " dataType="TEXT" size="4"/>
+        <column name="NextSystemGenerationCounter" defaultValue="" nullable="false" domain="DomNextSystemGenerationCounter" migrationDefault=" " dataType="TEXT" size="12"/>
+        <column name="SystemInitializationCounter" defaultValue="" nullable="false" domain="DomSystemInitializationCounter" migrationDefault=" " dataType="TEXT" size="1"/>
+        <column name="RplLU" defaultValue="' '" nullable="false" domain="DomLU" migrationDefault="' '" dataType="TEXT"/>
+      </columns>
+      <indexes>
+        <index name="RpsPKey_UK_RpsPKey" unique="1">
+          <column name="PKey"/>
+        </index>
+      </indexes>
+    </DBTable>
+  </tables>
+</DBSchema>

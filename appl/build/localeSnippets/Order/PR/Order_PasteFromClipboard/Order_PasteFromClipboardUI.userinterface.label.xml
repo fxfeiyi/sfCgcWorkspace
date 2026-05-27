@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderPasteFromClipboardUI">
+        <Label id="ReloadId" text="Reload" translationStatus="1"/>
+        <Label id="DoneId" text="Done" translationStatus="1"/>
+        <Label id="PasteFromClipboardId" text="Paste from Clipboard" translationStatus="1"/>
+        <Label id="ProductNumberLabelId" text="Product No" translationStatus="1"/>
+        <Label id="QuantityLabelId" text="Qty" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

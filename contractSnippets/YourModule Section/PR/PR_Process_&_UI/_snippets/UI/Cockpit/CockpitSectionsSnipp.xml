@@ -1,0 +1,7 @@
+<CockpitSections name="${#name#}">
+	<CockpitSection name="${#sectionName#}" sectionPattern="3columns" showSeparator="true">
+		<Bindings>
+			<Binding target="col1row1" type="ItemIdentifier" binding="${#binding#}"/>
+		</Bindings>
+	</CockpitSection>
+</CockpitSections>

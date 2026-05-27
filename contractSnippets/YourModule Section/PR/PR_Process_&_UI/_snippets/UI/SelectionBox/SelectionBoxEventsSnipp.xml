@@ -1,0 +1,4 @@
+<Events>
+	<SelectionChangedEvent event="${#event#}"/>
+	<ItemSelectedEvent event="${#event1#}"/>
+</Events>

@@ -1,0 +1,8 @@
+<LongPressMenu name="${#name#}" dataSource="${#dataSource#}">
+	<Items>
+		<Bindings>
+			<Binding target="Icon" type="Image" binding="${#bindingImage#}" />
+			<Binding target="Text" type="Label" binding="${#bindingLabel#}" />
+		</Bindings>
+	</Items>
+</LongPressMenu>

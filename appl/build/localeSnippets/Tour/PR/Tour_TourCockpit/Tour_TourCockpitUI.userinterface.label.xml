@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourTourCockpitUI">
+        <Label id="EndTourLink" text="End Tour" translationStatus="1"/>
+        <Label id="VisitsId" text="Visits" translationStatus="1"/>
+        <Label id="DocumentId" text="Delivery Documents" translationStatus="1"/>
+        <Label id="CardTourWelcome_MessageText" text="Have a great day." translationStatus="1"/>
+        <Label id="TodayLabel" text="Today" translationStatus="1"/>
+        <Label id="TourWelcomeCardTitle" text="Summary" translationStatus="1"/>
+        <Label id="StartTourLink" text="Start Tour" translationStatus="1"/>
+        <Label id="TourDetailsLink" text="View Tour" translationStatus="1"/>
+        <Label id="TourSummaryCardTitle" text="Tour Details" translationStatus="1"/>
+        <Label id="CardTourStartTitle" text="Start Tour Activities" translationStatus="1"/>
+        <Label id="CardTourVisits_NoDataMessageMainText" text="Looks free and clear!" translationStatus="1"/>
+        <Label id="CardTourVisits_NoDataMessageSubText" text="You don't have any visits scheduled." translationStatus="1"/>
+        <Label id="ViewVisitsLinkInTourCockpit" text="View Visits" translationStatus="1"/>
+        <Label id="CardTourVisitsTitle" text="Your Visits" translationStatus="1"/>
+        <Label id="CardTourEndTitle" text="End Tour Activities" translationStatus="1"/>
+        <Label id="CardTourMessage_NoDataMessageSubText" text="No message available for this tour!" translationStatus="1"/>
+        <Label id="CardTourMessageTitle" text="Tour Message" translationStatus="1"/>
+        <Label id="NavigateToId" text="Navigate To Map" translationStatus="1"/>
+        <Label id="CardTourVisitsGuidanceTitle" text="Next Visit Guidance" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

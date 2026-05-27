@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoContactPartnerOverview">
+        <Label id="ContactPartner_FirstName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ContactPartner_LastName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ContactPartner_Street" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ContactPartner_ZIP" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ContactPartner_City" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ContactPartner_State" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

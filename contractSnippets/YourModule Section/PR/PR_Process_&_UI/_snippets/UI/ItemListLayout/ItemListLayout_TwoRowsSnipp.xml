@@ -1,0 +1,8 @@
+<ItemListLayout>
+	<Default>
+		<Col>
+			<Row layoutType="itemIdentifier" bindingId="${#Row1#}" />
+			<Row layoutType="itemSecondary" bindingId="${#Row2#}" />
+		</Col>
+	</Default>
+</ItemListLayout>

@@ -1,0 +1,1 @@
+<Condition leftSideValue="${#leftSideValue#}" comparator="${#comparator#}" rightSideType="Literal" rightSideValue="${#rightSideValue#}" />

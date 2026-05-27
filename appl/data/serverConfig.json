@@ -1,0 +1,32 @@
+{
+    "port": 3000,
+    "mountpoints": [
+        {
+            "path": "/www",
+            "location": "/[OPTIONAL_INSERT_LOCAL_PATH_TO_SENCHA_FRAMEWORK_HERE]"
+        },
+        {
+            "path": "/framework",
+            "location": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/framework"
+        },
+        {
+            "path": "/framework/Attachments",
+            "location": "./Attachments"
+        },
+        {
+            "path": "/framework/themeImages",
+            "location": "./ThemeImages"
+        },
+        {
+            "path": "/framework/app",
+            "location": "/Users/peixiaofeng/git-str/sfCgcWorkspace/appl/build/app"
+        },
+        {
+            "path": "/framework/configuration.json",
+            "location": "/Users/peixiaofeng/git-str/sfCgcWorkspace/appl/data/appConfig.json"
+        }
+    ],
+    "database": "app.db3",
+    "referenceImage": "",
+    "referenceImagePath": ""
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global>
+      <Label id="Ok" text="Ok" translationStatus="1"/>
+    </Global>
+    <NavigationLabels/>
+    <ConfirmationMessages>
+      <Process id="Product.ScanProductProcess">
+        <Label id="NoProductsMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="NoProductsMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="NoFieldState" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="NoFieldState" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ForeignProductMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ForeignProductMsg" text="AUTO-GENERATED" translationStatus="1"/>
+      </Process>
+    </ConfirmationMessages>
+  </Translations>
+</Locale>

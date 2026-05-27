@@ -1,0 +1,3 @@
+<VisibilityRoles allRoles="false" >
+	<Role name="${#name#}"/>
+</VisibilityRoles>

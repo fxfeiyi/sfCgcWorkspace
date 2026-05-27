@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="VisitRetailStoreCockpitUI">
+        <Label id="startVisitButton" text="Start Visit" translationStatus="1"/>
+        <Label id="endVisitButton" text="End Visit" translationStatus="1"/>
+        <Label id="StoreCockpitId" text="Store Cockpit" translationStatus="1"/>
+        <Label id="CustomerDataLabelId" text="Customer Data" translationStatus="1"/>
+        <Label id="ShowDetailsLink" text="Show Details" translationStatus="1"/>
+        <Label id="ShowEmailLink" text="Send Email" translationStatus="1"/>
+        <Label id="HeaderCardTitle" text="Customer Details3" translationStatus="1"/>
+        <Label id="visitStatus" text="Status" translationStatus="1"/>
+        <Label id="visitPriority" text="Priority" translationStatus="1"/>
+        <Label id="visitDate" text="Visit Date" translationStatus="1"/>
+        <Label id="plannedTime" text="Planned Time" translationStatus="1"/>
+        <Label id="actualTime" text="Actual Time" translationStatus="1"/>
+        <Label id="duration" text="Duration Effective" translationStatus="1"/>
+        <Label id="EditLink" text="Edit" translationStatus="1"/>
+        <Label id="VisitCardTitle" text="Visit Details" translationStatus="1"/>
+        <Label id="VisitTasksTitle" text="Tasks" translationStatus="1"/>
+        <Label id="RetailStoreCockpit_CardOrderHistory_NoDataMessageMainText" text="No orders for this customer," translationStatus="1"/>
+        <Label id="RetailStoreCockpit_CardOrderHistory_NoDataMessageSubText" text="why don’t you create one." translationStatus="1"/>
+        <Label id="CreateNewOrderId" text="Create New Order" translationStatus="1"/>
+        <Label id="AllOrdersLink" text="All Orders" translationStatus="1"/>
+        <Label id="OrderHistoryCardTitle" text="Order History" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

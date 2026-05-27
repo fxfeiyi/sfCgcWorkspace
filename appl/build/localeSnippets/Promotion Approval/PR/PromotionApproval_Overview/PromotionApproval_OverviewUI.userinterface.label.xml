@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="PromotionApprovalOverviewUI">
+        <Label id="sortByDateId" text="By Date" translationStatus="1"/>
+        <Label id="sortByAnchorId" text="By Anchor" translationStatus="1"/>
+        <Label id="TitleId" text="Approve Promotions" translationStatus="1"/>
+        <Label id="noId" text=" - " translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="KPIId" text="KPIs" translationStatus="1"/>
+        <Label id="ProductId" text="Products" translationStatus="1"/>
+        <Label id="TacticId" text="Tactics" translationStatus="1"/>
+        <Label id="approvePromotionId" text="Approve" translationStatus="1"/>
+        <Label id="rejectPromotionId" text="Reject" translationStatus="1"/>
+        <Label id="forApprovalPromotionId" text="For Approval" translationStatus="1"/>
+        <Label id="PromotionId" text="Id" translationStatus="1"/>
+        <Label id="PromotionSlogan" text="Name" translationStatus="1"/>
+        <Label id="CustomerName" text="Customer" translationStatus="1"/>
+        <Label id="PromotionType" text="Promotion Type" translationStatus="1"/>
+        <Label id="ReferenceDate" text="Reference Date" translationStatus="1"/>
+        <Label id="StartDate" text="Start Date" translationStatus="1"/>
+        <Label id="EndDate" text="End Date" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="PhaseId" text="Phase" translationStatus="1"/>
+        <Label id="StateId" text="State" translationStatus="1"/>
+        <Label id="OwnerUserId" text="Owner" translationStatus="1"/>
+        <Label id="ResponsibleUserId" text="Responsible" translationStatus="1"/>
+        <Label id="StatusTitleId" text="Status" translationStatus="1"/>
+        <Label id="TextLabelId" text="Measure" translationStatus="1"/>
+        <Label id="TypeLabelId" text="Type" translationStatus="1"/>
+        <Label id="TotalLabelId" text="Total" translationStatus="1"/>
+        <Label id="AnnotationId" text="Annotation" translationStatus="1"/>
+        <Label id="QuantityLabel" text="Quantity" translationStatus="1"/>
+        <Label id="DiscountLabel" text="Discount" translationStatus="1"/>
+        <Label id="PromotedPriceLabel" text="Promoted Price" translationStatus="1"/>
+        <Label id="ProductNameLabel" text="Product Name" translationStatus="1"/>
+        <Label id="TacticNameLabel" text="Tactic Type" translationStatus="1"/>
+        <Label id="DateLabel" text="Date" translationStatus="1"/>
+        <Label id="AmountLabel" text="Amount" translationStatus="1"/>
+        <Label id="DateFromLabel" text="Date From" translationStatus="1"/>
+        <Label id="DateThruLabel" text="Thru" translationStatus="1"/>
+        <Label id="CompensationMetaTextLabel" text="Compensation" translationStatus="1"/>
+        <Label id="blankId" text="  " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

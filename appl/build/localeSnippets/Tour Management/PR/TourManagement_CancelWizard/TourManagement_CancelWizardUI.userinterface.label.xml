@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourManagementCancelWizardUI">
+        <Label id="doneId" text="Done" translationStatus="1"/>
+        <Label id="CancelTourId" text="Cancel Tour" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason" translationStatus="1"/>
+        <Label id="CancelTourNote" text="Note" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

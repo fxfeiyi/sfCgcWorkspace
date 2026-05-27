@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoAssignNewPOSWizard">
+        <Label id="CasBoAssignNewPOSWizardMessagesNameMustNotBeEmpty" text="Please enter a name for the POS." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

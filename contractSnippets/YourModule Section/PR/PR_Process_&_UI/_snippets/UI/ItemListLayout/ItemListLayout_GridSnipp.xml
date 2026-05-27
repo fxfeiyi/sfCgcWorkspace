@@ -1,0 +1,10 @@
+<ItemListLayout>
+	<Default>
+		<Header>
+			<Col bindingId="${#Col1Label#}" align="left" />
+			<Col bindingId="${#Col2Label#}" align="left" />
+		</Header>
+		<Col width="6em" layoutType="itemValueVerySmall" bindingId="${#Col1#}" />
+		<Col width="6em" layoutType="itemValueVerySmall" bindingId="${#Col2#}" />
+	</Default>
+</ItemListLayout>

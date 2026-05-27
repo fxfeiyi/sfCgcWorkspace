@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallPromotionReview">
+        <Label id="infoId" text="Info" translationStatus="1"/>
+        <Label id="ProductsId" text="Products" translationStatus="1"/>
+        <Label id="AttachmentsId" text="Attachments" translationStatus="1"/>
+        <Label id="ActivitiesId" text="Activities" translationStatus="1"/>
+        <Label id="SalesFoldersId" text="Sales Folder" translationStatus="1"/>
+        <Label id="Slogan" text="Slogan" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+        <Label id="DateFrom" text="From" translationStatus="1"/>
+        <Label id="DateThru" text="Thru" translationStatus="1"/>
+        <Label id="ValidFromThruId" text="Valid From / Thru" translationStatus="1"/>
+        <Label id="OrderDateFrom" text="Order from" translationStatus="1"/>
+        <Label id="OrderDateThru" text="Order thru" translationStatus="1"/>
+        <Label id="OrderDate" text="Order Date" translationStatus="1"/>
+        <Label id="PlacementDateFrom" text="In Store from" translationStatus="1"/>
+        <Label id="PlacementDateThru" text="In Store thru" translationStatus="1"/>
+        <Label id="InStoreId" text="In Store" translationStatus="1"/>
+        <Label id="Anchor" text="Anchor" translationStatus="1"/>
+        <Label id="PromoInfoTitle" text="Promo Info" translationStatus="1"/>
+        <Label id="AnnotationTitle" text="Annotations" translationStatus="1"/>
+        <Label id="QuantityLabel" text="Quantity" translationStatus="1"/>
+        <Label id="DiscountLabel" text="Discount" translationStatus="1"/>
+        <Label id="SpecialPriceLabel" text="Price" translationStatus="1"/>
+        <Label id="separatorMinus" text=" - " translationStatus="1"/>
+        <Label id="ActivityTemplateId" text="Activity Template" translationStatus="1"/>
+        <Label id="CallTemplateId" text="Call Template" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallAgendaWeeklyViewUI">
+        <Label id="createNewCallId" text="Create Call" translationStatus="1"/>
+        <Label id="createNewCallsViaJobListsId" text="Plan Job Lists" translationStatus="1"/>
+        <Label id="createNewCallsViaManagedCustomersId" text="Plan Customers" translationStatus="1"/>
+        <Label id="automaticCallPlanningId" text="Automatic planning" translationStatus="1"/>
+        <Label id="CreateTripListId" text="Create Trip List" translationStatus="1"/>
+        <Label id="UpdateTripListId" text="Update Trip List" translationStatus="1"/>
+        <Label id="DeleteTripListId" text="Delete Trip List" translationStatus="1"/>
+        <Label id="createNewCallsViaTripListId" text="Create Calls Via TripList" translationStatus="1"/>
+        <Label id="AgendaSetFilterAllId" text="All visits" translationStatus="1"/>
+        <Label id="OnlyAgendaSetFilterPlannedId" text="Only Planned visits" translationStatus="1"/>
+        <Label id="AgendaChangeCallPlanningTemplate" text="Set default call type" translationStatus="1"/>
+        <Label id="AgendaChooseUser" text="Choose User" translationStatus="1"/>
+        <Label id="scanCustomerId" text="Scan Customer" translationStatus="1"/>
+        <Label id="CallCalendarDailyView" text="Daily view" translationStatus="1"/>
+        <Label id="CallCalendarTourView" text="Tour view" translationStatus="1"/>
+        <Label id="AgendaSetDateId" text="Set Date" translationStatus="1"/>
+        <Label id="OpenJobListListSidebarTitle" text="Job Lists" translationStatus="1"/>
+        <Label id="ManagedCustomersListSidebarTitle" text="Customers" translationStatus="1"/>
+        <Label id="TripListListSidebarTitle" text="TripLists" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

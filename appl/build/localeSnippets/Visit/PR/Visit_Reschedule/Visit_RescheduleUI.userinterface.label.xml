@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="VisitRescheduleUI">
+        <Label id="rescheduleVisitId" text="Done" translationStatus="1"/>
+        <Label id="VisitRescheduleId" text="Reschedule" translationStatus="1"/>
+        <Label id="VisitStartDate" text="Visit Start Date/Time" translationStatus="1"/>
+        <Label id="VisitEndDate" text="Visit End Date/Time" translationStatus="1"/>
+        <Label id="Duration" text="Duration" translationStatus="1"/>
+        <Label id="VisitInformation" text=" " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

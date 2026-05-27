@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderOverviewCallDeliveryUI">
+        <Label id="createNewDeliveryId" text="New" translationStatus="1"/>
+        <Label id="showAllDeliverysId" text="All Documents" translationStatus="1"/>
+        <Label id="OnlyshowOpenOrdersId" text="Only Open" translationStatus="1"/>
+        <Label id="orderDateId" text="Order Date" translationStatus="1"/>
+        <Label id="deliveryDateId" text="Delivery Date" translationStatus="1"/>
+        <Label id="emptyLabelId" text="      " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

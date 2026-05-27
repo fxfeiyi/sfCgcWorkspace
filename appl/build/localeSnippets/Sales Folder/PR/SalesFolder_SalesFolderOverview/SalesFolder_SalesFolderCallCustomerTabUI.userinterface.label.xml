@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="SalesFolderSalesFolderCallCustomerTabUI">
+        <Label id="ByCustomerId" text="By Customer" translationStatus="1"/>
+        <Label id="ByTypeId" text="By Type" translationStatus="1"/>
+        <Label id="DateFromId" text="Date From" translationStatus="1"/>
+        <Label id="DateThruId" text="Date Thru" translationStatus="1"/>
+        <Label id="LastUpdateId" text="Last Update" translationStatus="1"/>
+        <Label id="TypeId" text="Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

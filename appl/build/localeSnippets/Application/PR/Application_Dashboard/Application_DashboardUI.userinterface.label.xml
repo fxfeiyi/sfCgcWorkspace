@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ApplicationDashboardUI">
+        <Label id="DashboardTitle" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="welcome" text="Welcome" translationStatus="1"/>
+        <Label id="advancedCockpitLabelId" text="Advanced Your Day" translationStatus="1"/>
+        <Label id="cockpitLabelId" text="Your Day" translationStatus="1"/>
+        <Label id="agendaOverviewLabelId" text="Agenda" translationStatus="1"/>
+        <Label id="customerOverviewLabelId" text="Customer" translationStatus="1"/>
+        <Label id="productOverviewLabelId" text="Product" translationStatus="1"/>
+        <Label id="orderOverviewLabelId" text="Order" translationStatus="1"/>
+        <Label id="SalesFolderId" text="Sales Folder" translationStatus="1"/>
+        <Label id="dailyReportOverviewLabelId" text="Time Card" translationStatus="1"/>
+        <Label id="ReportingLabelId" text="Reports" translationStatus="1"/>
+        <Label id="NotificationsLabelId" text="Notifications" translationStatus="1"/>
+        <Label id="customerContractsOverviewLabelId" text="Contracts" translationStatus="1"/>
+        <Label id="PaymentsLabelId" text="Payments" translationStatus="1"/>
+        <Label id="TodoLabelId" text="Todo" translationStatus="1"/>
+        <Label id="IssueLabelId" text="Customer Tasks234" translationStatus="1"/>
+        <Label id="PersonalSettingsLabelId" text="My Settings" translationStatus="1"/>
+        <Label id="AboutLabelId" text="About" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

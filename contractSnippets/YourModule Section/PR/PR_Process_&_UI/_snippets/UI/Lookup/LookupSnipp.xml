@@ -1,0 +1,6 @@
+<Lookup name="${#name#}">
+	<Bindings>
+		<Resource target="Label" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+		<Binding target="Value" binding="${#binding#}" bindingMode="ONE_WAY" />
+	</Bindings>
+</Lookup>

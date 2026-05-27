@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TruckLoadCreateNewFlyoutUI">
+        <Label id="createNewCheckOutId" text="Create" translationStatus="1"/>
+        <Label id="CreateNew" text="New Document" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+        <Label id="WarehouseId" text="Warehouse" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

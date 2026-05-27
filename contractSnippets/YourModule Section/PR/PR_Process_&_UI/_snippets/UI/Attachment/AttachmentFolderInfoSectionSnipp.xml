@@ -1,0 +1,6 @@
+<AttachmentFolderInfoSection name="${#section#}" backendSystem="${#backendSystem#}">
+	<Bindings>
+		<Resource id="${#id#}" target="InfoIcon" type="Image" />
+	</Bindings>
+	<AttachmentFolderInfoSectionAttribute name="${#name#}" mappedTarget="${#mappedTarget#}"/>
+</AttachmentFolderInfoSection>

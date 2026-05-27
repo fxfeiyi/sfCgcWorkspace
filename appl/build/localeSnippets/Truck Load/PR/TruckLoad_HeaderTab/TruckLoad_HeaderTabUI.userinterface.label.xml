@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TruckLoadHeaderTabUI">
+        <Label id="TruckHeaderTabId" text="Inventory" translationStatus="1"/>
+        <Label id="release" text="Release" translationStatus="1"/>
+        <Label id="Approve" text="Approve" translationStatus="1"/>
+        <Label id="Reject" text="Reject" translationStatus="1"/>
+        <Label id="Confirm" text="Confirm" translationStatus="1"/>
+        <Label id="reviewRelease" text="Release Info" translationStatus="1"/>
+        <Label id="IdId" text="Id" translationStatus="1"/>
+        <Label id="TypeId" text="Type" translationStatus="1"/>
+        <Label id="CommitDateId" text="Date" translationStatus="1"/>
+        <Label id="TourId" text="Tour" translationStatus="1"/>
+        <Label id="WarehouseId" text="Warehouse" translationStatus="1"/>
+        <Label id="DriverId" text="Sender" translationStatus="1"/>
+        <Label id="RecipientDriverId" text="Recipient" translationStatus="1"/>
+        <Label id="ReasonCodeStartId" text="Reason Code" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="CurrencyId" text="Currency" translationStatus="1"/>
+        <Label id="BookInventory" text="Book Inventory" translationStatus="1"/>
+        <Label id="ActualValue" text="Actual Value" translationStatus="1"/>
+        <Label id="Difference" text="Difference" translationStatus="1"/>
+        <Label id="ValueId" text="Total Value" translationStatus="1"/>
+        <Label id="QuantitySumsTitle" text="Totals" translationStatus="1"/>
+        <Label id="UnitLabel" text="Unit" translationStatus="1"/>
+        <Label id="QuantityLable" text="a.Qty" translationStatus="1"/>
+        <Label id="TargetQuantityLable" text="o.Qty" translationStatus="1"/>
+        <Label id="DifferenceLabel" text="Diff." translationStatus="1"/>
+        <Label id="ItemMetaTextLabel" text="Type" translationStatus="1"/>
+        <Label id="Phase" text="Phase" translationStatus="1"/>
+        <Label id="OwnerId" text="Owner" translationStatus="1"/>
+        <Label id="ResponsibleId" text="Responsible" translationStatus="1"/>
+        <Label id="StatusId" text="Status" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

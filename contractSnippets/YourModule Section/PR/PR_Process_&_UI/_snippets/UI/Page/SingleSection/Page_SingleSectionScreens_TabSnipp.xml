@@ -1,0 +1,39 @@
+<Page pagePattern="SingleSectionPage" navigation="Off">
+	<ViewVariables>
+		<ViewVariable name="currentTabName" value="Tab1" />
+	</ViewVariables>
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+	</PageHeader>
+	<Section sectionName="masterSection" sectionPattern="TabbedViewAreaSection" currentTab="View::currentTabName">
+		<Area areaName="tabArea" areaPattern="TabElementArea">
+			<TabSelector name="TabSelector">
+				<Items>
+					<Tab tabName="Tab1" backendSystem="${#backendSystem#}">
+						<Bindings>
+							<Resource target="image" type="Image" id="${#id1#}" bindingMode="ONE_TIME" />
+							<Resource target="text" type="Label" id="${#id2#}Id" defaultLabel="${#defaultLabel1#}" bindingMode="ONE_TIME" />
+						</Bindings>
+					</Tab>
+					<Tab tabName="Tab2" backendSystem="${#backendSystem1#}">
+						<Bindings>
+							<Resource target="image" type="Image" id="${#id3#}" bindingMode="ONE_TIME" />
+							<Resource target="text" type="Label" id="${#id4#}Id" defaultLabel="${#defaultLabel2#}" bindingMode="ONE_TIME" />
+						</Bindings>
+					</Tab>
+				</Items>
+				<Events>
+					<ItemSelectedEvent event="tabSelected" storeTabNameIn="currentTabName" />
+				</Events>
+			</TabSelector>
+		</Area>
+		<Area areaName="Tab1" areaPattern="SingleElementArea">
+			
+		</Area>
+		<Area areaName="Tab2" areaPattern="SingleElementArea">
+			
+		</Area>
+	</Section>
+</Page>

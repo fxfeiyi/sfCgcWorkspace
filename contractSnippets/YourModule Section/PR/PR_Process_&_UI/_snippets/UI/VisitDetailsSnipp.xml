@@ -1,0 +1,21 @@
+<VisitDetails name="${#componentName#}"> 
+	<Bindings> 
+		<!-- mandatory bindings --> 
+		<Binding target="visitStatus" type="Text" binding="${#visitStatus#}" bindingMode="ONE_WAY" /> 
+		<Binding target="visitPriority" type="Text" binding="${#visitPriority#}" bindingMode="ONE_WAY" /> 
+		<Binding target="visitDate" type="DomDate" binding="${#visitDate#}" bindingMode="ONE_WAY" /> 
+		<Binding target="plannedStartTime" type="DomTime" binding="${#plannedStartTime#}" bindingMode="ONE_WAY" /> 
+		<Binding target="plannedEndTime" type="DomTime" binding="${#plannedEndTime#}" bindingMode="ONE_WAY" /> 
+		<Binding target="actualStartDate" type="DomDate" binding="${#actualStartDate#}" bindingMode="ONE_WAY" /> 
+		<Binding target="actualStartTime" type="DomTime" binding="${#actualStartTime#}" bindingMode="ONE_WAY" /> 
+		<Binding target="actualEndDate" type="DomDate" binding="${#actualEndDate#}" bindingMode="ONE_WAY" /> 
+		<Binding target="actualEndTime" type="DomTime" binding="${#actualEndTime#}" bindingMode="ONE_WAY" /> 
+		<Binding target="Duration" type="Text" binding="${#Duration#}" bindingMode="ONE_WAY" /> 
+		<Resource target="visitStatusLabel" type="Label" id="${#visitStatusLabel#}" defaultLabel="Status" /> 
+		<Resource target="visitPriorityLabel" type="Label" id="${#visitPriorityLabel#}" defaultLabel="Priority" /> 
+		<Resource target="visitDateLabel" type="Label" id="${#visitDateLabel#}" defaultLabel="Visit Date" /> 
+		<Resource target="plannedTimeLabel" type="Label" id="${#plannedTimeLabel#}" defaultLabel="Planned Time" /> 
+		<Resource target="actualTimeLabel" type="Label" id="${#actualTimeLabel#}" defaultLabel="Actual Time" /> 
+		<Resource target="durationLabel" type="Label" id="${#durationLabel#}" defaultLabel="Duration Effective" /> 
+	</Bindings> 
+</VisitDetails>

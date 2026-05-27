@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="DailyReportDailyReportUI">
+        <Label id="CreateDailyReport" text="Add" translationStatus="1"/>
+        <Label id="ApproveAll" text="Approve All" translationStatus="1"/>
+        <Label id="UserDailyReportTitleId" text="Time Card" translationStatus="1"/>
+        <Label id="HoursLabel" text=" h " translationStatus="1"/>
+        <Label id="MinutesLabel" text=" min " translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="RecipientsId" text="Time Entries" translationStatus="1"/>
+        <Label id="UpdateDailyReport" text="Update" translationStatus="1"/>
+        <Label id="ReleaseDailyReport" text="Release" translationStatus="1"/>
+        <Label id="RejectDailyReport" text="Reject" translationStatus="1"/>
+        <Label id="ApproveDailyReport" text="Approve" translationStatus="1"/>
+        <Label id="Id" text="Id" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+        <Label id="TourID" text="TourID" translationStatus="1"/>
+        <Label id="Date" text="Date" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time From" translationStatus="1"/>
+        <Label id="TimeThru" text="Time Thru" translationStatus="1"/>
+        <Label id="TimeFromThruId" text="Time From / Thru" translationStatus="1"/>
+        <Label id="IdentificationTitle" text="Identification" translationStatus="1"/>
+        <Label id="Phase" text="Phase" translationStatus="1"/>
+        <Label id="Owner" text="Owner" translationStatus="1"/>
+        <Label id="Responsible" text="Responsible" translationStatus="1"/>
+        <Label id="StatusTitle" text="Status" translationStatus="1"/>
+        <Label id="ActivitiesTitle" text="Activities" translationStatus="1"/>
+        <Label id="VisitTypeLabel" text="Visit Type" translationStatus="1"/>
+        <Label id="DurationLabelItem" text="Duration" translationStatus="1"/>
+        <Label id="HoursLabelItem" text="Hours" translationStatus="1"/>
+        <Label id="MinutesLabelItem" text="Minutes" translationStatus="1"/>
+        <Label id="Hours" text="Hours / Minutes" translationStatus="1"/>
+        <Label id="TotalActivityDuration" text="Total Activity Duration" translationStatus="1"/>
+        <Label id="TotalDurationId" text="Total Duration" translationStatus="1"/>
+        <Label id="ProdTimeId" text="Productive Time" translationStatus="1"/>
+        <Label id="NonProdTimeId" text="Non-Productive Time" translationStatus="1"/>
+        <Label id="TotalWorkingTimeId" text="Total Working Time" translationStatus="1"/>
+        <Label id="DurationsTitleId" text="Durations" translationStatus="1"/>
+        <Label id="Spacer1" text="  " translationStatus="1"/>
+        <Label id="Spacer2" text="  " translationStatus="1"/>
+        <Label id="CommentId" text="Comment" translationStatus="1"/>
+        <Label id="NewTimeEntryBtnId" text="New Entry" translationStatus="1"/>
+        <Label id="TimeEntriesTitle" text="Time Entries" translationStatus="1"/>
+        <Label id="DescriptionLabel" text="Description" translationStatus="1"/>
+        <Label id="TypeLabel" text="Type" translationStatus="1"/>
+        <Label id="StartLabel" text="Start" translationStatus="1"/>
+        <Label id="EndLabel" text="End" translationStatus="1"/>
+        <Label id="FromThruLabel" text="Time" translationStatus="1"/>
+        <Label id="DurationTimeLabel" text="min" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

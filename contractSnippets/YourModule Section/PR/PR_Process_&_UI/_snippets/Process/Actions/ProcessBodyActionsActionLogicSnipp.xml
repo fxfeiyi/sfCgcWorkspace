@@ -1,0 +1,7 @@
+<Action name="${#ActionName#}" actionType="LOGIC" call="${#call#}">
+	<Parameters>
+		<Input name="${#InputName#}" value="${#Value#}" type="${#InputType#}" />
+	</Parameters>
+	<Return name="${#ReturnName#}" />
+	<TransitionTo action="${#TransitionToAction#}"/>
+</Action>

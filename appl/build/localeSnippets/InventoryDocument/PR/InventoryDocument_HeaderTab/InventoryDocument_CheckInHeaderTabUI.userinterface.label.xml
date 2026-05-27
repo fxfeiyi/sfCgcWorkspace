@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="InventoryDocumentCheckInHeaderTabUI">
+        <Label id="releaseOrder" text="Release" translationStatus="1"/>
+        <Label id="reviewRelease" text="Release Info" translationStatus="1"/>
+        <Label id="checkinDocumentTypeLabelId" text="Document Type" translationStatus="1"/>
+        <Label id="dateLabelId" text="Created Date" translationStatus="1"/>
+        <Label id="endWarehouseLabelId" text="Warehouse" translationStatus="1"/>
+        <Label id="checkinDetailsLabelId" text="Check-in Details" translationStatus="1"/>
+        <Label id="actualAmountLabelId" text="Actual Return" translationStatus="1"/>
+        <Label id="currencyLabel" text="Currency" translationStatus="1"/>
+        <Label id="valueSummaryDetailsLabelId" text="Inventory Value Details" translationStatus="1"/>
+        <Label id="typeLabelId" text="Type" translationStatus="1"/>
+        <Label id="expectedLabelId" text="Expected Return Qty" translationStatus="1"/>
+        <Label id="actualLabelId" text="Actual Return Qty" translationStatus="1"/>
+        <Label id="lovLabelId" text="LoV Qty" translationStatus="1"/>
+        <Label id="differenceLabelId" text="Qty Difference" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

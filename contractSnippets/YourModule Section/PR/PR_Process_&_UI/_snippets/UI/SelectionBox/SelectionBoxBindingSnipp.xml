@@ -1,0 +1,13 @@
+<SelectionBox name="${#name#}">
+	<Bindings>
+		<Resource target="Label" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+		<Binding target="DataSource" binding="${#binding1#}" bindingMode="TWO_WAY" />
+		<Binding target="Value" binding="${#binding#}" bindingMode="TWO_WAY" />
+	</Bindings>
+	<Items>
+		<Bindings>
+			<Binding target="ItemValue" type="Text" binding=".id" bindingMode="ONE_WAY" />
+			<Binding target="ItemText" type="Text" binding=".text" bindingMode="ONE_WAY" />
+		</Bindings>
+	</Items>
+</SelectionBox>

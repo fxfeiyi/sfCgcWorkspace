@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="SystemReleaseHandlerUI">
+        <Label id="release" text="Release" translationStatus="1"/>
+        <Label id="signatureName1Id" text="Name" translationStatus="1"/>
+        <Label id="signatureId1Id" text="Id" translationStatus="1"/>
+        <Label id="signatureCode1Id" text="Code" translationStatus="1"/>
+        <Label id="signatureName2Id" text="Name" translationStatus="1"/>
+        <Label id="signatureId2Id" text="Id" translationStatus="1"/>
+        <Label id="signatureCode2Id" text="Code" translationStatus="1"/>
+        <Label id="signatureName3Id" text="Name" translationStatus="1"/>
+        <Label id="signatureId3Id" text="Id" translationStatus="1"/>
+        <Label id="signatureCode3Id" text="Code" translationStatus="1"/>
+        <Label id="signatureName4Id" text="Name" translationStatus="1"/>
+        <Label id="signatureId4Id" text="Id" translationStatus="1"/>
+        <Label id="signatureCode4Id" text="Code" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

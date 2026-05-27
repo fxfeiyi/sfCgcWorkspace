@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoInventoryDocument">
+        <Label id="ModificationReasonRequired" text="Select a reason type for the highlighted checkout item." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

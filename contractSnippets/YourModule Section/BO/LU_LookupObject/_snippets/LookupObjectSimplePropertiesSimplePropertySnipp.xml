@@ -1,0 +1,1 @@
+<SimpleProperty name="${#Name#}" type="${#Domain#}" dataSourceProperty="${#DataSourceProperty#}" />

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="VisitCalendarDailyViewUI">
+        <Label id="AgendaMapShowId" text="Show Map" translationStatus="1"/>
+        <Label id="AgendaMapHideId" text="Hide Map" translationStatus="1"/>
+        <Label id="CallCalendarWeeklyView" text="Weekly view" translationStatus="1"/>
+        <Label id="AgendaSetFilterAllId" text="All visits" translationStatus="1"/>
+        <Label id="OnlyAgendaSetFilterPlannedId" text="Only open visits" translationStatus="1"/>
+        <Label id="VisitsId" text="Visits" translationStatus="1"/>
+        <Label id="Spacer" text="  " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

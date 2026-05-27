@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoDailyReport">
+        <Label id="DailyReport_Type" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="DailyReport_Phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="DailyReport_Date" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="DailyReport_User" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="DailyReport_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

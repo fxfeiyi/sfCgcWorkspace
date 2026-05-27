@@ -1,0 +1,5 @@
+<GroupElement name="${#name#}">
+	<Bindings>
+			<Resource target="Title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+	</Bindings>
+</GroupElement>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global>
+      <Label id="Yes" text="Yes" translationStatus="1"/>
+      <Label id="No" text="No" translationStatus="1"/>
+    </Global>
+    <NavigationLabels/>
+    <ConfirmationMessages>
+      <Process id="DailyReport.TimeCardDetailProcess">
+        <Label id="CasConfirmTimeEntryDeletionMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmTimeEntryDeletionMsg" text="AUTO-GENERATED" translationStatus="1"/>
+      </Process>
+    </ConfirmationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ProductOverviewUI">
+        <Label id="ProductTitleId" text="Products" translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="GTINLabel" text="GTIN:" translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="LogisticsId" text="Logistics" translationStatus="1"/>
+        <Label id="BoMId" text="BoM" translationStatus="1"/>
+        <Label id="AttachmentsId" text="Attachments" translationStatus="1"/>
+        <Label id="DescriptionId" text="Description" translationStatus="1"/>
+        <Label id="ProductNumberId" text="Product Number" translationStatus="1"/>
+        <Label id="ShortIdId" text="Short Id" translationStatus="1"/>
+        <Label id="GTINId" text="GTIN" translationStatus="1"/>
+        <Label id="BasePriceId" text="Base Price" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="ImageId" text="Image" translationStatus="1"/>
+        <Label id="ProductTypeId" text="Product Type" translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="TaxClassificationId" text="Tax Classification" translationStatus="1"/>
+        <Label id="ReadId" text="Competitor" translationStatus="1"/>
+        <Label id="ClassificationId" text="Classification" translationStatus="1"/>
+        <Label id="HierarchyId" text="Hierarchy" translationStatus="1"/>
+        <Label id="DescriptionTextLabel" text="Description" translationStatus="1"/>
+        <Label id="ProductGroupLevelLabel" text="Product Group Level" translationStatus="1"/>
+        <Label id="StatusListId" text="Status" translationStatus="1"/>
+        <Label id="StateTypeLabel" text="State Type" translationStatus="1"/>
+        <Label id="StateLabel" text="Status" translationStatus="1"/>
+        <Label id="DateLabel" text="Date" translationStatus="1"/>
+        <Label id="PiecesPerParentUnitLabel" text="No." translationStatus="1"/>
+        <Label id="UnitTypeGTINLabel" text="Unit/GTIN" translationStatus="1"/>
+        <Label id="CndCpWeightLabel" text="Weight" translationStatus="1"/>
+        <Label id="ProductNumberGTINLabel" text="Number/GTIN" translationStatus="1"/>
+        <Label id="Text1Label" text="Description" translationStatus="1"/>
+        <Label id="ProductTypeLabel" text="Type" translationStatus="1"/>
+        <Label id="QtyLabel" text="Qty" translationStatus="1"/>
+        <Label id="FromLabel" text="From" translationStatus="1"/>
+        <Label id="ThruLabel" text="Thru" translationStatus="1"/>
+        <Label id="ValidityLabel" text="Validity" translationStatus="1"/>
+        <Label id="PrdType" text="Type: " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

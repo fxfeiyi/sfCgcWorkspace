@@ -1,0 +1,61 @@
+<Page pagePattern="MasterDetailSectionPage" navigation="Off" masterSectionFlex="40" detailSectionFlex="60">
+	<ViewVariables>
+		<ViewVariable name="currentTabName" value="Tab1" />
+	</ViewVariables>
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+	</PageHeader>
+	<Section sectionName="masterSection" sectionPattern="SingleAreaSection">
+		<Area areaName="mainArea" areaPattern="SingleElementArea">
+			<GroupedList name="MasterList" searchable="${#searchable#}" groupBy="${#groupBy#}" sortBy="${#sortBy#}" master="true" dataSource="${#dataSource#}" direction="${#direction#}" indexBar="${#indexBar#}" swipe="${#swipe#}" hasBorder="${#hasBorder#}" onItemDisclosure="${#onItemDisclosure#}">
+				<Items name="Items" itemPattern="${#itemPattern#}">
+					<!-- 
+						ItemListLayout Node is required. 
+						<ItemListLayout></ItemListLayout>
+					-->
+					<Bindings>
+						<Binding target="${#target#}" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />
+					</Bindings>
+				</Items>
+				<Events>
+					<ItemSelectedEvent event="itemSelected" resetMultiAreas="true">
+						<Params>
+							<Param name="${#name#}" value="${#value#}" />
+						</Params>
+					</ItemSelectedEvent>
+				</Events>
+			</GroupedList>
+		</Area>
+	</Section>
+	<Section sectionName="detailSection" sectionPattern="TabbedViewAreaSection" currentTab="View::currentTabName">
+		<Area areaName="tabArea" areaPattern="TabElementArea">
+			<TabSelector name="TabSelector">
+				<Items>
+					<Tab tabName="Tab1" backendSystem="${#backendSystem#}">
+						<Bindings>
+							<Resource target="image" type="Image" id="${#id4#}" bindingMode="ONE_TIME" />
+							<Resource target="text" type="Label" id="${#id1#}Id" defaultLabel="${#defaultLabel1#}" bindingMode="ONE_TIME" />
+						</Bindings>
+					</Tab>
+					<Tab tabName="Tab2" backendSystem="${#backendSystem1#}">
+						<Bindings>
+							<Resource target="image" type="Image" id="${#id2#}" bindingMode="ONE_TIME" />
+							<Resource target="text" type="Label" id="${#id3#}Id" defaultLabel="${#defaultLabel2#}" bindingMode="ONE_TIME" />
+						</Bindings>
+					</Tab>
+				</Items>
+				<Events>
+					<ItemSelectedEvent event="tabSelected" storeTabNameIn="currentTabName" />
+				</Events>
+			</TabSelector>
+		</Area>
+		<Area areaName="Tab1" areaPattern="SingleElementArea">
+			
+		</Area>
+		<Area areaName="Tab2" areaPattern="SingleElementArea">
+			
+		</Area>
+	</Section>
+</Page>

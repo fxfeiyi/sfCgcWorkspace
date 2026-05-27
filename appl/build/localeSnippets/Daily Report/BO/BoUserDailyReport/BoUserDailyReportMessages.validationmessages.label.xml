@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoUserDailyReport">
+        <Label id="CasUsrDailyReportWorkTimeFromGreaterThru" text="Please enter a Work Time Thru, which is greater than or equal to Work Time From." translationStatus="1"/>
+        <Label id="CasUsrDailyReportUniquePerDay" text="Only one daily report can be created per day." translationStatus="1"/>
+        <Label id="CasUsrDailyReportPostDatingNotAllowed" text="Daily Reports can only be created for the present or the past." translationStatus="1"/>
+        <Label id="CasUsrDailyReportActivityDuration" text="The total duration of all daily activities should be less than or equal to one day." translationStatus="1"/>
+        <Label id="CasUsrDailyReportFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasUsrDailyReportNoOpenTimeCard" text="A new time card cannot be created while an open time card exists." translationStatus="1"/>
+        <Label id="CasUsrTimeCardNoTimeOverlap" text="Time Entry Overlap. New Time Entry cannot be created." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryInvalidData" text="Please enter Time Thru/Date Thru greater than or equal to Time From/Date From." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryEmptyReason" text="Please enter a valid Reason Code for Time change." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryOverlap" text="Time information overlaps with existing data." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryDSTInvalid" text="Sorry Due to Daylight Saving Time change, the entered times are invalid. Time Entry cannot be changed." translationStatus="1"/>
+        <Label id="CasUsrTimeCardReleaseNoTimeOverlap" text="Time Entry Overlap. Time Card cannot be released." translationStatus="1"/>
+        <Label id="CasUsrTimeCardSaveNoTimeOverlap" text="Time Entry Overlap between Entries #entry1# (#time1#) and #entry2# (#time2#). Time Card cannot be saved." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryEditNoTimeOverlap" text="Time Entry Overlap between Entries #entry1# (#time1#) and #entry2# (#time2#). Time Entry cannot be edited." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryOutOfBounds" text="Sorry the Time Entry #entry# (#time#) is outside working time." translationStatus="1"/>
+        <Label id="CasUsrTimeEntryOutOfBoundsReleaseActive" text="Sorry the Time Entry #entry# (#time#) is outside working time. The Time Card cannot be released." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallCreateNewCallViaTripListUI">
+        <Label id="DoneId" text="Create" translationStatus="1"/>
+        <Label id="CallCreateTripListTitleId" text="Create via TripList" translationStatus="1"/>
+        <Label id="TripListId" text="Trip List" translationStatus="1"/>
+        <Label id="TripListValidFromId" text="Valid From" translationStatus="1"/>
+        <Label id="TripListValidThruId" text="Valid Thru" translationStatus="1"/>
+        <Label id="TripListDateId" text="Date" translationStatus="1"/>
+        <Label id="AllDay" text="All Day" translationStatus="1"/>
+        <Label id="callTypeId" text="Call Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTripList">
+        <Label id="CasClbFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasTplErrorsOnCallCreation" text="#ErrorCount# Calls were not valid and could not be created." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

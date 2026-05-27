@@ -1,0 +1,3 @@
+<SearchAttributes>
+	<SearchAttribute name="${#name#}" />
+</SearchAttributes>

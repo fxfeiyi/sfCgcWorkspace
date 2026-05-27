@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallCardPictureMaximizedUI">
+        <Label id="MaximizedPictureCardTitleId" text="Picture" translationStatus="1"/>
+        <Label id="CreationDate" text="Creation Date" translationStatus="1"/>
+        <Label id="CreationTime" text="Creation Time" translationStatus="1"/>
+        <Label id="Latitude" text="Latitude" translationStatus="1"/>
+        <Label id="Longitude" text="Longitude" translationStatus="1"/>
+        <Label id="Location" text="Location" translationStatus="1"/>
+        <Label id="Deviation" text="Deviation" translationStatus="1"/>
+        <Label id="SystemTags" text="System Tags" translationStatus="1"/>
+        <Label id="NoteId" text="Note" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+        <Label id="Area" text="Area" translationStatus="1"/>
+        <Label id="CompetitorId" text="Competitor" translationStatus="1"/>
+        <Label id="UserDefined" text="Content" translationStatus="1"/>
+        <Label id="SketchId" text="Sketch" translationStatus="1"/>
+        <Label id="DeletePictureId" text="Delete" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

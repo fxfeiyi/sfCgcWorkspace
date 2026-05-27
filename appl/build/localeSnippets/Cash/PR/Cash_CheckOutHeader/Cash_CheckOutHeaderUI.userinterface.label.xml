@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CashCheckOutHeaderUI">
+        <Label id="CashTitleId" text="Cash" translationStatus="1"/>
+        <Label id="releaseDocumentId" text="Release" translationStatus="1"/>
+        <Label id="reviewRelease" text="Release Info" translationStatus="1"/>
+        <Label id="IdId1" text="Id" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+        <Label id="InitiationDateId" text="Initiation Date" translationStatus="1"/>
+        <Label id="AbsolutePaidAmountValueId" text="Amount" translationStatus="1"/>
+        <Label id="CurrencyId" text="Currency" translationStatus="1"/>
+        <Label id="AbsolutePaidAmountValue" text="Amount" translationStatus="1"/>
+        <Label id="EtpWarehouseId" text="Warehouse" translationStatus="1"/>
+        <Label id="ExpenseTypeId" text="Expense Type" translationStatus="1"/>
+        <Label id="CashInfoId" text="Cash Information" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

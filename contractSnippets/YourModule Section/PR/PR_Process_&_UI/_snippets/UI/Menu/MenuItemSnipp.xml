@@ -1,0 +1,9 @@
+<MenuItem itemId="${#itemId#}" backendSystem="both">
+	<Bindings>
+		<Resource target="Text" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+		<Resource target="Icon" type="Image" id="${#id1#}" />
+	</Bindings>
+	<Events>
+		<ButtonPressedEvent event="${#event#}Pressed" />
+	</Events>
+</MenuItem>

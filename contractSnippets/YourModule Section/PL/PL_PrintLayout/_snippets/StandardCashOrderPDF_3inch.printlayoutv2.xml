@@ -1,0 +1,189 @@
+<PrintLayout xmlns="https://www.salesforce.com/cgcloud/xsds" name="StandardCashOrderPDF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Declarations>
+      <DataDeclaration name="order" type="BoOrder" />
+      <DataDeclaration name="salesOrg" type="LuSalesOrg" />
+      <DataDeclaration name="myImageName" type="Image" mimeType="image/png" imageId="CoralSpringLogo" />
+      <DataDeclaration name="textItems" type="BoOrderPrintTextItems" />
+      <DataDeclaration name="signature1" type="Signature" /> 
+    </Declarations>
+    <ReportLayout pageMargins="[5,0,5,0]" pageSize="[216, auto]">
+  
+      <img src="{{Declarations::myImageName}}"  width="100" alignment="center"/>
+  
+      <lineFeed/>
+      <lineFeed/>
+      <p bold="true" alignment="center">{{Declarations::salesOrg.text}}</p>
+  
+  
+      <!--Manufacturer Table-->
+      <table name="ManufacturerTable" dontBreakRows="false" tableLayout="noBorders">
+        <thead>
+          <tr>
+            <th width="50%" alignment="right"></th>
+            <th width="50%" alignment="left"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{Labels::AddressId; defaultLabel=Address:}}</td>
+            <td>{{Declarations::salesOrg.houseNumber}} {{Declarations::salesOrg.street}} {{Declarations::salesOrg.zipCode}} {{Declarations::salesOrg.city}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::PhoneId; defaultLabel=Phone:}}</td>
+            <td>{{Declarations::salesOrg.phone1}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::FaxId; defaultLabel=Fax:}}</td>
+            <td>{{Declarations::salesOrg.fax1}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::TINId; defaultLabel=Tax Id:}}</td>
+            <td>{{Declarations::salesOrg.taxJurisdictionCode}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::BankAccId; defaultLabel=Bank Account:}}</td>
+            <td>{{Declarations::salesOrg.accountNumber}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <lineFeed/>
+
+      <!--Header Table-->
+      <table name="HeaderTable" tableLayout="noBorders">
+        <thead>
+          <tr>
+            <th width="50%" alignment="right"></th>
+            <th width="50%" alignment="left"></th>
+          </tr>
+        </thead>
+  
+        <tbody>
+          <tr>
+            <td   />
+            <td  bold="true">{{Declarations::order.luDeliveryRecipient.name}} </td>
+          </tr>
+          <tr>
+            <td >{{Labels::CustomerAddressId; defaultLabel=Address:}}</td>
+            <td bold="true">{{Declarations::order.luDeliveryRecipient.street}} {{Declarations::order.luDeliveryRecipient.houseNumber}}</td>
+          </tr>
+          <tr>
+            <td  />
+            <td bold="true">{{Declarations::order.luDeliveryRecipient.zipCode}} {{Declarations::order.luDeliveryRecipient.city}} </td>
+          </tr>
+          <tr>
+            <td  />
+            <td bold="true">{{Declarations::order.luDeliveryRecipient.countryState}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::CustomerPhoneId; defaultLabel=Phone:}}</td>
+            <td>{{Declarations::order.luDeliveryRecipient.phone1}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::CustomerNumberId; defaultLabel=Customer:}}</td>
+            <td>{{Declarations::order.luDeliveryRecipient.customerNumber}}</td>
+          </tr>
+          <tr>
+            <td >{{Labels::CustomerOrderId; defaultLabel=Cust. PO No.:}}</td>
+            <td>{{Declarations::order.customerOrderId}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <lineFeed/>
+
+      <!--Order Items-->
+      <h2 alignment="center">{{Labels::OderConfirmationId; defaultLabel=Order Confirmation}}</h2>
+      <lineFeed/>
+      <table tableLayout="lightHorizontalLinesMainItemsOnly" name="OrderItemsTable">
+        <thead>
+          <tr>
+            <th width="30%">{{Labels::TextId; defaultLabel=Product}}</th>
+            <th width="20%">{{Labels::QuantityId; defaultLabel=Qty}}</th>
+            <th alignment="right" width="20%">{{Labels::UnitPriceId; defaultLabel=Unit Price}}</th>
+            <th  alignment="right" width="20%">{{Labels::NettoAmountId; defaultLabel=Net. Amount}}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <each name="itemsEach" value="{{Declarations::order.loPrintItems}}">
+            <filters>
+              <filter fieldName="quantity" value="0" operator="GT" compareMode="NUMBER" />
+              <filter fieldName="movementDirection" value="In" operator="NE" />
+            </filters>
+            <orderCriteria>
+              <orderCriterion fieldName="prdId" direction="ASC" compareMode="NUMBER" />
+            </orderCriteria>
+            <tr>
+              <td>{{.text1}}</td>
+              <td >{{.quantity}}</td>
+              <td >{{.basePriceReceipt; numberFormat=8.2}}</td>
+              <td >{{.valueReceipt; numberFormat=8.2}}</td>
+            </tr>
+            <correlation name="correlation1" value="{{Declarations::order.loSdoConditions}}" key="pKey" correlationKey="sdoItemPKey">
+              <filters>
+                <filter fieldName="sdoItemPKey" value=" " operator="NE" />
+                <filter fieldName="cpIsPrintRelevant" value="1" operator="EQ" />
+              </filters>
+              <tr>
+                <td />
+                <td>{{path=.text1}} {{.conditionValue; numberFormat=8.2}} {{.conditionResult; numberFormat=8.2}}</td>
+              </tr>
+            </correlation>
+          </each>
+          <tr>
+            <td  >{{Labels::TotalId; defaultLabel=Total}}</td>
+            <td >
+              <sum table="OrderItemsTable" col="1" />
+            </td>
+            <td  />
+            <td >
+              <sum table="OrderItemsTable" col="3" numberFormat="8.2" />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  
+      <!-- Total Table-->
+      <table tableLayout="noBorders" name="TotalTable">
+        <thead>
+          <tr>
+            <th width="33%" />
+            <th width="33%"/>
+            <th width="33%"/>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td />
+            <td >{{Labels::TotalPrdId; defaultLabel=Total Products and Other Items}}</td>
+            <td >{{Declarations::order.totalValueReceipt; numberFormat=8.2}} {{Declarations::order.currency}}</td>
+          </tr>
+          <tr>
+            <td />
+            <td bold="true" >{{Labels::TotalAmountId; defaultLabel=Total Amount}}</td>
+            <td bold="true" >{{Declarations::order.grossTotalValueReceipt; numberFormat=8.2}} {{Declarations::order.currency}}</td>
+          </tr>
+          <tr>
+            <td />
+            <td bold="true" >{{Labels::PaymentMethodId; defaultLabel=Payment Method}}</td>
+            <td bold="true" >{{Declarations::order.paymentMethodText;}}</td>
+          </tr>
+          <tr>
+            <td />
+            <td bold="true" >{{Labels::TotalPaidAmountId; defaultLabel=Total Paid Amount}}</td>
+            <td bold="true" >{{Declarations::order.paidAmountReceipt; numberFormat=8.2}} {{Declarations::order.currency}}</td>
+          </tr>
+          <tr>
+            <td />
+            <td bold="true" >{{Labels::BalanceId; defaultLabel=Balance}}</td>
+            <td bold="true" >{{Declarations::order.balance; numberFormat=8.2}} {{Declarations::order.currency}}</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <img src="{{Declarations::signature1}}"   width="160" alignment="left"/>
+            
+      <p>{{Declarations::salesOrg.legalInformation}}</p>
+      <p>{{Declarations::textItems.endOfPrint}}</p>
+      <lineFeed/>
+      <lineFeed/>
+    </ReportLayout>
+  </PrintLayout>

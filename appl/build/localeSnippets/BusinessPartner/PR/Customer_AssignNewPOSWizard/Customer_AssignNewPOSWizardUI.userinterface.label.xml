@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CustomerAssignNewPOSWizardUI">
+        <Label id="createNewPosId" text="Finish" translationStatus="1"/>
+        <Label id="AssingNewPOSTitleId" text="Assign New POS" translationStatus="1"/>
+        <Label id="Name" text="Name" translationStatus="1"/>
+        <Label id="POSMetaTypesId" text="Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

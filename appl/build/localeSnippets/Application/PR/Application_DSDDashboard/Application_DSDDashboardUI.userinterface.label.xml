@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ApplicationDSDDashboardUI">
+        <Label id="DashboardTitle" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="welcome" text="Welcome" translationStatus="1"/>
+        <Label id="cockpitLabelId" text="Your Day" translationStatus="1"/>
+        <Label id="agendaOverviewLabelId" text="Visit Execution" translationStatus="1"/>
+        <Label id="tourLabelId" text="Tour" translationStatus="1"/>
+        <Label id="NotificationsLabelId" text="Notifications" translationStatus="1"/>
+        <Label id="customerOverviewLabelId" text="Customer" translationStatus="1"/>
+        <Label id="productOverviewLabelId" text="Product" translationStatus="1"/>
+        <Label id="orderOverviewLabelId" text="Order" translationStatus="1"/>
+        <Label id="ReportingLabelId" text="Reports" translationStatus="1"/>
+        <Label id="PersonalSettingsLabelId" text="My Settings" translationStatus="1"/>
+        <Label id="AboutLabelId" text="About" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

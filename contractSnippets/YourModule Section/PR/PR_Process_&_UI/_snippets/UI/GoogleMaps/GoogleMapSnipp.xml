@@ -1,0 +1,7 @@
+<GoogleMap name="${#name#}" dataSource="${#dataSource#}" latitudeField="${#latitudeField#}" longitudeField="${#longitudeField#}" idField="${#idField#}" toolTipField="${#toolTipField#}" initialZoomLevel="${#initialZoomLevel#}">
+	<Bindings>
+			<Binding binding="${#binding1#}" target="DisplayRoute" bindingMode="ONE_WAY" />
+			<Binding binding="${#binding2#}" target="DisplayTraffic" bindingMode="ONE_WAY" />
+			<Binding binding="${#binding3#}" target="DisplayAdditionalDatasource" bindingMode="ONE_WAY" />
+	</Bindings>
+</GoogleMap>

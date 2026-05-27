@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderItemListTab">
+        <Label id="addProductViaLookup" text="Add Product" translationStatus="1"/>
+        <Label id="CalculateOrderId" text="Calculate" translationStatus="1"/>
+        <Label id="FastOrder" text="Fast Order" translationStatus="1"/>
+        <Label id="ScanProduct" text="Scan Product" translationStatus="1"/>
+        <Label id="SetItemType" text="Settings" translationStatus="1"/>
+        <Label id="RoundingOrderQuantityOff" text="Rounding: OFF" translationStatus="1"/>
+        <Label id="RoundingOrderQuantityOn" text="Rounding: ON" translationStatus="1"/>
+        <Label id="Order_PromotionFilterCleared" text="Filter By Promotion..." translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="FilterCategoryId" text="Filter Category" translationStatus="1"/>
+        <Label id="RegisterId" text="Register" translationStatus="1"/>
+        <Label id="FilterRegisterId" text="Filter Register" translationStatus="1"/>
+        <Label id="Rewards" text="Rewards" translationStatus="1"/>
+        <Label id="CalculateSuggestedQuant" text="Apply Suggestion" translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="IdId" text="Number" translationStatus="1"/>
+        <Label id="CustomerProductNumberId" text="Customer Product Number" translationStatus="1"/>
+        <Label id="ItemTypeId" text="Type" translationStatus="1"/>
+        <Label id="AvailabilityId" text="Availability" translationStatus="1"/>
+        <Label id="FocusProductTypeId" text="Focus Product Type" translationStatus="1"/>
+        <Label id="StockId" text="Stock" translationStatus="1"/>
+        <Label id="UoMId" text="Unit of Measures" translationStatus="1"/>
+        <Label id="PriceId" text="Price" translationStatus="1"/>
+        <Label id="ReceiptId" text="Receipt Value" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason" translationStatus="1"/>
+        <Label id="DiscountId" text="Discount" translationStatus="1"/>
+        <Label id="SpecialPriceId" text="Sp. Price" translationStatus="1"/>
+        <Label id="AdvSettingsGroupId" text="Advanced Settings" translationStatus="1"/>
+        <Label id="SelectablePromotionId" text="Selectable Promotion" translationStatus="1"/>
+        <Label id="PromotionsForProductId" text="Promotions" translationStatus="1"/>
+        <Label id="separatorLabelId" text=" - " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

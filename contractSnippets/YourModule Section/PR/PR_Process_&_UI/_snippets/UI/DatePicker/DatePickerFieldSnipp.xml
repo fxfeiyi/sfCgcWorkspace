@@ -1,0 +1,6 @@
+<DatePickerField name="${#name#}">
+	<Bindings>
+		<Resource target="Label" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" />
+		<Binding target="Value" binding="${#binding#}" bindingMode="TWO_WAY" />
+	</Bindings>
+</DatePickerField>

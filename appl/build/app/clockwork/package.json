@@ -1,0 +1,15 @@
+{
+  "version": "258.0",
+  "dependencies": [
+    {
+      "id": "Consumer Goods Cloud - Mobile App",
+      "majorVersion": "258",
+      "minorVersion": "0"
+    },
+    {
+      "id": "Consumer Goods Cloud - Managed Package",
+      "majorVersion": "258",
+      "minorVersion": "0"
+    }
+  ]
+}

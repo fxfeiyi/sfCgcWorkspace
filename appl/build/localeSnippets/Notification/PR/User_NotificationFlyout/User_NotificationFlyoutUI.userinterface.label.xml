@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="UserNotificationFlyoutUI">
+        <Label id="MarkAsReadId" text="Mark As Read" translationStatus="1"/>
+        <Label id="NotificationsTitleId" text="Notifications" translationStatus="1"/>
+        <Label id="PriorityId" text="Priority" translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="DateId" text="Date" translationStatus="1"/>
+        <Label id="InitiatorId" text="Initiator" translationStatus="1"/>
+        <Label id="MessageId" text="Message" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

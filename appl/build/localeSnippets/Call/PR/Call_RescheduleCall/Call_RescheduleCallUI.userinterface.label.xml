@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallRescheduleCallUI">
+        <Label id="rescheduleCallId" text="Done" translationStatus="1"/>
+        <Label id="RescheduleCallTitleId" text="Reschedule" translationStatus="1"/>
+        <Label id="VisitDate" text="Visit Date" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time From" translationStatus="1"/>
+        <Label id="TimeThru" text="Time Thru" translationStatus="1"/>
+        <Label id="Duration" text="Duration" translationStatus="1"/>
+        <Label id="CallInformation" text=" " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

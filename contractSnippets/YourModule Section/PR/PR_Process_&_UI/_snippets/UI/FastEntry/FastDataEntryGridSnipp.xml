@@ -1,0 +1,69 @@
+<FastDataEntryGrid name="${#Name#}FastDataEntryGrid">
+	<DataInputArea name="${#Name#}InputArea">
+		<DataSearchField name="${#Name#}SearchField" dataSource="${#SearchLO#}">
+			<Items>
+				<Bindings>
+					<Binding target="PKey" type="Text" binding=".pKey" bindingMode="ONE_WAY"/>
+					<Binding target="Searchable1" type="Text" binding="${#searchable1Binding#}" bindingMode="ONE_WAY"/>
+					<Binding target="SearchResultDisplay1" type="Text" binding="${#Display1Binding#}" bindingMode="ONE_WAY"/>
+					<!-- the Possible Bindings are: -->
+					<!-- PKey -->
+					<!-- Searchable1 - Searchable4 -->
+					<!-- SearchResultDisplay1 - SearchResultDisplay2 -->
+				</Bindings>
+			</Items>
+			<Bindings>
+				<Resource target="Label" type="Label" defaultLabel="You can search for [b]ProductNumber[/b]." id="SearchBoxId"/>
+			</Bindings>
+		</DataSearchField>
+		<NumberInputField name="quantityInputField" format="5.0">
+			<Bindings>
+				<Resource target="Label" type="Label" defaultLabel="Quantity" id="Quantityid"/>
+			</Bindings>
+		</NumberInputField>
+		<!-- Two numberInutFields can be specified -->
+		<Events>
+			<CreateNewRecordEvent event="newLoItem">
+				<!-- the CreateNewRecordEvent has as implicit parameters the values of the search and input field. Key is the name property -->
+				<!-- Additionally all properties of the selected LI can be bound by BL -->
+				<Params/>
+			</CreateNewRecordEvent>
+		</Events>
+	</DataInputArea>
+	<DataGrid name="${#Name#}DataGrid" dataSource="${#GridDataSource#}">
+		<Bindings>
+			<Resource target="EmptyImage" type="Image" id="GridEmptyImageId" defaultImage=""/>
+			<Resource target="EmptyMessage" type="Label" id="GridEmptyMessageId" defaultLabel="No items"/>
+		</Bindings>
+		<Items>
+			<Bindings>
+				<Binding target="PKey" type="Text" binding=".pKey" bindingMode="ONE_WAY"/>
+				<Binding target="Binding1" type="Text" binding="${#Binding1#}" bindingMode="ONE_WAY"/>
+			</Bindings>
+			<GridLayout>
+				<Default>
+					<Header>
+						<Col bindingId="header1" align="left"/>
+					</Header>
+					<Col width="50%" layoutType="Text" bindingId="Binding1"/>
+				</Default>
+				<!--Tablet>
+				<Apple>
+				</Apple>
+				<Android>
+				</Android>
+				</Tablet>
+				<Phone>
+				</Phone-->
+			</GridLayout>
+		</Items>
+		<Events>
+			<DeleteRecordEvent event="dataDeleted">
+				<Params>
+					<!-- the customizer can reference all properties of the LI the grid row is based on -->
+					<Param name="pKey" value=".pKey"/>
+				</Params>
+			</DeleteRecordEvent>
+		</Events>
+	</DataGrid>
+</FastDataEntryGrid>

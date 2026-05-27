@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTour">
+        <Label id="ValidatePlannedTourStartEndDate" text="Planned Start Date can not be greater than Planned End Date" translationStatus="1"/>
+        <Label id="ValidateWarehouseAndCoDriver" text="Select an active user of the start warehouse as the co-driver." translationStatus="1"/>
+        <Label id="ValidateOdometerStart" text="Enter a valid odometer reading." translationStatus="1"/>
+        <Label id="ValidateVehicleStatusStart" text="Select a vehicle condition status." translationStatus="1"/>
+        <Label id="ValidateTruck" text="Select a truck that’s an active vehicle for Start Warehouse." translationStatus="1"/>
+        <Label id="ValidateTrailer" text="Select a trailer that’s an active vehicle for Start Warehouse." translationStatus="1"/>
+        <Label id="Trailer1_Trailer2_Same_Validation" text="You can’t select the same vehicle for Trailer 1 and Trailer2." translationStatus="1"/>
+        <Label id="ValidateEndTour" text="Finish all End Tour activities before completing the tour" translationStatus="1"/>
+        <Label id="ValidateOdometerEnd" text="Enter a final odometer reading that’s greater than or equal to the initial odometer reading." translationStatus="1"/>
+        <Label id="ValidateVehicleStatusEnd" text="Select the End Tour Condition Reason as the vehicle isn’t in good condition upon finishing the tour." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

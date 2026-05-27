@@ -1,0 +1,9 @@
+<List target="Decisions" dataSource="${#dDataSource#}">
+	<Binding target="pKey" type="Text" binding="${#dPKey#}" />
+	<Binding target="description" type="Text" binding="${#dDescription#}" />
+	<Binding target="detailText" type="Text" binding="${#dDetailText#}" />
+	<Binding target="detailTextFontColor" type="Color" binding="${#dDetailTextFontColor#}" />
+	<Binding target="isTrue" type="Boolean" binding="${#dIsTrue#}" />
+	<Binding target="groupId" type="Text" binding="${#dGroupId#}" />
+	<Binding target="sort" type="Text" binding="${#dSort#}" />
+</List>

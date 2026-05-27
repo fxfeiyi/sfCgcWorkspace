@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 21 20" style="enable-background:new 0 0 21 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#788994;}
+</style>
+<title>ItemType</title>
+<g id="_">
+	<rect x="10" y="4" class="st0" width="3" height="5"/>
+</g>
+<path class="st0" d="M12,14l-3-3v2H1.7C1.3,13,1,13.3,1,13.7v0v0.7C1.2,14.8,1.6,15,2,15h7v2L12,14z"/>
+<path class="st0" d="M3.8,2C3.3,2,3,2.3,3,2.8V12h2V4h13v12h-6v2h7.2l0,0c0.4,0,0.8-0.3,0.8-0.8V2.8c0,0,0,0,0,0
+	C20,2.3,19.7,2,19.2,2H3.8L3.8,2z"/>
+</svg>

@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Button" binding="${#binding#}" bindingMode="ONE_WAY" longPressMenuId="${#longPressMenuId#}" />

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global/>
+    <NavigationLabels>
+      <Process id="Call.NavigationProcess.Startsalesnavigation">
+        <Label id="storeCheck" text="Store Check" translationStatus="1"/>
+        <Label id="survey" text="Survey" translationStatus="1"/>
+        <Label id="pictures" text="Pictures" translationStatus="1"/>
+        <Label id="promotions" text="Promotions" translationStatus="1"/>
+        <Label id="salesFolder" text="Sales Folder" translationStatus="1"/>
+        <Label id="notes" text="Notes" translationStatus="1"/>
+        <Label id="customerData" text="Customer Data" translationStatus="1"/>
+        <Label id="orderOverview" text="Orders" translationStatus="1"/>
+        <Label id="issueOverview" text="Customer Tasks" translationStatus="1"/>
+        <Label id="callSummary" text="Call Summary" translationStatus="1"/>
+      </Process>
+      <Process id="Call.NavigationProcess.Startmerchandizingnavigation">
+        <Label id="storeCheck" text="Store Check" translationStatus="1"/>
+        <Label id="survey" text="Survey" translationStatus="1"/>
+        <Label id="pictures" text="Pictures" translationStatus="1"/>
+        <Label id="notes" text="Notes" translationStatus="1"/>
+        <Label id="customerData" text="Customer Data" translationStatus="1"/>
+        <Label id="assets" text="Assets" translationStatus="1"/>
+        <Label id="issueOverview" text="Customer Tasks" translationStatus="1"/>
+        <Label id="callSummary" text="Call Summary" translationStatus="1"/>
+      </Process>
+      <Process id="Call.NavigationProcess.Onlycallinfonavigation">
+        <Label id="callSummary" text="Call Summary" translationStatus="1"/>
+      </Process>
+      <Process id="Call.NavigationProcess.Startdeliverynavigation">
+        <Label id="deliveryOverview" text="Delivery" translationStatus="1"/>
+        <Label id="assets" text="Assets" translationStatus="1"/>
+        <Label id="survey" text="Survey" translationStatus="1"/>
+        <Label id="notes" text="Notes" translationStatus="1"/>
+        <Label id="customerData" text="Customer Data" translationStatus="1"/>
+        <Label id="callSummary" text="Call Summary" translationStatus="1"/>
+      </Process>
+    </NavigationLabels>
+    <ConfirmationMessages/>
+  </Translations>
+</Locale>

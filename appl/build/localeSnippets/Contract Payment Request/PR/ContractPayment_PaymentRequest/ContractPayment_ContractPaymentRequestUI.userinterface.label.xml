@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ContractPaymentContractPaymentRequestUI">
+        <Label id="TitleId" text="Payment Request" translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="TacticId" text="Tactic" translationStatus="1"/>
+        <Label id="releasePaymentId" text="Release" translationStatus="1"/>
+        <Label id="approvePaymentId" text="Approve" translationStatus="1"/>
+        <Label id="rejectPaymentId" text="Reject" translationStatus="1"/>
+        <Label id="PaymentRequestId" text="Id" translationStatus="1"/>
+        <Label id="BeneficiaryId" text="Beneficiary" translationStatus="1"/>
+        <Label id="PaymentTypeId" text="Payment Type" translationStatus="1"/>
+        <Label id="InitiationDateId" text="Initiation Date" translationStatus="1"/>
+        <Label id="ReferenceDateId" text="Reference Date" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="Phase" text="Phase" translationStatus="1"/>
+        <Label id="OwnerUserId" text="Owner" translationStatus="1"/>
+        <Label id="ResponsibleUserId" text="Responsible" translationStatus="1"/>
+        <Label id="StatusTitle" text="Status" translationStatus="1"/>
+        <Label id="RequestedAmountId" text="Requested" translationStatus="1"/>
+        <Label id="CurrencyId" text="Currency" translationStatus="1"/>
+        <Label id="RequestedId" text="Requested" translationStatus="1"/>
+        <Label id="PaidAmountId" text="Paid" translationStatus="1"/>
+        <Label id="PaidId" text="Paid" translationStatus="1"/>
+        <Label id="AmountTitle" text="Amount" translationStatus="1"/>
+        <Label id="separatorLabelId" text=" - " translationStatus="1"/>
+        <Label id="ContractTextLabel" text="Contract" translationStatus="1"/>
+        <Label id="TacticTypeLabel" text="Tactic Type" translationStatus="1"/>
+        <Label id="AmountLabel" text="Amount" translationStatus="1"/>
+        <Label id="StatusLabel" text="Status" translationStatus="1"/>
+        <Label id="TextId" text="Text" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

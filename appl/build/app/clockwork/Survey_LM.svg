@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#788994;}
+</style>
+<g id="Slices">
+</g>
+<g id="Icons">
+	<g id="SnackPyramid">
+	</g>
+	<g id="Survey">
+		<path class="st0" d="M21.1,2.6c-0.2-0.2-0.3-0.3-0.5-0.5c-0.2-0.2-0.3-0.3-0.5-0.5C19,0.4,18.3,0,17.6,0h-6.3C9.8,0,9,0.8,9,2.3V8
+			c0.2,0,0.3,0,0.5,0c0.5,0,1,0.1,1.5,0.2V3c0-0.8,0.3-1,1-1h4.7C17.2,2.1,17,2.4,17,3v1.6C17,4.9,17.9,6,18.3,6h2.3
+			C21.2,6,21,6.3,21,7v8.4c0,0.8-0.3,0.6-1,0.6h-3c0,0.6-0.1,1.2-0.3,1.7h3.6c1.5,0,2.7-1.2,2.7-2.8V5.3C22.9,4.5,22.2,3.8,21.1,2.6
+			z"/>
+		<path class="st0" d="M10,9c-3.3,0-6,2.7-6,6c0,1.5,0.5,2.8,1.4,3.9c-0.4-0.2-0.8-0.1-1.2,0.2l-2.6,2.6c-0.4,0.4-0.4,1.1,0,1.5
+			l0.5,0.5c0.4,0.4,1.1,0.4,1.5,0l2.6-2.6c0.3-0.3,0.4-0.8,0.2-1.2l0,0c1,0.7,2.2,1.2,3.6,1.2c3.3,0,6-2.7,6-6S13.3,9,10,9z
+			 M10,19.1c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S12.2,19.1,10,19.1z"/>
+		<g>
+			<rect x="13" y="5" class="st0" width="2" height="1"/>
+			<rect x="13" y="7" class="st0" width="6" height="1"/>
+			<rect x="15" y="9" class="st0" width="4" height="1"/>
+			<rect x="16" y="11" class="st0" width="3" height="1"/>
+			<rect x="17" y="13" class="st0" width="2" height="1"/>
+		</g>
+	</g>
+	<g id="RescheduleCall">
+	</g>
+	<g id="AllProducts">
+	</g>
+	<g id="CurrentLocation">
+	</g>
+	<g id="Delivery_Item">
+	</g>
+	<g id="Edit_Order_Basket">
+	</g>
+	<g id="Notification">
+	</g>
+	<g id="SortOrder">
+	</g>
+	<g id="AllStores">
+	</g>
+	<g id="Visit">
+	</g>
+	<g id="Today">
+	</g>
+	<g id="Summary">
+	</g>
+	<g id="delete">
+	</g>
+	<g id="Delivery">
+	</g>
+	<g id="Public_Holiday">
+	</g>
+</g>
+</svg>

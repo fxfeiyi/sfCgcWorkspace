@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourManagementOverviewUI">
+        <Label id="createNewTourId" text="Create New Tour" translationStatus="1"/>
+        <Label id="AllTours" text="All Tours" translationStatus="1"/>
+        <Label id="AllOpen" text="All Open" translationStatus="1"/>
+        <Label id="TmgOverviewId" text="Tour Overview" translationStatus="1"/>
+        <Label id="NoOfVisitsId" text="#Visits: " translationStatus="1"/>
+        <Label id="emptyLabelId" text=" " translationStatus="1"/>
+        <Label id="noId" text="-" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

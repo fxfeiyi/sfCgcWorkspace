@@ -1,0 +1,24 @@
+<UserWelcome name="${#componentName#}"> 
+	<Bindings> 
+		<!-- mandatory bindings --> 
+		<Binding target="userImage" type="Blob" binding="${#userImage#}" /> 
+		<Binding target="userName" type="Text" binding="${#userName#}" bindingMode="ONE_WAY" /> 
+		<Resource target="userMessage" type="Label" id="${#userMessage#}" defaultLabel="${#userMessageDefault#}" /> 
+		<Resource target="userDefaultImage" type="Image" id="${#userDefaultImage#}" /> 
+		<Binding target="selectedDate" type="Text" binding="${#selectedDate#}" bindingMode="ONE_WAY" /> 
+		<Resource target="previousDayIcon" type="Image" id="${#previousDayIcon#}" defaultImage="ChevronLeft" /> 
+		<Resource target="nextDayIcon" type="Image" id="${#nextDayIcon#}" defaultImage="ChevronRight" /> 
+		<Resource target="previousDayOnTouchIcon" type="Image" id="${#previousDayOnTouchIcon#}" defaultImage="ChevronLeftPressed" /> 
+		<Resource target="nextDayOnTouchIcon" type="Image" id="${#nextDayOnTouchIcon#}" defaultImage="ChevronRightPressed" /> 
+		<Resource target="todayIcon" type="Image" id="${#todayIcon#}" defaultImage="TodayIcon" /> 
+		<Resource target="todayLabel" type="Label" id="${#todayLabel#}" defaultLabel="Today" /> 
+		<!-- optional bindings --> 
+		<Resource target="value1Label" type="Label" id="${#label1#}" defaultLabel="${#label1Default#}" /> 
+		<Binding target="value1Count" type="Text" binding="${#value1#}" bindingMode="ONE_WAY" /> 
+		<Resource target="value2Label" type="Label" id="${#label2#}" defaultLabel="${#label2Default#}" /> 
+		<Binding target="value2Count" type="Text" binding="${#value2#}" bindingMode="ONE_WAY" /> 
+		<Resource target="value3Label" type="Label" id="${#label3#}" defaultLabel="${#label3Default#}" /> 
+		<Binding target="value3Count" type="Text" binding="${#value3#}" bindingMode="ONE_WAY" /> 
+		<Binding target="isTourUser" type="Bool" binding="${#isTourUser#}" bindingMode="ONE_WAY" /> 
+	</Bindings> 
+</UserWelcome>

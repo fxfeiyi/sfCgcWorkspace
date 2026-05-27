@@ -1,0 +1,8 @@
+<GroupedButtonList name="${#name#}" dataSource="${#dataSource#}" searchable="${#searchable#}" groupBy="${#groupBy#}" sortBy="${#sortBy#}" hasBorder="${#hasBorder#}">
+	<Bindings>
+		<Resource target="Title" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" />
+	</Bindings>
+	<Items name="Items" itemPattern="${#itemPattern#}">
+		<ItemListLayout />
+	</Items>
+</GroupedButtonList>

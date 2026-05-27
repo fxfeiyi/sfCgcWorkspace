@@ -1,0 +1,6 @@
+<SignatureControl name="${#name#}">
+	<Bindings>
+		<Resource target="text" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		<Binding target="MediaPath" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />
+	</Bindings>
+</SignatureControl>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoOrdererOverview">
+        <Label id="Orderer_Id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_Name" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_Street" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_ZipCode" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_City" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_State" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_Prio" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_ClassOfTrade" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_Substitution" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Orderer_TradeOrg" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

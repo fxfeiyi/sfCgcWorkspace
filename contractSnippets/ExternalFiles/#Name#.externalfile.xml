@@ -1,0 +1,6 @@
+<ExternalFile name="${#Name#}" npmName="#NpmName" displayName="#???Your Description???#" version="#???Version???#"
+              availableForUI="true">
+    <Content>
+        <!-- CDATA Block with base 64 string of the lib -->
+        <![CDATA[#???Base64String???#]]></Content>
+</ExternalFile>

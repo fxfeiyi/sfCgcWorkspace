@@ -1,0 +1,33 @@
+<Page pagePattern="SingleSectionPage">
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+	</PageHeader>
+	<Section sectionName="masterSection" sectionPattern="SingleAreaSection">
+		<Area areaName="mainArea" areaPattern="GroupedElementsArea">
+			<GroupElement name="${#name#}">
+				<Bindings>
+					<Resource target="Title" type="Label" id="${#id1#}Id" defaultLabel="${#defaultLabel1#}" />
+				</Bindings>
+				<InputArea name="${#name1#}">
+					<Bindings>
+						<Resource target="Label" type="Label" defaultLabel="${#defaultLabel2#}" id="${#id2#}Id" />
+						<Binding target="Value" type="${#type#}" binding="${#binding#}" bindingMode="TWO_WAY" />
+					</Bindings>
+				</InputArea>
+			</GroupElement>
+			<GroupElement name="${#name2#}">
+				<Bindings>
+					<Resource target="Title" type="Label" id="${#id3#}Id" defaultLabel="${#defaultLabel3#}" />
+				</Bindings>
+				<Lookup name="${#name3#}">
+					<Bindings>
+						<Resource target="Label" type="Label" id="${#id4#}Id" defaultLabel="${#defaultLabel4#}" />
+						<Binding target="Value" binding="${#binding1#}" bindingMode="ONE_WAY" />
+					</Bindings>
+				</Lookup>
+			</GroupElement>
+		</Area>
+	</Section>
+</Page>

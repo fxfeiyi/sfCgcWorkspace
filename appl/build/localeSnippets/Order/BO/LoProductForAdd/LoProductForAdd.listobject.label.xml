@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoProductForAdd">
+        <Label id="ProductForSearch_prdId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_text1" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_category" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_eAN" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_prdType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_foreignProduct" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoProductForAddDSD">
+        <Label id="ProductForSearch_prdId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_text1" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_category" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_eAN" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_prdType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_foreignProduct" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ProductForSearch_isAvailableInventory" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

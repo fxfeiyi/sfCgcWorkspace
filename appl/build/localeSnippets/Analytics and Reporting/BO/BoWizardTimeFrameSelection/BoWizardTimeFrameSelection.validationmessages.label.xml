@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoWizardTimeFrameSelection">
+        <Label id="CasWizardTimeFrameSelectionNegativeFrame" text="The Start Date may not occur after the End Date." translationStatus="1"/>
+        <Label id="CasWizardTimeFrameSelectionEmpty" text="Please fill in all values." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

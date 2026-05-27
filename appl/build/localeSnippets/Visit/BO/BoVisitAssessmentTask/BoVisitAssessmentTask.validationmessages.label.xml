@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoVisitAssessmentTask">
+        <Label id="BoVisitAssessmentKPIInvalidDateTime" text="Use the time format hh:mm [AM/PM] in KPI: #invalidKPI# for #product#" translationStatus="1"/>
+        <Label id="BoVisitAssessmentKPIInvalidDateTimeKPI" text="Enter date and time for these KPIs:  #invalidKPI#" translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

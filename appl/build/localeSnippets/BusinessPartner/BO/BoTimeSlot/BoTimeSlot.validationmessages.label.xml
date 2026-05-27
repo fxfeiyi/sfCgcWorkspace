@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTimeSlot">
+        <Label id="CasBoTimeSlotStartTimeBiggerEndTime" text="Enter a start time that’s earlier than the end time." translationStatus="1"/>
+        <Label id="CasBoTimeSlotOverlap" text="One or more time slots overlap with the times you entered. Update existing time slots in the Time Slots related list, or create a time slot that doesn’t overlap." translationStatus="1"/>
+        <Label id="CasBoTimeSlotDayOfWeekMandatory" text="Select the day of week." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

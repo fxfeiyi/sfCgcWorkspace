@@ -1,0 +1,8 @@
+<Action name="${#ActionName#}" actionType="NAVIGATION" >
+	<Parameters name="${#ParameterName#}">
+		<Processes>
+			<Process id="${#ProcessId#}" image="${#Image#}" label="" defaultLabel="" action="${#Action#}" process="${#SubProcess#}" />
+		</Processes>
+	</Parameters>
+	<TransitionTo action="${#TransitionToAction#}" />
+</Action>

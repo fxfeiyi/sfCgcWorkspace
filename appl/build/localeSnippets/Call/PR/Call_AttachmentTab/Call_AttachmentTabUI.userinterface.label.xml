@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallAttachmentTabUI">
+        <Label id="takePictureId" text="Take Picture" translationStatus="1"/>
+        <Label id="selectPictureId" text="Select Picture" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

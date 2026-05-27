@@ -1,0 +1,1 @@
+<Binding target="IsTagged" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />

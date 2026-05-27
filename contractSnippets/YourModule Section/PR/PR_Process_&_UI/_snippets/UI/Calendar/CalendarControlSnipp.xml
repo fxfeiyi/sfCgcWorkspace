@@ -1,0 +1,8 @@
+<CalendarControl name="${#name#}" dataSource="${#dataSource#}" dateFromAttribute="${#dateFromAttribute#}" dateThruAttribute="${#dateThruAttribute#}" timeFromAttribute="${#timeFromAttribute#}" timeThruAttribute="${#timeThruAttribute#}" allDayAttribute="${#allDayAttribute#}" firstLine="${#firstLine#}" secondLine="${#secondLine#}" backgroundColorAttribute="${#backgroundColorAttribute#}">
+	<Bindings>
+			<Binding target="DateRangeStartDate" binding="${#scd#}" bindingMode="ONE_WAY" />
+			<Binding target="ShowCalendarWeek" binding="${#scw#}" bindingMode="ONE_WAY" />
+	</Bindings>
+	<Items name="Items" itemPattern="${#itemPattern#}">
+	</Items>
+</CalendarControl>

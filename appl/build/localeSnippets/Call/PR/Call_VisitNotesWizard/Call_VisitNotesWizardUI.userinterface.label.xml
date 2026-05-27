@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallVisitNotesWizardUI">
+        <Label id="NotesTitleId" text="Visit Notes" translationStatus="1"/>
+        <Label id="InitiatorId" text="Initiator" translationStatus="1"/>
+        <Label id="DateId" text="Date" translationStatus="1"/>
+        <Label id="NoteId" text="Note" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

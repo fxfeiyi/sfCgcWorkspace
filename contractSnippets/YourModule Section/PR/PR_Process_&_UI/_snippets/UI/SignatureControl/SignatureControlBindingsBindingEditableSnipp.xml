@@ -1,0 +1,1 @@
+<Binding type="Editable" target="Editable" binding="${#binding#}" />

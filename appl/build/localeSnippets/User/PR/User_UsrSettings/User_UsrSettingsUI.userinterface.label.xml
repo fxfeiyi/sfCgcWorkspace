@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="UserUsrSettingsUI">
+        <Label id="PersonalSettingsId" text="My Settings" translationStatus="1"/>
+        <Label id="GeneralId" text="General" translationStatus="1"/>
+        <Label id="CalendarId" text="Calendar" translationStatus="1"/>
+        <Label id="Theme" text="Theme" translationStatus="1"/>
+        <Label id="LandingPageId" text="Landing Page" translationStatus="1"/>
+        <Label id="StartScreenConfigurationTitle" text="Start Screen Configuration" translationStatus="1"/>
+        <Label id="BluetoothDeviceId" text="Bluetooth Device" translationStatus="1"/>
+        <Label id="ExternalDeviceSettingsTitle" text="External Device Settings" translationStatus="1"/>
+        <Label id="DefaultVisitTypeId" text="Default visit type" translationStatus="1"/>
+        <Label id="VisitTypeTitle" text="Visit type" translationStatus="1"/>
+        <Label id="CalendarInitialTimeId" text="Initial Time" translationStatus="1"/>
+        <Label id="CallCalendarInitialViewId" text="Standard Layout" translationStatus="1"/>
+        <Label id="DefaultCallStatusViewId" text="Call filter" translationStatus="1"/>
+        <Label id="showAgendaTimeId" text="Show Agenda Time" translationStatus="1"/>
+        <Label id="showCalendarWeekId" text="Show Calendar Week" translationStatus="1"/>
+        <Label id="displayWeekendId" text="Display Weekend" translationStatus="1"/>
+        <Label id="CallCalendarTitle" text="Call Calendar" translationStatus="1"/>
+        <Label id="displayTrafficId" text="Display traffic" translationStatus="1"/>
+        <Label id="displayRouteId" text="Display route" translationStatus="1"/>
+        <Label id="CalendarMapSettings" text="Calendar map settings" translationStatus="1"/>
+        <Label id="PictureProfileId" text="Picture profile" translationStatus="1"/>
+        <Label id="CameraSettingsTitle" text="Camera settings" translationStatus="1"/>
+        <Label id="enableSynchronizationId" text="Enable" translationStatus="1"/>
+        <Label id="TimeIntervallId" text="Time Interval (min)" translationStatus="1"/>
+        <Label id="SynchronizationTitle" text="Timer Based Synchronization" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

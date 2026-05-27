@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallAutomaticPlanningUI">
+        <Label id="AutomaticPlanning" text="Automatic Planning" translationStatus="1"/>
+        <Label id="userName" text="User : " translationStatus="1"/>
+        <Label id="week" text="Week : " translationStatus="1"/>
+        <Label id="DeleteVisitsId" text="Delete" translationStatus="1"/>
+        <Label id="PlanVisitsId" text="Plan Visits" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

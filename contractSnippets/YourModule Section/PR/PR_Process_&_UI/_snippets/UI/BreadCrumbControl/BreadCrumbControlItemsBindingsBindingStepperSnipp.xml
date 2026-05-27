@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Stepper" binding="${#binding#}" bindingMode="ONE_WAY" minBinding="${#minBinding#}" maxBinding="${#maxBinding#}" stepSizeBinding="${#stepSizeBinding#}"/>

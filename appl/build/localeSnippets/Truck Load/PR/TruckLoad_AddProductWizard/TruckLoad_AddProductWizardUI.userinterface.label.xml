@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TruckLoadAddProductWizardUI">
+        <Label id="AddId" text="Add" translationStatus="1"/>
+        <Label id="TruckLoadAddProductId" text="Add Product" translationStatus="1"/>
+        <Label id="ProductId" text="Product" translationStatus="1"/>
+        <Label id="OrderSelectSdoItemMeta" text="Item Template" translationStatus="1"/>
+        <Label id="OrderSelectUomDialog_Unit" text="Unit" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

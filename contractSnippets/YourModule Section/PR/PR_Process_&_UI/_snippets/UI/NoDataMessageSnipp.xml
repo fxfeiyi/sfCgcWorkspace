@@ -1,0 +1,9 @@
+<NoDataMessage name="${#componentName#}"> 
+	<Bindings> 
+		<!-- mandatory bindings --> 
+		<Resource target="infoIcon" type="Image" id="${#infoIcon#}" /> 
+		<Binding target="maintext" type="Text" binding="${#maintext#}" bindingMode="ONE_WAY" /> 
+		<!-- optional bindings --> 
+		<Binding target="subtext" type="Text" binding="${#subtext#}" bindingMode="ONE_WAY" /> 
+	</Bindings> 
+</NoDataMessage>

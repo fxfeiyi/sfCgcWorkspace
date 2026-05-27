@@ -1,0 +1,11 @@
+<Events>
+	<CalendarLongTapEvent event="${#event1#}"/>
+	<CalendarItemOverlappingOpeningEvent event="${#event2#}"/>
+	<ItemSelectedEvent event="${#event3#}"/>
+	<ContextOpeningEvent event="${#event4#}"/>
+	<ContextSelectedEvent event="${#event5#}"/>
+	<CalendarDateRangeChangedEvent event="${#event6#}"/>
+	<CalendarItemResizeEvent event="${#event7#}"/>
+	<CalendarItemMoveEvent event="${#event8#}"/>
+	<CalendarDropEvent event="${#event9#}"/>
+</Events>

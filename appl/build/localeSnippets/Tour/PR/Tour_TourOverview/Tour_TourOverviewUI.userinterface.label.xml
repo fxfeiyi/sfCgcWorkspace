@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourTourOverviewUI">
+        <Label id="TourOverviewId" text="Tours" translationStatus="1"/>
+        <Label id="noId" text=" " translationStatus="1"/>
+        <Label id="TourOverviewVisitsCount" text="Visits" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

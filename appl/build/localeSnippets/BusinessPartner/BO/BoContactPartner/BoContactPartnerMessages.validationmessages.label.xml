@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoContactPartner">
+        <Label id="CasBpaMainContactPartnerLastNameMustNotBeEmpty" text="Please enter a Last Name." translationStatus="1"/>
+        <Label id="CasBpaMainContactPartnerEmailInvalid" text="Please provide a valid email for the contact partner." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,7 @@
+<Action name="${#ActionName#}" actionType="LOAD" type="${#type#}">
+	<Parameters>
+		<Input name="${#InputName#}" value="${#Value#}" type="${#InputType#}" />
+	</Parameters>
+	<Return name="${#ReturnName#}" />
+	<TransitionTo action="${#TransitionToAction#}"/>
+</Action>

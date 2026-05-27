@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TruckLoadOverviewUI">
+        <Label id="checkOutId" text="Check out" translationStatus="1"/>
+        <Label id="checkInButtonId" text="Check in" translationStatus="1"/>
+        <Label id="CreateNew" text="New Document" translationStatus="1"/>
+        <Label id="CreateNewStock" text="Current Stock" translationStatus="1"/>
+        <Label id="TruckLoadOverviewId" text="Inventory" translationStatus="1"/>
+        <Label id="TemplateLabel" text="Template" translationStatus="1"/>
+        <Label id="phaseLabelId" text="Phase" translationStatus="1"/>
+        <Label id="commitDateId" text="Date" translationStatus="1"/>
+        <Label id="datePhaseId" text="Date / Phase" translationStatus="1"/>
+        <Label id="emptyLabelId" text=" " translationStatus="1"/>
+        <Label id="headerId" text="Id" translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

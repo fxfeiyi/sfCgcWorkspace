@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global>
+      <Label id="Ok" text="Ok" translationStatus="1"/>
+    </Global>
+    <NavigationLabels/>
+    <ConfirmationMessages>
+      <Process id="Call.AgendaProcess">
+        <Label id="CasConfirmLoadCallOnDemandData" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmLoadCallOnDemandData" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasCallDataLoadingInProgress" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasCallDataLoadingInProgress" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCallDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCallDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbCompleteHasOpenOrders" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbCompleteHasOpenOrders" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbNoCallTemplateForScanningFound" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbNoCallTemplateForScanningFound" text="AUTO-GENERATED" translationStatus="1"/>
+      </Process>
+    </ConfirmationMessages>
+  </Translations>
+</Locale>

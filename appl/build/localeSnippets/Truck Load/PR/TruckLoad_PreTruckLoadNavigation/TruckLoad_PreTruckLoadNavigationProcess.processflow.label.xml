@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global/>
+    <NavigationLabels>
+      <Process id="TruckLoad.PreTruckLoadNavigationProcess.Startnavigation">
+        <Label id="orderItems" text="Items" translationStatus="1"/>
+        <Label id="orderHeader" text="Header" translationStatus="1"/>
+      </Process>
+    </NavigationLabels>
+    <ConfirmationMessages/>
+  </Translations>
+</Locale>

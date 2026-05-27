@@ -1,0 +1,1 @@
+<Binding target="AddItem" type="Text" binding="${#binding#}" BindingMode="ONE_WAY"/>

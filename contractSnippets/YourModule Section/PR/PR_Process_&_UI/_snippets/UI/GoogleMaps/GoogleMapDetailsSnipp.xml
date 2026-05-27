@@ -1,0 +1,20 @@
+<GoogleMapDetails name="${#name#}">
+	<Bindings>
+		<Binding target="Visible" type="Boolean" binding="${#binding#}" bindingMode="TWO_WAY"/>
+	</Bindings>
+	<CockpitSections name="${#cockpitName#}">
+		<CockpitSection name="${#sectionName#}" sectionPattern="2columns" showSeparator="true">
+			<Bindings>
+				<Binding target="col1row1" type="ItemIdentifier" binding="${#col1row1Binding#}"/>
+			</Bindings>
+		</CockpitSection>
+	</CockpitSections>
+	<ActionBar>
+		<ImageButton>
+			<Bindings>
+				<Resource target="Image" type="Image" id="${#imageId#}"/>
+				<Resource target="Text" type="Label" id="${#labelId#}" defaultLabel="${#label#}"/>
+			</Bindings>
+		</ImageButton>
+	</ActionBar>
+</GoogleMapDetails>

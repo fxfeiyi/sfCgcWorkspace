@@ -1,0 +1,6 @@
+<InputAreaMultiLine name="${#name#}" height="${#height1#}">
+	<Bindings>
+			<Resource target="Label" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" height="${#height2#}" />
+			<Binding target="Value" type="${#type#}" binding="${#binding#}" bindingMode="TWO_WAY" />
+	</Bindings>
+</InputAreaMultiLine>

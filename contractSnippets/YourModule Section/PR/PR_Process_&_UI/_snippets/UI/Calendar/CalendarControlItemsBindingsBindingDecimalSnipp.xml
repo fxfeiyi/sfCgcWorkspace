@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Decimal" binding="${#binding#}" bindingMode="ONE_WAY" defaultLabel="${#defaultLabel#}" format="${#format#}" />

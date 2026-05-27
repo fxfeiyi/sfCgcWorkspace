@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallAccountReceivablesUI">
+        <Label id="AccountReceivableId" text="Account Receivables" translationStatus="1"/>
+        <Label id="AmountLabelId" text="Amount" translationStatus="1"/>
+        <Label id="AmountOpenLabelId" text="Open" translationStatus="1"/>
+        <Label id="DueDateLabelId" text="Due Date" translationStatus="1"/>
+        <Label id="ReceiptDateLabelId" text="Receipt Date" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

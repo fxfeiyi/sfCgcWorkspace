@@ -1,0 +1,11 @@
+<TempTable name="${#Name#}_T" schemaVersion="">
+  <columns>
+    <column name="isDeleted" domain="DomBool" />
+    <column name="" domain="" defaultValue="" nullable="" migrationDefault="" />
+  </columns>
+  <indexes>
+    <index name="">
+      <column name="" />
+    </index>
+  </indexes>
+</TempTable>

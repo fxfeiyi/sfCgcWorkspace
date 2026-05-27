@@ -1,0 +1,52 @@
+<EnhancedDecisionList name="${#ListName#}">
+	<Bindings>
+		<Binding target="Title" type="Text" binding="${#TitleBinding#}" />
+		<Binding target="Visible" type="Visible" binding="${#VisibleBinding#}"/>
+		<Binding target="Editable" type="Editable" binding="${#eEditableBinding#}" />
+		<List target="Decisions" dataSource="${#dDataSource#}">
+			<Binding target="pKey" type="Text" binding="${#dPKey#}" />
+			<Binding target="description" type="Text" binding="${#dDescription#}" />
+			<Binding target="detailText" type="Text" binding="${#dDetailText#}" />
+			<Binding target="detailTextFontColor" type="Color" binding="${#dDetailTextFontColor#}" />
+			<Binding target="groupId" type="Text" binding="${#dGroupId#}" />
+			<Binding target="isTrue" type="Boolean" binding="${#dIsTrue#}" />
+			<Binding target="sort" type="Text" binding="${#dSort#}" />
+		</List>
+		<List target="Groups" dataSource="${#gDataSource#}">
+			<Binding target="pKey" type="Text" binding="${#gPKey#}" />
+			<Binding target="description" type="Text" binding="${#gDescription#}" />
+			<Binding target="detailText" type="Text" binding="${#dDetailText#}" />
+			<Binding target="additionalInfo" type="Text" binding="${#dAdditionalInfo#}" />
+			<Binding target="resultHeaderImage" type="Text" binding="${#gResultHeaderImage#}" />
+			<Binding target="resultSectionText" type="Text" binding="${#gResultSectionText#}" />
+			<Binding target="sort" type="Text" binding="${#gSort#}" />
+			<Binding target="HeaderBackgroundColor" type="Color" binding="${#gHeaderBackgroundColor#}" />
+			<Binding target="HeaderFontColor" type="Color" binding="${#gHeaderFontColor#}" />
+		</List>
+		<List target="Results" dataSource="${#rDataSource#}">
+			<Binding target="pKey" type="Text" binding="${#rPKey#}" />
+			<Binding target="description" type="Text" binding="${#rDescription#}" />
+			<Binding target="detailText" type="Text" binding="${#rDetailText#}" />
+			<Binding target="detailTextFontColor" type="Color" binding="${#rDetailTextFontColor#}" />
+			<Binding target="buttonText" type="Text" binding="${#rButtonText#}" />
+			<Binding target="editable" type="Boolean" binding="${#rEditable#}" />
+			<Binding target="visible" type="Boolean" binding="${#rVisible#}" />
+			<Binding target="groupId" type="Text" binding="${#rGroupId#}" />
+			<Binding target="isSelected" type="Boolean" binding="${#rIsSelected#}" />
+			<Binding target="showButton" type="Boolean" binding="${#rShowButton#}" />
+			<Binding target="sort" type="Text" binding="${#rSort#}" />
+		</List>
+	</Bindings>
+	<Events>
+		<ButtonPressedEvent event="${#buttonPressed#}" >
+			<Params>
+				<Param name="pKey" value=".pKey" />
+			</Params>
+		</ButtonPressedEvent>
+		<ItemSelectedEvent event= "${#itemSelected#}">
+			<Params>
+				<Param name="pKey" value=".pKey" />
+			</Params>
+		</ItemSelectedEvent>
+	</Events>
+</EnhancedDecisionList>

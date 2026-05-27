@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="DailyReportTimeEntryCreateNewUI">
+        <Label id="doneId" text="Create" translationStatus="1"/>
+        <Label id="TimeEntryCreateNewTitle" text="New Time Entry" translationStatus="1"/>
+        <Label id="templateId" text="Time Entry Type" translationStatus="1"/>
+        <Label id="DescriptionId" text="Description" translationStatus="1"/>
+        <Label id="StartEndDateId" text=" " translationStatus="1"/>
+        <Label id="StartGroupTitle" text="Start" translationStatus="1"/>
+        <Label id="TimeEnd" text="Time From" translationStatus="1"/>
+        <Label id="StartEndTimeId" text=" " translationStatus="1"/>
+        <Label id="EndGroupTitle" text="End" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason Code" translationStatus="1"/>
+        <Label id="FlyoutTimeEntryCreateNew_Note" text="Note" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

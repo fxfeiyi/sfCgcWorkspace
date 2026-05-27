@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="DailyReportCreateNewWizardUI">
+        <Label id="createNewDailyReportId" text="Create" translationStatus="1"/>
+        <Label id="AddDailyReportId" text="Add Daily Report" translationStatus="1"/>
+        <Label id="Date" text="Date" translationStatus="1"/>
+        <Label id="Type" text="Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

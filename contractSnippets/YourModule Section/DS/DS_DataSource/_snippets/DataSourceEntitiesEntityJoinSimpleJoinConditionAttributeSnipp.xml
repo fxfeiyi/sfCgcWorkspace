@@ -1,0 +1,1 @@
+<Condition leftSideValue="${#leftSideValue#}" comparator="${#comparator#}" rightSideType="Attribute" rightSideValue="${#rightSideValue#}" />

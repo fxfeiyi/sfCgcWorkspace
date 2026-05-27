@@ -1,0 +1,34 @@
+<Page pagePattern="SingleSectionDialogPage" navigation="Off" onBackDiscard="true">
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+		<MenuItems>
+			<MenuItem directlyVisible="true" itemId="${#itemId#}">
+				<Bindings>
+					<Resource target="Text" type="Label" id="${#id1#}Id" defaultLabel="${#defaultLabel1#}" />
+					<Resource target="Icon" type="Image" id="${#id2#}" />
+				</Bindings>
+				<Events>
+					<ButtonPressedEvent event="${#event#}Pressed">
+						<Params>
+							<Param name="buttonPressed" value="${#value#}" />
+						</Params>
+					</ButtonPressedEvent>
+				</Events>
+			</MenuItem>
+		</MenuItems>
+	</PageHeader>
+	<Section sectionName="masterSection" sectionPattern="SingleAreaSection">
+		<Area areaName="mainArea" areaPattern="GroupedElementsArea">
+			<GroupElement name="${#name#}">
+				<InputArea name="${#name1#}">
+					<Bindings>
+						<Resource target="Label" type="Label" defaultLabel="${#defaultLabel3#}" id="${#id3#}Id" />
+						<Binding target="Value" type="${#type#}" binding="${#binding#}" bindingMode="TWO_WAY" />
+					</Bindings>
+				</InputArea>
+			</GroupElement>
+		</Area>
+	</Section>
+</Page>

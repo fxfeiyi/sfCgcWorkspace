@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoCustomer">
+        <Label id="CasBpaMainCustomerNameMustNotBeEmpty" text="Please enter the name of customer." translationStatus="1"/>
+        <Label id="CasBpaMainCustomerEmailInvalid" text="Please provide a valid email for the customer." translationStatus="1"/>
+        <Label id="CasBpaMainContactPartnerLastNameEmpty" text="Please specify the last name for the contact partner." translationStatus="1"/>
+        <Label id="CasBpaMainContactPartnerEmailInvalid" text="Please provide a valid email for the contact partner." translationStatus="1"/>
+        <Label id="CasBpaMainOpeningTimeFromGreaterTimeThru" text="Time from of opening time must be earlier than Time Thru." translationStatus="1"/>
+        <Label id="CasBpaPosValidFromGreaterValidThru" text="Valid From must be earlier or same as Valid Thru." translationStatus="1"/>
+        <Label id="CasBpaPOSNameMustNotBeEmpty" text="Please enter the name of POS #posId#, #text#." translationStatus="1"/>
+        <Label id="CasBpaPOSValidityPeriodMustNotOverlap" text="The validity period of POS #posId#, #text# must not overlap." translationStatus="1"/>
+        <Label id="CasBpaPOSNoDeletionAllowedMsg" text="POS relation is mandatory. You cannot delete mandatory POS relations." translationStatus="1"/>
+        <Label id="CasBpaPOSConfirmDeletionMsg" text="Are you sure you want to delete POS relation?" translationStatus="1"/>
+        <Label id="CasBpaLocationCouldNotBeUpdated" text="Sorry, could not update the location." translationStatus="1"/>
+        <Label id="CasBpaSplittingRuleHasToBeFilled" text="The splitting rule should not be blank." translationStatus="1"/>
+        <Label id="CasBpaSplittingRuleHasToBeBlank" text="The splitting rule should be blank." translationStatus="1"/>
+        <Label id="CasBpaMainOpeningTimeFromOrTimeThruNotEmpty" text="Please specify Time From and Time Thru for opening hours." translationStatus="1"/>
+        <Label id="CasBpaPOSHasReferencedAsset" text="Deleting this POS is not allowed because there are assets relying on it." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

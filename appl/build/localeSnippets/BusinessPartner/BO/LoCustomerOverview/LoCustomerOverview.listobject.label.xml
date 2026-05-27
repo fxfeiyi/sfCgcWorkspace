@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoCustomerOverview">
+        <Label id="Customer_Id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Name" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Street" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_ZipCode" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_City" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_State" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Prio" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_ClassOfTrade" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Substitution" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_TradeOrg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Overdue" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoOverdueCustomerOverview">
+        <Label id="Customer_Id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Name" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Street" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_ZipCode" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_City" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_State" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Prio" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_ClassOfTrade" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Substitution" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_TradeOrg" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoFindCustomers">
+        <Label id="Customer_Name" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Prio" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Distance.radius" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Distance.center" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Overdue" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_DistributionIssue" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_OutOfStockIssue" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Activities" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_Promotions" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Customer_PlannedVisits" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

@@ -1,0 +1,8 @@
+<MediaListControl name="${#name#}" dataSource="${#dataSource#}">
+	<Bindings>
+		<Binding target="MediaPath" type="Text" binding="${#binding1#}" bindingMode="ONE_WAY" />
+		<Binding target="IsTagged" type="Text" binding="${#binding2#}" bindingMode="ONE_WAY" />
+		<Binding target="Description" type="Text" binding="${#binding3#}" bindingMode="ONE_WAY" />
+		<Binding target="Type" type="Text" binding="${#binding4#}" bindingMode="ONE_WAY" />
+	</Bindings>
+</MediaListControl>

@@ -1,0 +1,88 @@
+{
+    "xml.fileAssociations": [
+        {
+            "pattern": "**/*.businessobject.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/BusinessObject.xsd"
+        },
+        {
+            "pattern": "**/*.businessobjecthelper.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/BusinessObjectHelper.xsd"
+        },
+        {
+            "pattern": "**/*.datasource.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/datasource.xsd"
+        },
+        {
+            "pattern": "**/Domains.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/domainrepository.xsd"
+        },
+        {
+            "pattern": "**/*.externalfile.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ExternalFile.xsd"
+        },
+        {
+            "pattern": "**/*.listitem.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ListItem.xsd"
+        },
+        {
+            "pattern": "**/*.listobject.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ListObject.xsd"
+        },
+        {
+            "pattern": "**/*.lookupobject.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/LookupObject.xsd"
+        },
+        {
+            "pattern": "**/*.printlayoutv2.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/printLayout.xsd"
+        },
+        {
+            "pattern": "**/*.processflow.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ProcessFlow.xsd"
+        },
+        {
+            "pattern": "**/*.dbtable.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/tables.xsd"
+        },
+        {
+            "pattern": "**/*.temptable.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/tables.xsd"
+        },
+        {
+            "pattern": "**/*.userinterface.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/uidescription.xsd"
+        },
+        {
+            "pattern": "**/*.uipluginv2.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/UIPluginV2.xsd"
+        },
+        {
+            "pattern": "**/*.validationmessages.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ValidationMessages.xsd"
+        },
+        {
+            "pattern": "**/*.locale.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/Locale.xsd"
+        },
+        {
+            "pattern": "**/*.image.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/Image.xsd"
+        },
+        {
+            "pattern": "**/*.globallabel.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/GlobalLabels.xsd"
+        },
+        {
+            "pattern": "**/Actors.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/ActorRepository.xsd"
+        },
+        {
+            "pattern": "**/*.plugin.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/Plugin.xsd"
+        },
+        {
+            "pattern": "**/package.xml",
+            "systemId": "/Users/peixiaofeng/.local/share/sf/node_modules/@ind-rcg/generator/validator/xmlSchema/Package.xsd"
+        }
+    ]
+}

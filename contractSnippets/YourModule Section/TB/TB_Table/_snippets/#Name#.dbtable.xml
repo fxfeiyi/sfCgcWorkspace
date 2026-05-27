@@ -1,0 +1,10 @@
+<DBTable name="${#Name#}" schemaVersion="">
+  <columns>
+    <column name="" domain="" defaultValue="" nullable="" migrationDefault="" />
+  </columns>
+  <indexes>
+    <index name="">
+      <column name="" />
+    </index>
+  </indexes>
+</DBTable>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderNotesTab">
+        <Label id="invoiceNote" text="Invoice" translationStatus="1"/>
+        <Label id="deliveryNote" text="Delivery" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

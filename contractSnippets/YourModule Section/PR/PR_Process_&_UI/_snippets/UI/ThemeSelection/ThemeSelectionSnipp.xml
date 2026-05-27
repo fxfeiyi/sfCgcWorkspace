@@ -1,0 +1,5 @@
+<ThemeSelection name="${#name#}">
+	<Bindings>
+		<Binding target="Language_1" binding="${#binding#}"/>
+	</Bindings>
+</ThemeSelection>

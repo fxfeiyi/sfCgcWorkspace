@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="AssetManagementCallAssetOverviewUI">
+        <Label id="AllAssets" text="All Assets" translationStatus="1"/>
+        <Label id="OnlyNotSighted" text="Only Not Sighted" translationStatus="1"/>
+        <Label id="OnlySighted" text="Only Sighted" translationStatus="1"/>
+        <Label id="RegisterNewAsset" text="Register" translationStatus="1"/>
+        <Label id="ScanBarcode" text="Scan Barcode" translationStatus="1"/>
+        <Label id="Empty" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="AttachmentId" text="Attachments" translationStatus="1"/>
+        <Label id="HQNote" text="Headquarter Note" translationStatus="1"/>
+        <Label id="Condition" text="Condition" translationStatus="1"/>
+        <Label id="ConditionHistorical" text=" " translationStatus="1"/>
+        <Label id="Location" text="Location" translationStatus="1"/>
+        <Label id="LocationHistorical" text=" " translationStatus="1"/>
+        <Label id="LocationRating" text="Rating" translationStatus="1"/>
+        <Label id="LocationRatingHist" text=" " translationStatus="1"/>
+        <Label id="Usage" text="Usage" translationStatus="1"/>
+        <Label id="UsageHist" text=" " translationStatus="1"/>
+        <Label id="AssetDetails" text="Asset Details" translationStatus="1"/>
+        <Label id="Note" text="Note" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

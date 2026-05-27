@@ -1,0 +1,12 @@
+<LinkBar>
+	<ImageButton name="${#name#}" backendSystem="${#backendSystem#}">
+		<Bindings>
+			<Resource target="Image" type="Image" id="${#idImage#}" />
+			<Resource target="Text" type="Label" id="${#idLabel#}Id" defaultLabel="${#defaultLabel#}" />
+			<Binding target="Info" binding="${#binding#}" bindingMode="ONE_WAY" />
+		</Bindings>
+		<Events>
+			<ButtonPressedEvent event="${#event#}Pressed" />
+		</Events>
+	</ImageButton>
+</LinkBar>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourDriverCockpitUI">
+        <Label id="RefreshDriverCockpit" text="Refresh" translationStatus="1"/>
+        <Label id="DriverCockpitTitle" text="Cockpit" translationStatus="1"/>
+        <Label id="BurgerMenu_Tour" text="Tour" translationStatus="1"/>
+        <Label id="BurgerMenu_Customer" text="Customer" translationStatus="1"/>
+        <Label id="BurgerMenu_Product" text="Product" translationStatus="1"/>
+        <Label id="BurgerMenu_Notifications" text="Notifications" translationStatus="1"/>
+        <Label id="BurgerMenu_PersonalSettings" text="My Settings" translationStatus="1"/>
+        <Label id="BurgerMenu_About" text="About" translationStatus="1"/>
+        <Label id="BurgerMenu_Logout" text="Logout" translationStatus="1"/>
+        <Label id="TourCountId" text="Tours Remaining" translationStatus="1"/>
+        <Label id="CardUserWelcome_MessageText" text="Have a great day." translationStatus="1"/>
+        <Label id="TodayLabel" text="Today" translationStatus="1"/>
+        <Label id="UserWelcomeCardTitle" text="Summary" translationStatus="1"/>
+        <Label id="CardTourSchedule_NoDataMessageMainText" text="Congratulations," translationStatus="1"/>
+        <Label id="CardTourSchedule_NoDataMessageSubText" text="you have completed all tours. :)" translationStatus="1"/>
+        <Label id="visitLabel" text="Visits: " translationStatus="1"/>
+        <Label id="CardTourScheduleTitle" text="Tour Schedule" translationStatus="1"/>
+        <Label id="CardNotifications_NoDataMessageMainText" text="Congratulations," translationStatus="1"/>
+        <Label id="CardNotifications_NoDataMessageSubText" text="you have an empty inbox. :)" translationStatus="1"/>
+        <Label id="ShowNotificationsLink" text="All Notifications" translationStatus="1"/>
+        <Label id="UserNotificationsCardTitle" text="Notifications" translationStatus="1"/>
+        <Label id="SyncCardTitle" text="Sync Status" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

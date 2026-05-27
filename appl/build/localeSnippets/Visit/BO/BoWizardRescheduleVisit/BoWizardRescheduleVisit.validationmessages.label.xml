@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoWizardRescheduleVisit">
+        <Label id="StartPlannedTimeAfterEndPlannedTimeNotAllowed" text="Planned start time can't be on or after the planned end time of a visit." translationStatus="1"/>
+        <Label id="FillInDateAndTimeFields" text="Enter date and time for planned start date and planned end date." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

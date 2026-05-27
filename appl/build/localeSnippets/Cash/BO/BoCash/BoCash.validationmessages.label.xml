@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoCash">
+        <Label id="CasCashInvalidCheckInAmount" text="The actual amount for payment method #paymentMethod# must be greater than 0." translationStatus="1"/>
+        <Label id="CasCashExpenseTypeNeeded" text="Please enter an Expense Type." translationStatus="1"/>
+        <Label id="CasCashValidateMinAmount" text="The total value #totalValue# of the sales document is smaller than the minimum value #minValue# of the template." translationStatus="1"/>
+        <Label id="CasCashValidateMaxAmount" text="The total value #totalValue# of the sales document is greater than the maximum value #maxValue# of the template." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

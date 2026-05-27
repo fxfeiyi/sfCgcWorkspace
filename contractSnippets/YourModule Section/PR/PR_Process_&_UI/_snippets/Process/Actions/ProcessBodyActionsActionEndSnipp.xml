@@ -1,0 +1,5 @@
+<Action actionType="END" name="${#ActionName#}">
+	<ReturnValues>
+		<Return name="${#ReturnName#}" value="${#ReturnValue#}" />
+	</ReturnValues>
+</Action>

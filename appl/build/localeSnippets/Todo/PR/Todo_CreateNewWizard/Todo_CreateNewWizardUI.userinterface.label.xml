@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TodoCreateNewWizardUI">
+        <Label id="createNewTodoId" text="Create" translationStatus="1"/>
+        <Label id="AddTodoId" text="Add Tasks" translationStatus="1"/>
+        <Label id="UserId" text="User" translationStatus="1"/>
+        <Label id="Description" text="Description" translationStatus="1"/>
+        <Label id="DueDateId" text="Due Date" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

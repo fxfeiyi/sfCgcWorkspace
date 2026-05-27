@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoWizardRescheduleCall">
+        <Label id="CasClbCannotRescheduleSubstitutedCall" text="A call of a substituted customer cannot be rescheduled to a date outside of the substitution time frame." translationStatus="1"/>
+        <Label id="CasClbCannotRescheduleCallWhileSubstituted" text="A call cannot be rescheduled to a date on which the call customer is substituted." translationStatus="1"/>
+        <Label id="CasClbCannotRescheduleInvalidManagementRelation" text="The management relation of the customer is not valid for the date of the call." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

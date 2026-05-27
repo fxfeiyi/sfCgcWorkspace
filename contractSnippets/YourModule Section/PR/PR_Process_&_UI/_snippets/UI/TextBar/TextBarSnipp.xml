@@ -1,0 +1,7 @@
+<TextBar name="${#name#}">
+	<Bindings>
+		<Binding target="backgroundColor" type="Color" binding="${#backgroundColor#}"  bindingMode="ONE_WAY"/>
+		<Binding target="fontColor" type="Color" binding="${#fontColor#}"  bindingMode="ONE_WAY"/>
+		<Binding target="text" type="Text" binding="${#text#}" bindingMode="ONE_WAY" />
+	</Bindings>
+</TextBar>

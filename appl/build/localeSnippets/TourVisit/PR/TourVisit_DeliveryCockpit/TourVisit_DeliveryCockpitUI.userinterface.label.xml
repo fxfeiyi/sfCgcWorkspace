@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourVisitDeliveryCockpitUI">
+        <Label id="startCallId" text="Start Visit" translationStatus="1"/>
+        <Label id="completeCallId" text="End Visit" translationStatus="1"/>
+        <Label id="StartVisitLink" text="Start Visit" translationStatus="1"/>
+        <Label id="VisitSummaryCardTitle" text="Visit Summary" translationStatus="1"/>
+        <Label id="ShowDetailsLink" text="Show Details" translationStatus="1"/>
+        <Label id="ShowEmailLink" text="Send Email" translationStatus="1"/>
+        <Label id="HeaderCardTitle" text="Customer Details1" translationStatus="1"/>
+        <Label id="ActivitiesCardTitle" text="Your activities for today" translationStatus="1"/>
+        <Label id="CardOrderHistory_NoDataMessageMainText" text="No orders for this customer," translationStatus="1"/>
+        <Label id="CardOrderHistory_NoDataMessageSubText" text="why don’t you create one." translationStatus="1"/>
+        <Label id="CreateNewOrderId" text="Create New Order" translationStatus="1"/>
+        <Label id="AllOrdersLink" text="All Orders" translationStatus="1"/>
+        <Label id="OrdersCardTitle" text="Orders" translationStatus="1"/>
+        <Label id="CardDeliveryDocuments_NoDataMessageMain" text="No delivery document." translationStatus="1"/>
+        <Label id="CardDeliveryDocuments_NoDataMessageSub" text="You don’t have a delivery for this customer." translationStatus="1"/>
+        <Label id="emptyLabelId" text=" " translationStatus="1"/>
+        <Label id="DeliveryDocumentsCardTitle" text="Delivery Documents" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

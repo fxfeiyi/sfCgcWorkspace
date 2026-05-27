@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoJobLists">
+        <Label id="JobLists_CustomerName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_Activity" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_Street" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_ZIP" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_City" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_State" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_validFrom" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_validThru" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="JobLists_Substitution" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

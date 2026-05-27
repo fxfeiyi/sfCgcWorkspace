@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallCompleteTabUI">
+        <Label id="MainTabId" text="Main" translationStatus="1"/>
+        <Label id="ExceptionsTabId" text="Exceptions" translationStatus="1"/>
+        <Label id="completeCallId" text="Complete" translationStatus="1"/>
+        <Label id="VisitDate" text="Visit Start Date" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time From" translationStatus="1"/>
+        <Label id="VisitStartDateTimeId" text="Visit Date / Time" translationStatus="1"/>
+        <Label id="VisitDateEnd" text="Visit End Date" translationStatus="1"/>
+        <Label id="TimeThru" text="Time Thru" translationStatus="1"/>
+        <Label id="VisitEndDateTimeId" text="End Date / Time" translationStatus="1"/>
+        <Label id="AllDay" text="All Day" translationStatus="1"/>
+        <Label id="ClbStatus" text="Status" translationStatus="1"/>
+        <Label id="Responsible" text="Responsible" translationStatus="1"/>
+        <Label id="Subject" text="Subject" translationStatus="1"/>
+        <Label id="VisitType" text="Visit Type" translationStatus="1"/>
+        <Label id="FixedVisit" text="Fixed Visit" translationStatus="1"/>
+        <Label id="TourId" text="Tour Id" translationStatus="1"/>
+        <Label id="SubstitutionVisit" text="Substitution visit" translationStatus="1"/>
+        <Label id="SubstitutionFor" text="Substitution for" translationStatus="1"/>
+        <Label id="CallInformation" text="Call Information" translationStatus="1"/>
+        <Label id="StartTimeEffective" text="Start Time Effective" translationStatus="1"/>
+        <Label id="StopTimeEffectiveId" text="Stop Time Effective" translationStatus="1"/>
+        <Label id="EffectiveStartStopTimeId" text="Effective Start / Stop Time" translationStatus="1"/>
+        <Label id="durationEffectiveId" text="Duration Effective" translationStatus="1"/>
+        <Label id="CapturedTimesId" text="Captured Times" translationStatus="1"/>
+        <Label id="Orders" text="Orders" translationStatus="1"/>
+        <Label id="Items" text="Items" translationStatus="1"/>
+        <Label id="OrdersItemsId" text="Orders / Items" translationStatus="1"/>
+        <Label id="TotalOrderValue" text="Total Order Value" translationStatus="1"/>
+        <Label id="CurrencyId" text="Currency" translationStatus="1"/>
+        <Label id="TotalOrderValueId" text="Total Order Value" translationStatus="1"/>
+        <Label id="Summary" text="Summary" translationStatus="1"/>
+        <Label id="CustomerName" text="Customer Name" translationStatus="1"/>
+        <Label id="Street" text="Street" translationStatus="1"/>
+        <Label id="HouseNumberId" text="House No." translationStatus="1"/>
+        <Label id="StreetNoId" text="Street No." translationStatus="1"/>
+        <Label id="ZIP" text="ZIP" translationStatus="1"/>
+        <Label id="City" text="City" translationStatus="1"/>
+        <Label id="ZIPCityId" text="ZIP City" translationStatus="1"/>
+        <Label id="State" text="State" translationStatus="1"/>
+        <Label id="Customer" text="Customer" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

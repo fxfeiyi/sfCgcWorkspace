@@ -1,0 +1,1 @@
+## In this subfolder we will host the contracts for temporary database tables (TB)

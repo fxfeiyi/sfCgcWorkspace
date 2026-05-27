@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTruckLoad">
+        <Label id="CasSdoMainModReasonRequiredToRelease" text="Modification Reason Code is missing for all marked items in Item List. Document cannot be released." translationStatus="1"/>
+        <Label id="CasSdoMainModReasonRequiredToSave" text="Modification Reason Code is missing for all marked items in Item List. Document cannot be saved." translationStatus="1"/>
+        <Label id="CasSdoMainProductItemMetaAndUnitNotUnique" text="The product(s) #summary# has/have been assigned more than once using the same item template or quantity logistic unit." translationStatus="1"/>
+        <Label id="CasSdoMainBlindModeItemsNotYetEdited" text="There are scheduled items that have not yet been edited and document could not be released." translationStatus="1"/>
+        <Label id="CasSdoMainQuantityExceedsUserInventorySummary" text="The user inventory for some products is overdrawn: #summary#. Please reduce the quantity for this product." translationStatus="1"/>
+        <Label id="CasSdoMainQuantityExceedsUserInventoryWarningSummary" text="The user inventory for some products is overdrawn: #summary#." translationStatus="1"/>
+        <Label id="CasSdoMainQuantityExceedsQuotaSummary" text="The quota for some products are overdrawn: #summary#. Please reduce the quantity for this product." translationStatus="1"/>
+        <Label id="CasSdoMainQuantityExceedsQuotaWarningSummary" text="The quota for some products is overdrawn: #summary#." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

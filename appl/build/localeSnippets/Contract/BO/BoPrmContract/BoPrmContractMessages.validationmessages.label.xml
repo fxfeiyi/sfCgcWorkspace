@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoPrmContract">
+        <Label id="CasPrmCttSloganEmpty" text="Please enter a contract name." translationStatus="1"/>
+        <Label id="CasPrmCttDateFromGTDateThru" text="Please enter a Date From that is less than or equal to Date Thru of contract: #slogan#." translationStatus="1"/>
+        <Label id="CasPrmCttTacticDateFromGTDateThru" text="Please enter a Date From that is less than or equal to Date Thru of tactics #item#." translationStatus="1"/>
+        <Label id="CasPrmCttAtLeastOneProductRequired" text="At least one Product is required." translationStatus="1"/>
+        <Label id="CasPrmCttNoProductsAllowed" text="Only Product Groups are allowed." translationStatus="1"/>
+        <Label id="CasPrmCttDeleteNotResponsible" text="Only the responsible User can delete this Contract." translationStatus="1"/>
+        <Label id="CasPrmCttDeletePhaseNotAllowed" text="A contract in Phase committed cannot be deleted." translationStatus="1"/>
+        <Label id="CasPrmCttTacticDateThruGTCttDateThru" text="Date Thru of tactics:  #item# has to be less than or equal to Date Thru of Customer Contract: #slogan#" translationStatus="1"/>
+        <Label id="CasPrmCttTacticDateFromLTCttDateFrom" text="Date From of tactics:  #item# has to be greater or equal Date From of Customer Contract: #slogan#" translationStatus="1"/>
+        <Label id="CasClbFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

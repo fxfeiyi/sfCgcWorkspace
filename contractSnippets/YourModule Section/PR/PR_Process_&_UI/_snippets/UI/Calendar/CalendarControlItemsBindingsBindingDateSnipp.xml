@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Date" binding="${#binding#}" bindingMode="ONE_WAY" defaultLabel="${#defaultLabel#}" />

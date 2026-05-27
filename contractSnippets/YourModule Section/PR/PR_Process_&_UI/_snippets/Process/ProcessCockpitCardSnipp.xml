@@ -1,0 +1,56 @@
+<!-- 
+This snippet will help you to quickly add a new cockpit card to an existing cockpit. For the UI part see $WORKINGFOLDER/contractSnippets/YourModule Section/PR/PR_Process_&_UI/snippets/UI/CockpitCardContainer.xml 
+Add these parts into your existing Process contract of your UI you will enhance for a new Cockpit Card
+
+The parts with ${YOUR.....} needs to be replaced by your names you will use. The name of the card is configured in the UI contract in property "name" of the corresponding CardContainer
+eg. "${YOUR_CARDNANE}_DataLoaded" -> "CardDisplay_DataLoaded"
+-->
+
+<!-- Declarations Section (Process->Entry->ProcessContext->Declarations -->
+<!-- vvvvvvvvvvvvvvv    start section to copy (incl. the comment tags)     vvvvvvvvvvvvvv -->
+
+        <!-- Card: <YOUR CARDNAME> -->
+        <Declaration name="${YOUR_CARDNANE}_DataLoaded" type="DomBool"/>
+        <Declaration name="${YOUR_CARDNANE}_SubComponentName" type="String"/>
+        <Declaration name="${YOUR_CARDNAME}_DisplayList" type="<YOUR_LO_YOU_WILL_USE_TO_DISPLAY>"/>
+
+<!-- ^^^^^^^^^^^^^^^                 end section to copy                   ^^^^^^^^^^^^^^ -->
+
+#############################################################################################################
+
+<!-- Declarations Section (Process->Body->Actions->Action (name="ShowCockpit")->Events -->
+<!-- vvvvvvvvvvvvvvv    start section to copy (incl. the comment tags)     vvvvvvvvvvvvvv -->
+
+          <!-- Card: Display -->
+          <Event name="${YOUR_CARDNANE}_loadData" action="${YOUR_CARDNANE}_loadData" />
+        
+<!-- ^^^^^^^^^^^^^^^                 end section to copy                   ^^^^^^^^^^^^^^ -->
+
+#############################################################################################################
+
+<!-- Declarations Section (Process->Body->Actions -->
+<!-- vvvvvvvvvvvvvvv    start section to copy (incl. the comment tags)     vvvvvvvvvvvvvv -->
+
+      <!-- Card: Display  START-->
+      <Action name="${YOUR_CARDNANE}_loadData" actionType="LOAD" type="LoMyDisplays" > 
+        <Return name="ProcessContext::${YOUR_CARDNANE}_DisplayList" />
+        <TransitionTo action="${YOUR_CARDNANE}_setSubcomponentName"/>
+      </Action>
+      <Action name="${YOUR_CARDNANE}_setSubcomponentName" actionType="LOGIC" call="ProcessContext::CardController.getDisplayedSubcomponentName"> 
+        <Parameters>
+          <Input name="loItems" value="ProcessContext::${YOUR_CARDNANE}_DisplayList"/>
+          <Input name="type" value="Display" type="Literal" />
+        </Parameters>
+        <Return name="ProcessContext::${YOUR_CARDNANE}_SubComponentName" />
+        <TransitionTo action="${YOUR_CARDNANE}_setDataLoaded"/>
+      </Action>
+      <Action name="${YOUR_CARDNANE}_setDataLoaded" actionType="LOGIC" call="Utils.identity"> 
+        <Parameters>
+          <Input name="value" value="1" type="Literal" />
+        </Parameters>
+        <Return name="ProcessContext::${YOUR_CARDNANE}_DataLoaded" />
+      </Action>
+      <!-- Card: Display  END-->
+        
+<!-- ^^^^^^^^^^^^^^^                 end section to copy                   ^^^^^^^^^^^^^^ -->
+                    

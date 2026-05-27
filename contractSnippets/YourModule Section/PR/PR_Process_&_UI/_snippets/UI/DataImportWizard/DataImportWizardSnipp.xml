@@ -1,0 +1,12 @@
+<DataImportWizard name="${#Name#}" dataSource="${#dataSource#}">
+	<Bindings>
+		<!-- Enter Labels here -->
+	</Bindings>
+	<DataMapping>
+		<ColumnMapping type="Text" name="${#ColumnName#}" defaultCSVPosition="1">
+			<Bindings>
+				<Resource target="Label" type="Label" defaultLabel="${#label#}" id="${#label#}Id" />
+			</Bindings>
+		</ColumnMapping>
+	</DataMapping>
+</DataImportWizard>

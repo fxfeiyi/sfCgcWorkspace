@@ -1,0 +1,6 @@
+<Action name="${#ActionName#}" actionType="CONFIRM" confirmType="${#ConfirmType#}">
+	<Message messageId="${#Message#}" />
+	<Cases>
+		<Case value="${#Value#}" action="${#Action#}" />
+	</Cases>
+</Action>

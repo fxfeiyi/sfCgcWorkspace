@@ -1,0 +1,22 @@
+<BreadCrumbControl name="${#bccName#}" dataSource="${#dataSource#}">
+	<Hierarchy name="${#hName#}" labelAttribute="${#labelAttribute#}">
+		<Bindings>
+			<Resource target="RootLabel" type="Label" id="${#id#}" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+		<Events>
+			<ItemSelectedEvent event="${#event#}">
+				<Params>
+					<Param name="id" value=".id" />
+				</Params>
+			</ItemSelectedEvent>
+			<HierarchyBackEvent event="${#event1#}">
+				<Params>
+					<Param name="id" value=".id" />
+				</Params>
+			</HierarchyBackEvent>
+		</Events>
+	</Hierarchy>
+	<Items name="Items" itemPattern="${#itemPattern#}">
+		<ItemListLayout />
+	</Items>
+</BreadCrumbControl>

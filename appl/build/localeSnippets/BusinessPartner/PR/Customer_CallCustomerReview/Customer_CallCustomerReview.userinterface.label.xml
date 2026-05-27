@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CustomerCallCustomerReview">
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="MapId" text="Map" translationStatus="1"/>
+        <Label id="OpenHoursId" text="Open Hours" translationStatus="1"/>
+        <Label id="ContactId" text="Contact" translationStatus="1"/>
+        <Label id="SalesId" text="Sales" translationStatus="1"/>
+        <Label id="POSId" text="POS" translationStatus="1"/>
+        <Label id="CallOverviewId" text="Call" translationStatus="1"/>
+        <Label id="BpaRolesId" text="Roles" translationStatus="1"/>
+        <Label id="ListingClassificationId" text="Listing Classification" translationStatus="1"/>
+        <Label id="RelationsId" text="Relations" translationStatus="1"/>
+        <Label id="AttachmentId" text="Attachments" translationStatus="1"/>
+        <Label id="UpdateGeoCoordinatesId" text="Update Location" translationStatus="1"/>
+        <Label id="NavigateId" text="Navigate to Customer" translationStatus="1"/>
+        <Label id="IdId" text="Id" translationStatus="1"/>
+        <Label id="NameId" text="Name" translationStatus="1"/>
+        <Label id="Name2Id" text="Second Name" translationStatus="1"/>
+        <Label id="MatchcodeId" text="Matchcode" translationStatus="1"/>
+        <Label id="StreetId" text="Street" translationStatus="1"/>
+        <Label id="HouseNumberId" text="House No." translationStatus="1"/>
+        <Label id="Street" text="Street No." translationStatus="1"/>
+        <Label id="ZipCodeId" text="ZIP" translationStatus="1"/>
+        <Label id="CityId" text="City" translationStatus="1"/>
+        <Label id="City" text="ZIP City" translationStatus="1"/>
+        <Label id="CountryStateId" text="State" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="PhoneId" text="Phone" translationStatus="1"/>
+        <Label id="FaxId" text="Fax" translationStatus="1"/>
+        <Label id="EmailId" text="EMail" translationStatus="1"/>
+        <Label id="CommunicationId" text="Communication" translationStatus="1"/>
+        <Label id="PrioId" text="Prio" translationStatus="1"/>
+        <Label id="ClassOfTradeId" text="Class Of Trade" translationStatus="1"/>
+        <Label id="TypeId" text="Customer Type" translationStatus="1"/>
+        <Label id="ClassificationId" text="Classification" translationStatus="1"/>
+        <Label id="PhaseId" text="Phase" translationStatus="1"/>
+        <Label id="SalesRelevantId" text="Sales Relevant" translationStatus="1"/>
+        <Label id="DateClosure" text="Closure Date" translationStatus="1"/>
+        <Label id="Deleted" text="Deleted" translationStatus="1"/>
+        <Label id="StatusId" text="Status" translationStatus="1"/>
+        <Label id="LatitudeId" text="Latitude" translationStatus="1"/>
+        <Label id="LongitudeId" text="Longitude" translationStatus="1"/>
+        <Label id="Coordinates" text="Latitude / Longitude" translationStatus="1"/>
+        <Label id="LocationId" text="Location" translationStatus="1"/>
+        <Label id="TradeOrgNameId" text="Name" translationStatus="1"/>
+        <Label id="TradeOrgCityId" text="City" translationStatus="1"/>
+        <Label id="TradeOrgIdId" text="ID" translationStatus="1"/>
+        <Label id="TradeOrgId" text="Trade Org." translationStatus="1"/>
+        <Label id="NewTimeSlotId" text="New" translationStatus="1"/>
+        <Label id="OpenHoursStartTime" text="Start time" translationStatus="1"/>
+        <Label id="OpenHoursEndTime" text="End time" translationStatus="1"/>
+        <Label id="AcceptTimeSlotChangesId" text="Done" translationStatus="1"/>
+        <Label id="dayOfWeek" text="Day of week" translationStatus="1"/>
+        <Label id="TimeFromTimeSlot" text="Start time" translationStatus="1"/>
+        <Label id="TimeThruTimeSlot" text="End time" translationStatus="1"/>
+        <Label id="TimeSlotGroupId" text="Time Slot" translationStatus="1"/>
+        <Label id="NewContactId" text="New" translationStatus="1"/>
+        <Label id="ContactPhone1Id" text="Phone" translationStatus="1"/>
+        <Label id="ContactPhone2Id" text="Mobile" translationStatus="1"/>
+        <Label id="AcceptContactChangesId" text="Done" translationStatus="1"/>
+        <Label id="SalutationId" text="Salutation" translationStatus="1"/>
+        <Label id="ContactFirstNameId" text="First Name" translationStatus="1"/>
+        <Label id="ContactLastNameId" text="Last Name" translationStatus="1"/>
+        <Label id="JobTitleId" text="Job Title" translationStatus="1"/>
+        <Label id="FunctionId" text="Main Function" translationStatus="1"/>
+        <Label id="DepartmentId" text="Department" translationStatus="1"/>
+        <Label id="DescriptionId" text="Description" translationStatus="1"/>
+        <Label id="ContactPartnerGroupId" text="Contact Partner" translationStatus="1"/>
+        <Label id="AddressGroupId" text="Address" translationStatus="1"/>
+        <Label id="MobileId" text="Mobile" translationStatus="1"/>
+        <Label id="CommunicationGroupId" text="Communication" translationStatus="1"/>
+        <Label id="NewPOSId" text="New" translationStatus="1"/>
+        <Label id="PosValidFromLabelId" text="Valid From" translationStatus="1"/>
+        <Label id="PosValidThruLabelId" text="Valid Thru" translationStatus="1"/>
+        <Label id="SpacerId" text=" " translationStatus="1"/>
+        <Label id="AcceptPOSChangesId" text="Done" translationStatus="1"/>
+        <Label id="POSTemplateId" text="Type" translationStatus="1"/>
+        <Label id="POSIdId" text="Id" translationStatus="1"/>
+        <Label id="POSNameId" text="Name" translationStatus="1"/>
+        <Label id="POSMainGroupId" text="POS" translationStatus="1"/>
+        <Label id="POSDescriptionId" text="Description" translationStatus="1"/>
+        <Label id="POSMandatoryId" text="Mandatory" translationStatus="1"/>
+        <Label id="POSValidFromId" text="Valid From" translationStatus="1"/>
+        <Label id="POSValidThruId" text="Valid Thru" translationStatus="1"/>
+        <Label id="POSRelationGroupId" text="POS Relation" translationStatus="1"/>
+        <Label id="NewAddressId" text="New" translationStatus="1"/>
+        <Label id="CustSpaceLabelId" text=" " translationStatus="1"/>
+        <Label id="CustSeparatorLabelId" text="," translationStatus="1"/>
+        <Label id="AcceptAddressChangesId" text="Done" translationStatus="1"/>
+        <Label id="UsageId" text="Usage" translationStatus="1"/>
+        <Label id="OpenItemsTotalInId" text="Debit" translationStatus="1"/>
+        <Label id="OpenItemsTotalOutId" text="Credit" translationStatus="1"/>
+        <Label id="OpenItemsTotalSumId" text="Total" translationStatus="1"/>
+        <Label id="OpenItemsTotalId" text="Total" translationStatus="1"/>
+        <Label id="InvoiceNoId" text="Invoice #" translationStatus="1"/>
+        <Label id="ReceiptDateId" text="Receipt Date" translationStatus="1"/>
+        <Label id="DueDateId" text="Due Date" translationStatus="1"/>
+        <Label id="DeliveryRoleId" text="Delivery Recipient" translationStatus="1"/>
+        <Label id="OrderRoleId" text="Orderer" translationStatus="1"/>
+        <Label id="CustomerRoleId" text="Customer" translationStatus="1"/>
+        <Label id="BrokerRoleId" text="Wholesaler" translationStatus="1"/>
+        <Label id="PayerRoleId" text="Payer" translationStatus="1"/>
+        <Label id="BillToRoleId" text="Bill-To" translationStatus="1"/>
+        <Label id="PromotionRoleId" text="Promotion" translationStatus="1"/>
+        <Label id="StoreRoleId" text="Store" translationStatus="1"/>
+        <Label id="OrdererTypeId" text="Orderer Type" translationStatus="1"/>
+        <Label id="SdoMetaBlockedId" text="Template Blocked" translationStatus="1"/>
+        <Label id="OrderRoleAttributeGroupId" text="Orderer Role" translationStatus="1"/>
+        <Label id="CustomerNumberId" text="Customer Number" translationStatus="1"/>
+        <Label id="PriceTypeId" text="Price Type" translationStatus="1"/>
+        <Label id="PriceListTypeId" text="Price List Type" translationStatus="1"/>
+        <Label id="CustomerRoleAttributeGroupId" text="Customer Role" translationStatus="1"/>
+        <Label id="OverallCreditLimitId" text="Credit Limit" translationStatus="1"/>
+        <Label id="CreditRatingId" text="Credit Rating" translationStatus="1"/>
+        <Label id="CreditBlockId" text="Credit Block" translationStatus="1"/>
+        <Label id="PayerRoleAttributeGroupId" text="Payer Role" translationStatus="1"/>
+        <Label id="AcceptListingModuleChangesId" text="Done" translationStatus="1"/>
+        <Label id="RelSpaceLabelId" text="  " translationStatus="1"/>
+        <Label id="RelIdLabel" text="Id" translationStatus="1"/>
+        <Label id="RelCityLabel" text="City" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

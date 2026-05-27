@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global/>
+    <NavigationLabels>
+      <Process id="TourManagement.PreTourNavigationProcess.Startnavigation">
+        <Label id="startTour" text="Tour Preparation" translationStatus="1"/>
+        <Label id="productCheckOut" text="Check out Product" translationStatus="1"/>
+        <Label id="cashCheckOut" text="Check out Cash" translationStatus="1"/>
+      </Process>
+    </NavigationLabels>
+    <ConfirmationMessages/>
+  </Translations>
+</Locale>

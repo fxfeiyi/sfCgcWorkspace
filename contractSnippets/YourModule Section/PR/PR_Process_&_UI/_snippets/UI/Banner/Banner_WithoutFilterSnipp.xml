@@ -1,0 +1,6 @@
+<Banner>
+	<Bindings>
+		<Binding bindingMode="ONE_WAY" binding="${#bannerMediaPath#}" type="Blob" target="MediaPath" />
+		<Binding bindingMode="ONE_WAY" binding="${#bannerFileType#}" type="Text" target="Type" />
+	</Bindings>
+</Banner>

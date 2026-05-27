@@ -1,0 +1,13 @@
+<ContextMenu>
+	<Bindings>
+			<Binding target="DataSource" binding="${#binding#}" bindingMode="ONE_WAY" />
+	</Bindings>
+	<Items name="ContextMenuItems">
+			<Bindings>
+					<Binding target="Icon" type="Image" binding="${#binding1#}" />
+					<Binding target="Text" type="Label" binding="${#binding2#}" />
+					<Binding target="Editable" type="Editable" binding="${#binding3#}" />
+					<Binding target="Visible" type="Visible" binding="${#binding4#}" />
+			</Bindings>
+	</Items>
+</ContextMenu>

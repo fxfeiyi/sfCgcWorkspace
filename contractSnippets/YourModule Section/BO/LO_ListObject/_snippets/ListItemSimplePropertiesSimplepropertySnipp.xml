@@ -1,0 +1,5 @@
+<!-- For more details look at ListItem.md file in under <Workingfolder>/templates/contractTemplates/LO_ListObject/Lo${Name}/ListItem.md vs ...ListObject.md -->
+
+<!-- exactly one SimpleProperty has to have the property id="true" -->
+<SimpleProperty id="true" name="${#Name#}" type="${#Domain#}" dataSourceProperty="${#DataSourceProperty#}" />
+<SimpleProperty name="${#Name#}" type="${#Domain#}" dataSourceProperty="${#DataSourceProperty#}" />

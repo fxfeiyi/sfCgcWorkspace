@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoEtpProductForAdd">
+        <Label id="EtpProductForSearch_prdId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EtpProductForSearch_text1" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EtpProductForSearch_eAN" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EtpProductForSearch_prdType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EtpProductForSearch_category" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

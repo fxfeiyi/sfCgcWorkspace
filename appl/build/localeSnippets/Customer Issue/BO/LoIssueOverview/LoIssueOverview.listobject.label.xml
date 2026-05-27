@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoIssue">
+        <Label id="AsoIssue_Text" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_IssueType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserInitiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserOwner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserResponsible" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Customer" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoIssueSupervisor">
+        <Label id="AsoIssue_Text" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_IssueType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserInitiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserOwner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserResponsible" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Customer" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoIssueCall">
+        <Label id="AsoIssue_Text" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_IssueType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserInitiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserOwner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserResponsible" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoIssueCallSupervisor">
+        <Label id="AsoIssue_Text" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_IssueType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Priority" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Classification" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_InitiationDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_DueDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_Phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserInitiator" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserOwner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoIssue_UserResponsible" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

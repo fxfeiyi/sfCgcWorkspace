@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global>
+      <Label id="Yes" text="Yes" translationStatus="1"/>
+      <Label id="No" text="No" translationStatus="1"/>
+    </Global>
+    <NavigationLabels/>
+    <ConfirmationMessages>
+      <Process id="Application.CockpitProcess">
+        <Label id="CasMessageSalesFolderDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasMessageSalesFolderDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedMessage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmLoadCallOnDemandData" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmLoadCallOnDemandData" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasCallDataLoadingInProgress" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasCallDataLoadingInProgress" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCallDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCallDataNotOnDevice" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbCompleteHasOpenOrders" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasClbCompleteHasOpenOrders" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmNotificationDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmNotificationDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmTaskDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmTaskDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCustomerTaskDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="CasConfirmCustomerTaskDeleteMsg" text="AUTO-GENERATED" translationStatus="1"/>
+      </Process>
+    </ConfirmationMessages>
+  </Translations>
+</Locale>

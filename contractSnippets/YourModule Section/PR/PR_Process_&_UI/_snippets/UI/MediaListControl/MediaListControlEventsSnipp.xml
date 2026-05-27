@@ -1,0 +1,4 @@
+<Events>
+	<ContextOpeningEvent event="${#coe#}" />
+	<ContextSelectedEvent event="${#cse#}" />
+</Events>

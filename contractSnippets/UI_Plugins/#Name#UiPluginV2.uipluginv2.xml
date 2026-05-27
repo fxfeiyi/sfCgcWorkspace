@@ -1,0 +1,16 @@
+<UIPluginV2 name="${#name#}UiPluginV2">
+  <Interface>
+    <Property id="PropertyId" />
+    <List id="ListId">
+      <Property id="ListPropertyId" />
+    </List>
+  </Interface>
+  <Labels></Labels>
+  <Libraries></Libraries>
+  <UIComponentHTML name="UIComponentHTML"><![CDATA[
+    ]]></UIComponentHTML>
+  <UIComponentCSS name="UIComponentCSS"><![CDATA[
+    ]]></UIComponentCSS>
+  <UIComponentJS name="UIComponentJS"><![CDATA[
+    ]]></UIComponentJS>
+</UIPluginV2>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallSurveyTabUI">
+        <Label id="scanProductId" text="Scan Product" translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="FilterCategoryId" text="Filter Category" translationStatus="1"/>
+        <Label id="addProductId" text="Add Product" translationStatus="1"/>
+        <Label id="promotedProductsId" text="Promoted" translationStatus="1"/>
+        <Label id="productDiscrepanciesId" text="Discrepancies" translationStatus="1"/>
+        <Label id="allProductsId" text="All Products" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumnIcon" text="Icon" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumnProduct" text="Product" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumnListedPlanned" text="P/L" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn1" text="F" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn2" text="Price" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn3" text="Distrib." translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn4" text="F" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn5" text="Price" translationStatus="1"/>
+        <Label id="ClbSurveyHeaderColumn6" text="Distrib." translationStatus="1"/>
+        <Label id="surveyCol1PhoneHeader" text="F" translationStatus="1"/>
+        <Label id="surveyCol2PhoneHeader" text="Price" translationStatus="1"/>
+        <Label id="surveyCol4PhoneHeader" text="F" translationStatus="1"/>
+        <Label id="surveyCol5PhoneHeader" text="Price" translationStatus="1"/>
+        <Label id="IdId" text="Product Number" translationStatus="1"/>
+        <Label id="GTINId" text="GTIN" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

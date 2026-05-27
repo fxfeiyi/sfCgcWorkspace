@@ -1,0 +1,25 @@
+<Banner>
+	<Bindings>
+		<Binding bindingMode="ONE_WAY" binding="${#bannerMediaPath#}" type="Blob" target="MediaPath" />
+		<Binding bindingMode="ONE_WAY" binding="${#bannerFileType#}" type="Text" target="Type" />
+	</Bindings>
+	<BannerFilter textLines="2" dataSource="${#dataSource#}">
+		<Bindings>
+			<Resource target="ClearStateText" type="Label" id="${#labelId#}" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+		<Items name="FilterItems">
+			<Bindings>
+				<Binding bindingMode="ONE_WAY" binding="${#mediaPathBinding#}" type="Blob" target="MediaPath" roundedEdge="true"/>
+				<Binding bindingMode="ONE_WAY" binding="${#typeBinding#}" type="Text" target="Type" />
+				<Binding target="Text" type="Label" binding="${#textBinding#}" />
+			</Bindings>
+		</Items>
+		<Events>
+			<ItemSelectedEvent event="filterSelected">
+				<Params>
+					<Param name="pKey" value="${#pKeyBinding#}" />
+				</Params>
+			</ItemSelectedEvent>
+		</Events>
+	</BannerFilter>
+</Banner>

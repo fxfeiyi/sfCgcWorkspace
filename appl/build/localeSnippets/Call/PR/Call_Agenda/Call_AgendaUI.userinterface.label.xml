@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallAgendaUI">
+        <Label id="AgendaMapShowId" text="Show Map" translationStatus="1"/>
+        <Label id="AgendaMapHideId" text="Hide Map" translationStatus="1"/>
+        <Label id="createNewCallId" text="Create Call" translationStatus="1"/>
+        <Label id="AgendaSetFilterAllId" text="All visits" translationStatus="1"/>
+        <Label id="OnlyAgendaSetFilterPlannedId" text="Only Planned visits" translationStatus="1"/>
+        <Label id="AgendaChangeCallPlanningTemplate" text="Set default call type" translationStatus="1"/>
+        <Label id="AgendaChooseUser" text="Choose User" translationStatus="1"/>
+        <Label id="scanCustomerId" text="Scan Customer" translationStatus="1"/>
+        <Label id="DisplayTraffic" text="Display Traffic" translationStatus="1"/>
+        <Label id="HideTraffic" text="Hide Traffic" translationStatus="1"/>
+        <Label id="DisplayRoute" text="Display Route" translationStatus="1"/>
+        <Label id="HideRoute" text="Hide Route" translationStatus="1"/>
+        <Label id="CallCalendarWeeklyView" text="Weekly view" translationStatus="1"/>
+        <Label id="CancelAllCallsId" text="Cancel All Visits" translationStatus="1"/>
+        <Label id="VisitsId" text="Visits" translationStatus="1"/>
+        <Label id="FindCustomersId" text="Find Customers" translationStatus="1"/>
+        <Label id="Spacer" text="  " translationStatus="1"/>
+        <Label id="AgendaSetDateId" text="Set Date" translationStatus="1"/>
+        <Label id="CreateCallId" text="Create Visit" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

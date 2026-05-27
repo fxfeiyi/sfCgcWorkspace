@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ProductGroupLookupUI">
+        <Label id="ProductGroupLookupTitleId" text="Product Groups" translationStatus="1"/>
+        <Label id="prdGroupIdLabelId" text="Prd Grp No." translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

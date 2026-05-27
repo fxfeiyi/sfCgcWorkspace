@@ -1,0 +1,24 @@
+<Action name="${#ActionName#}" actionType="MASTER_DETAIL_HANDLER">
+	<MasterList name="${#MasterList#}">
+		<ItemUnselected type="RELOAD" >
+			<UpdateMappings>
+				<Mapping masterProperty="" detailProperty="" />
+			</UpdateMappings>
+		</ItemUnselected>
+	</MasterList>
+	<DetailObject name="${#DetailObject#}" objectClass="${#ObjectClass#}">
+		<Save type="DIRTY" confirmation="FALSE" validate="FALSE" />
+		<Delete confirmation="true" messageId="${#DeleteMessage#}" nextCurrent="Next" />
+		<Create autoSave="true">
+			<WizardProcess name="${#WizardProcess#}" submitParameter="${#submitParameter#}">
+				<Parameters>
+					<Input name="${#Input#}" value="${#value#}" />
+				</Parameters>
+				<ReturnValues>
+					<Return name="${#returnName#}" value="${#ReturnValue#}" />
+				</ReturnValues>
+			</WizardProcess>
+		</Create>
+	</DetailObject>
+	<TransitionTo action="${#TransitionToAction#}" />
+</Action>

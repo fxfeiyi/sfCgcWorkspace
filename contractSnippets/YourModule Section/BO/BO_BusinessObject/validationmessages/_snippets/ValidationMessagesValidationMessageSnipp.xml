@@ -1,0 +1,1 @@
+<ValidationMessage name="${#name#}" defaultMessage="${#defaultMessage#}" comment="${#comment#}" />

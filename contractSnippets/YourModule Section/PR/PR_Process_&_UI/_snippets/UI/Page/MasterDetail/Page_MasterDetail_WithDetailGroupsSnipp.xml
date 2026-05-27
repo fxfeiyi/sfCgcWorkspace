@@ -1,0 +1,43 @@
+<Page pagePattern="MasterDetailSectionPage" navigation="Off" masterSectionFlex="40" detailSectionFlex="60">
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+	</PageHeader>
+	<Section sectionName="masterSection" sectionPattern="SingleAreaSection">
+		<Area areaName="mainArea" areaPattern="SingleElementArea">
+			<GroupedList name="MasterList" searchable="${#searchable#}" groupBy="${#groupBy#}" sortBy="${#sortBy#}" master="true" dataSource="${#dataSource#}" direction="${#direction#}" indexBar="${#indexBar#}" swipe="${#swipe#}" hasBorder="${#hasBorder#}" onItemDisclosure="${#onItemDisclosure#}">
+				<Items name="Items" itemPattern="${#itemPattern#}">
+					<!-- 
+						ItemListLayout Node is required. 
+						<ItemListLayout></ItemListLayout>
+					-->
+					<Bindings>
+						<Binding target="${#target#}" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />
+					</Bindings>
+				</Items>
+				<Events>
+					<ItemSelectedEvent event="itemSelected" resetMultiAreas="true">
+						<Params>
+							<Param name="${#name#}" value="${#value#}" />
+						</Params>
+					</ItemSelectedEvent>
+				</Events>
+			</GroupedList>
+		</Area>
+	</Section>
+	<Section sectionName="detailSection" sectionPattern="SingleAreaSection">
+		<Area areaName="detailArea" areaPattern="GroupedElementsArea">
+			<GroupElement name="${#name1#}">
+				<Bindings>
+					<Resource target="Title" type="Label" id="${#id1#}Id" defaultLabel="${#defaultLabel1#}" />
+				</Bindings>
+			</GroupElement>
+			<GroupElement name="${#name2#}">
+				<Bindings>
+					<Resource target="Title" type="Label" id="${#id2#}Id" defaultLabel="${#defaultLabel2#}" />
+				</Bindings>
+			</GroupElement>
+		</Area>
+	</Section>
+</Page>

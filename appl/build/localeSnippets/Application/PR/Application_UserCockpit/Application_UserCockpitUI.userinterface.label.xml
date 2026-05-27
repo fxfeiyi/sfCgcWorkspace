@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ApplicationUserCockpitUI">
+        <Label id="RefreshCockpitId" text="Refresh" translationStatus="1"/>
+        <Label id="CockpitTitle" text="Your Day" translationStatus="1"/>
+        <Label id="orderOverviewLabelId" text="Order" translationStatus="1"/>
+        <Label id="PersonalSettingsLabelId" text="My Settings" translationStatus="1"/>
+        <Label id="AboutLabelId" text="About" translationStatus="1"/>
+        <Label id="LogoutLabelId" text="Logout" translationStatus="1"/>
+        <Label id="VisitsId" text="Visits" translationStatus="1"/>
+        <Label id="CardUserWelcome_MessageText" text="Have a great day." translationStatus="1"/>
+        <Label id="TodayLabel" text="Today" translationStatus="1"/>
+        <Label id="UserWelcomeCardTitle" text="Summary" translationStatus="1"/>
+        <Label id="priorityLabelId" text="Priority:" translationStatus="1"/>
+        <Label id="Spacer" text=" " translationStatus="1"/>
+        <Label id="ShowVisitCalendarLink" text="Show Visit Calendar" translationStatus="1"/>
+        <Label id="VisitsCardTitle" text="Visits for today2" translationStatus="1"/>
+        <Label id="SyncCardTitle" text="Sync Status" translationStatus="1"/>
+        <Label id="NavigateToId" text="Navigate" translationStatus="1"/>
+        <Label id="ShowDailyView" text="Daily View" translationStatus="1"/>
+        <Label id="NextVisitsGuideTitle" text="Map" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

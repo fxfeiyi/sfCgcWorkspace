@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderSetItemTypeUI">
+        <Label id="doneId" text="Done" translationStatus="1"/>
+        <Label id="SetItemTypeId" text="Settings" translationStatus="1"/>
+        <Label id="ItemTypeId" text="Item Type" translationStatus="1"/>
+        <Label id="ScanningIncrementQuantityId" text="Scan Increment" translationStatus="1"/>
+        <Label id="UoMScanBehaviorId" text="Scan Behavior" translationStatus="1"/>
+        <Label id="UoMScanDefaultUnitId" text="Scan UoM" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

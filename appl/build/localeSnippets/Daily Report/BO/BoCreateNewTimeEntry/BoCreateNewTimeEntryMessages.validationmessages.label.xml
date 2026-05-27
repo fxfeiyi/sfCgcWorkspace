@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoCreateNewTimeEntry">
+        <Label id="CasTimeFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasTimeInvalidData" text="Please enter an End Date and Time greater than or equal to the Start Date and Time." translationStatus="1"/>
+        <Label id="CasTimeOverlapData" text="Time Entry Overlap between time entries #entry1# (#time1#) and #entry2# (#time2#)." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="DailyReportFlyoutTimeEntryDetailUI">
+        <Label id="doneId" text="Done" translationStatus="1"/>
+        <Label id="TimeEntryDetails" text="Time Entry Details" translationStatus="1"/>
+        <Label id="FlyoutTimeEntryDetails_Description" text="Description" translationStatus="1"/>
+        <Label id="OriginalDateFromId" text="Start" translationStatus="1"/>
+        <Label id="OriginalDateThruId" text="End" translationStatus="1"/>
+        <Label id="OriginalGroupTitle" text="Original" translationStatus="1"/>
+        <Label id="ETimeStart" text="Time From" translationStatus="1"/>
+        <Label id="EffectiveTimeFrom" text="Start" translationStatus="1"/>
+        <Label id="ETimeEnd" text="Time From" translationStatus="1"/>
+        <Label id="ModifiedEndId" text="End" translationStatus="1"/>
+        <Label id="ModifiedGroupTitle" text="Modified" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason Code" translationStatus="1"/>
+        <Label id="FlyoutTimeEntryDetails_Note" text="Note" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

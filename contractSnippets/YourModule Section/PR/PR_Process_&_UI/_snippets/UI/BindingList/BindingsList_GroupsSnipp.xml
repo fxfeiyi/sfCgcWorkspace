@@ -1,0 +1,11 @@
+<List target="Groups" dataSource="${#gDataSource#}">
+	<Binding target="pKey" type="Text" binding="${#gPKey#}" />
+	<Binding target="description" type="Text" binding="${#gDescription#}" />
+	<Binding target="detailText" type="Text" binding="${#dDetailText#}" />
+	<Binding target="additionalInfo" type="Text" binding="${#dAdditionalInfo#}" />
+	<Binding target="resultHeaderImage" type="Text" binding="${#gResultHeaderImage#}" />
+	<Binding target="resultSectionText" type="Text" binding="${#gResultSectionText#}" />
+	<Binding target="sort" type="Text" binding="${#gSort#}" />
+	<Binding target="HeaderBackgroundColor" type="Color" binding="${#gHeaderBackgroundColor#}" />
+	<Binding target="HeaderFontColor" type="Color" binding="${#gHeaderFontColor#}" />
+</List>

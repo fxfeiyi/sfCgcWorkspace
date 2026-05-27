@@ -1,0 +1,6 @@
+<Events>
+	<ItemSelectedEvent event="${#ise#}" />
+	<ContextOpeningEvent event="${#coe#}" />
+	<ContextSelectedEvent event="${#cse#}" />
+	<ListButtonPressedEvent event="${#lbpe#}" />
+</Events>

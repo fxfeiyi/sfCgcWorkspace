@@ -1,0 +1,1 @@
+## In this subfolder we will host the contracts for Processes (PR) and UserInterfaces (UI)

@@ -1,0 +1,13 @@
+<List target="Results" dataSource="${#rDataSource#}">
+	<Binding target="pKey" type="Text" binding="${#rPKey#}" />
+	<Binding target="description" type="Text" binding="${#rDescription#}" />
+	<Binding target="detailText" type="Text" binding="${#rDetailText#}" />
+	<Binding target="detailTextFontColor" type="Color" binding="${#rDetailTextFontColor#}" />
+	<Binding target="showButton" type="Boolean" binding="${#rShowButton#}" />
+	<Binding target="buttonText" type="Text" binding="${#rButtonText#}" />
+	<Binding target="isSelected" type="Boolean" binding="${#rIsSelected#}" />
+	<Binding target="visible" type="Boolean" binding="${#rVisible#}" />
+	<Binding target="editable" type="Boolean" binding="${#rEditable#}" />
+	<Binding target="groupId" type="Text" binding="${#rGroupId#}" />
+	<Binding target="sort" type="Text" binding="${#rSort#}" />
+</List>

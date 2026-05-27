@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="RetailStoreOverviewUI">
+        <Label id="RetailStoreOverviewId" text="Retail Store" translationStatus="1"/>
+        <Label id="CustomerDetailMainTabId" text="HOME" translationStatus="1"/>
+        <Label id="CustomerDetailMapTabId" text="Map" translationStatus="1"/>
+        <Label id="CustomerDetailOpenHoursTabId" text="Open Hours" translationStatus="1"/>
+        <Label id="ContactId" text="Contact" translationStatus="1"/>
+        <Label id="storeLocationsTabId" text="In-store Locations" translationStatus="1"/>
+        <Label id="PreviousVisitsId" text="Visits" translationStatus="1"/>
+        <Label id="CustomerDetailVisitHourTabId" text="VISIT HOURS" translationStatus="1"/>
+        <Label id="retailStoreNameId" text="Name" translationStatus="1"/>
+        <Label id="StreetId" text="Street" translationStatus="1"/>
+        <Label id="ZipCodeId" text="ZIP" translationStatus="1"/>
+        <Label id="StateId" text="State" translationStatus="1"/>
+        <Label id="RetailStoreDetailId" text="Identification" translationStatus="1"/>
+        <Label id="CoordinatesId" text="Latitude/Longitude" translationStatus="1"/>
+        <Label id="LocationId" text="Location" translationStatus="1"/>
+        <Label id="retailStorePrimaryContactId" text="Primary Contact" translationStatus="1"/>
+        <Label id="PhoneId" text="Phone" translationStatus="1"/>
+        <Label id="EmailId" text="EMail" translationStatus="1"/>
+        <Label id="CommunicationId" text="Communication" translationStatus="1"/>
+        <Label id="retailStorePriorityId" text="Priority" translationStatus="1"/>
+        <Label id="retailStoreDeliveryMethodId" text="Delivery Method" translationStatus="1"/>
+        <Label id="retailStoreDeliveryFrequencyId" text="Delivery Frequency" translationStatus="1"/>
+        <Label id="ClassificationId" text="Classification" translationStatus="1"/>
+        <Label id="OpenHoursStartTime" text="Start time" translationStatus="1"/>
+        <Label id="OpenHoursEndTime" text="End time" translationStatus="1"/>
+        <Label id="ContactPhoneId" text="Phone" translationStatus="1"/>
+        <Label id="ContactMobileId" text="Mobile" translationStatus="1"/>
+        <Label id="InStoreLocationCategoryId" text="In-store Location Category" translationStatus="1"/>
+        <Label id="InStoreLocationDescriptionId" text="Description" translationStatus="1"/>
+        <Label id="IconId" text="Icon" translationStatus="1"/>
+        <Label id="StatusLabelId" text="Status" translationStatus="1"/>
+        <Label id="ResponsibleLabelId" text="Responsible" translationStatus="1"/>
+        <Label id="DateLabelId" text="Date" translationStatus="1"/>
+        <Label id="TimeLabelId" text="Time" translationStatus="1"/>
+        <Label id="DurationLabelId" text="Duration" translationStatus="1"/>
+        <Label id="Spacer" text=" " translationStatus="1"/>
+        <Label id="MinutesLabelId" text="min" translationStatus="1"/>
+        <Label id="OpenHoursType" text="Type" translationStatus="1"/>
+        <Label id="NavigateId" text="Navigate to Customer" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

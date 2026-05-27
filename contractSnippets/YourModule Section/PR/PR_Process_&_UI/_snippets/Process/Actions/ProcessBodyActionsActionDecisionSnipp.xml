@@ -1,0 +1,5 @@
+<Action name="${#ActionName#}" actionType="DECISION" parameter="${#Parameter#}">
+	<Case value="${#CaseValue#}" action="${#Action#}" />
+	<CaseEmpty	action="${#EmptyAction#}" />
+	<CaseElse	action="${#ElseAction#}" />
+</Action>

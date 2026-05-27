@@ -1,0 +1,5 @@
+<Merger name="${#name#}" pattern="twoInputControls" labelHandling="Own" leftRatio="${#leftRatio#}" rightRatio="${#rightRatio#}">
+	<Bindings>
+		<Resource target="Label" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}" />
+	</Bindings>
+</Merger>

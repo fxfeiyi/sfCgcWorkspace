@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoRewardProductValidation">
+        <Label id="CasSdoFreeProductMaxValueExceeded" text="You have exceeded the max quantity #maxQuantityValue# allowed for #productName#." translationStatus="1"/>
+        <Label id="CasSdoFreeProductTotalMaxValueExceeded" text="You have exceeded the max quantity allowed for the reward." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,2 @@
+<Merger name="${#name#}" pattern="twoInputControls" labelHandling="None" leftRatio="${#leftRatio#}" rightRatio="${#rightRatio#}" >
+</Merger>

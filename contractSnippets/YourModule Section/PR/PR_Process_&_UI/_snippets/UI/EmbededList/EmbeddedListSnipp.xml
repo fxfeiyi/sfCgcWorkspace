@@ -1,0 +1,8 @@
+<EmbeddedList name="${#name#}" dataSource="${#dataSource#}" sortBy="${#sortBy#}" hasBorder="${#hasBorder#}">
+	<Items name="Items" itemPattern="${#itemPattern#}">
+		<Bindings>
+			<Resource target="Title" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" />
+		</Bindings>
+		<ItemListLayout />
+	</Items>
+</EmbeddedList>

@@ -1,0 +1,7 @@
+<Stepper name="${#name#}">
+	<Bindings>
+		<Resource target="Label" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" />
+		<Binding target="Value" type="${#type#}" binding="${#binding#}" bindingMode="ONE_WAY" format="${#format#}" />
+		<Binding target="StepSize" value="${#value#}" />
+	</Bindings>
+</Stepper>

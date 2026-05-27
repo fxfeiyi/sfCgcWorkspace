@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="VisitKPIInventoryCheckUI">
+        <Label id="scanProductId" text="Scan Product" translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="FilterCategoryId" text="Filter Category" translationStatus="1"/>
+        <Label id="HeaderImage" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="HeaderProduct" text="Product" translationStatus="1"/>
+        <Label id="HeaderQuestion" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="ExectedValue" text="Expected Value" translationStatus="1"/>
+        <Label id="prdNumber" text="Product Number:" translationStatus="1"/>
+        <Label id="gtin" text="GTIN" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

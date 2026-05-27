@@ -1,0 +1,13 @@
+<ItemListLayout>
+	<Default>
+		<Col width="1.5em" height="1.4em" layoutType="Image" bindingId="${#ImageId#}" />
+		<Col>
+			<Row layoutType="itemIdentifier" bindingId="${#Info1#}" />
+			<Row layoutType="itemSecondary" bindingId="${#Info2#}" />
+		</Col>
+		<Col width="1em" layoutType="itemSecondary" bindingId="${#bindingId#}" />
+		<Col width="4em" max-width="4em">
+			<Row layoutType="itemSecondary" bindingId="${#Info3#}" />
+		</Col>
+	</Default>
+</ItemListLayout>

@@ -1,0 +1,1 @@
+<Binding target="MediaPath" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderReplenishmentItemListTabUI">
+        <Label id="addProductViaLookup" text="Add Product" translationStatus="1"/>
+        <Label id="CalculateOrderId" text="Calculate" translationStatus="1"/>
+        <Label id="ScanProduct" text="Scan Product" translationStatus="1"/>
+        <Label id="SetItemType" text="Settings" translationStatus="1"/>
+        <Label id="RoundingOrderQuantityOn" text="Rounding: ON" translationStatus="1"/>
+        <Label id="RoundingOrderQuantityOff" text="Rounding: OFF" translationStatus="1"/>
+        <Label id="Empty" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="IdId" text="Number" translationStatus="1"/>
+        <Label id="ItemTypeId" text="Type" translationStatus="1"/>
+        <Label id="AvailabilityId" text="Availability" translationStatus="1"/>
+        <Label id="StockId" text="Stock" translationStatus="1"/>
+        <Label id="UoMId" text="Unit of Measures" translationStatus="1"/>
+        <Label id="PriceId" text="Price" translationStatus="1"/>
+        <Label id="ReceiptId" text="Receipt Value" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason" translationStatus="1"/>
+        <Label id="DiscountId" text="Discount" translationStatus="1"/>
+        <Label id="SpecialPriceId" text="Sp. Price" translationStatus="1"/>
+        <Label id="AdvSettingsGroupId" text="Advanced Settings" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

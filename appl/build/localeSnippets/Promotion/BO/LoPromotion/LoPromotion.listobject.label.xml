@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoApprovePromotion">
+        <Label id="LoPromotion_PhaseId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPromotion_DateFromId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPromotion_DateThruId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPromotion_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPromotion_User" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

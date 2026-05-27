@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="SalesFolderSalesFolderPromotionUI">
+        <Label id="PromotionsId" text="Promotions" translationStatus="1"/>
+        <Label id="ShowDetailsLink" text="Show Details" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

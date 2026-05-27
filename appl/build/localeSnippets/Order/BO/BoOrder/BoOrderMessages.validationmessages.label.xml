@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoOrder">
+        <Label id="CasSdoMainTotalValueTooLarge" text="The total value #totalValue# of the order is greater than the maximum value #maxValue# of the Order template." translationStatus="1"/>
+        <Label id="CasSdoMainTotalValueTooSmall" text="The total value #totalValue# of the Order is lesser than the minimum value #minValue# of the Order template." translationStatus="1"/>
+        <Label id="CasSdoMainProductItemMetaNotUnique" text="The product(s) #summary# has/have been assigned more than once using the same item template." translationStatus="1"/>
+        <Label id="CasSdoCommitDateGreaterDeliveryDate" text="The Order date must be lesser than or equal to delivery date." translationStatus="1"/>
+        <Label id="CasSdoMainDeliveryDateTooLarge" text="Please choose a delivery date during the next #days# days." translationStatus="1"/>
+        <Label id="CasSdoMainDeliveryDateTooSmall" text="Choose a delivery date that is at least #days# workdays in the future." translationStatus="1"/>
+        <Label id="CasSdoMainDeliveryDateSaturday" text="The selected delivery date is a Saturday. Delivery is not allowed on Saturdays." translationStatus="1"/>
+        <Label id="CasSdoMainDeliveryDateSunday" text="The selected delivery date is a Sunday. Delivery is not allowed on Sundays." translationStatus="1"/>
+        <Label id="CasSdoMainNoWorkDay" text="The selected delivery date is not a workday." translationStatus="1"/>
+        <Label id="CasSdoMainNoBrokerAssignment" text="Please assign a wholesaler." translationStatus="1"/>
+        <Label id="CasSdoMandatoryFields" text="Please assign a delivery recipient." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsQuota" text="The quota for product #productName# is overdrawn by #quantity#  #unit#(s). Please reduce the quantity for this product." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsQuotaWarning" text="The quota for product #productName# is overdrawn by #quantity# #unit#(s)." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsUserInventory" text="The user inventory for product #productName# is overdrawn by #quantity# #unit#(s). Please reduce the quantity for this product." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsUserInventoryWarning" text="The user inventory for product #productName# is overdrawn by #quantity# #unit#(s)." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsQuotaSummary" text="The quota for some products are overdrawn: #summary#. Please reduce the quantity for the products." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsQuotaWarningSummary" text="The quota for some products are overdrawn: #summary#." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsUserInventorySummary" text="The user inventory for some products are overdrawn: #summary#. Please reduce the quantity for the products." translationStatus="1"/>
+        <Label id="CasSdoOrderQuantityExceedsUserInventoryWarningSummary" text="The user inventory for some products are overdrawn: #summary#." translationStatus="1"/>
+        <Label id="CasSdoFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasSdoQuantityExceedsMaxQuantity" text="The entered quantity #quantity# of #item# exceeds the defined max quantity #maxQuantity#." translationStatus="1"/>
+        <Label id="CasSdoQuantityExceedsMaxQuantitySummary" text="Ordered quantity is more than the allowed quantity for the product #summary#." translationStatus="1"/>
+        <Label id="CasCalculationSchemaNotfound" text="Calculation Schema could not be determined." translationStatus="1"/>
+        <Label id="CasSdoCpMandatoryConditionMissing" text="Calculation failed - No condition found for mandatory calculation step #step# and product #product#." translationStatus="1"/>
+        <Label id="CasSdoNoModReasonEnteredAfterEdit" text="The product(s) #summary# has/have beed modified, please provide the reason for the modification." translationStatus="1"/>
+        <Label id="CasSdoDeliveryDateNull" text="Please enter the delivery date." translationStatus="1"/>
+        <Label id="CasCheckPaymentCollected" text="Please confirm payment collected." translationStatus="1"/>
+        <Label id="CasSdoCheckEmptyPaymentMethod" text="For collecting the order payment, a payment method needs to be specified." translationStatus="1"/>
+        <Label id="CasSdoNoPPPLicense" text="You don't have the required permission to use the penny perfect pricing feature. Contact your salesforce administrator." translationStatus="1"/>
+        <Label id="CasSdoPartialPaymentNotAllowed" text="Partial payment can't be accepted for this order or document. Make sure you collect the total amount." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

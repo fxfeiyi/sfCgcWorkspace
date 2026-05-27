@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="SalesFolderPromotionDetailUI">
+        <Label id="AttachmentsId" text="Attachments" translationStatus="1"/>
+        <Label id="TacticsId" text="Events" translationStatus="1"/>
+        <Label id="TacticMetaNameLabel" text="Tactic Type" translationStatus="1"/>
+        <Label id="CompensationMetaTextLabel" text="Compensation" translationStatus="1"/>
+        <Label id="CostAmountLabel" text="Amount" translationStatus="1"/>
+        <Label id="DateFromLabel" text="Date" translationStatus="1"/>
+        <Label id="DateThruLabel" text="Date thru" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

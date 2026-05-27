@@ -1,0 +1,1 @@
+<Resource target="${#target#}" type="Image" id="${#id#}"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoPrmCttFlyoutCreateContract">
+        <Label id="CasPrmFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasPrmDateFromGTDateThru" text="Please enter a Date Thru that is greater or equal Date From." translationStatus="1"/>
+        <Label id="CasClbCannotCreateContractWhileSubstituted" text="For the selected day, an active substitution is running for you for the selected customer. You are not allowed to create contracts during the substitution time frame, if you are the substituted user." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

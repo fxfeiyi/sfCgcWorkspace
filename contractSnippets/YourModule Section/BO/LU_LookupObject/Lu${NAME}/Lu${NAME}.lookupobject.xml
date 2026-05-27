@@ -1,0 +1,12 @@
+<LookupObject name="Lu${NAME}" generateLoadMethod="true" schemaVersion="1.1">
+  <!--In case lookup does not require datasource, let name of datasource property empty-->
+  <DataSource name="${DATASOURCE_REFERENCE}" />
+  <SimpleProperties>
+    <!-- You can use LookupObjectSimplePropertiesSimplePropertySnipp.xml as template (workingFolder->contractSnippets->YourModule Section->BO->LU_LookupObject->snippets) for your case/-->
+  </SimpleProperties>
+  <Methods>
+    <Method name="afterLoadAsync" />
+    <Method name="beforeLoadAsync" />
+    <Method name="loadAsync" />
+  </Methods>
+</LookupObject>

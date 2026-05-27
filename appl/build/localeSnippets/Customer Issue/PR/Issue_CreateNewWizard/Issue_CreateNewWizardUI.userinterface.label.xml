@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="IssueCreateNewWizardUI">
+        <Label id="createNewIssueId" text="Create" translationStatus="1"/>
+        <Label id="AddIssueId" text="Add Issue" translationStatus="1"/>
+        <Label id="CustomerId" text="Customer" translationStatus="1"/>
+        <Label id="IssueTypeId" text="Issue Type" translationStatus="1"/>
+        <Label id="Description" text="Description" translationStatus="1"/>
+        <Label id="DueDateId" text="Due Date" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

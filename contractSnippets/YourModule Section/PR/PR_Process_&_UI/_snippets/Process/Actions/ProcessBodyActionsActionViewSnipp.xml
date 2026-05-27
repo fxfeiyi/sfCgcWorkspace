@@ -1,0 +1,6 @@
+<Action actionType="View" name="${#ActionName#}">
+	<UIDescription>${#UIName#}</UIDescription>
+	<Events>
+		<Event name="${#EventName#}" action="${#Action#}" />
+	</Events>
+</Action>

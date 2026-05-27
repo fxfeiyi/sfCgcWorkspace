@@ -1,0 +1,3 @@
+<index name="${#name#}" unique="0">
+	<column name="${#columnname#}" />
+</index>

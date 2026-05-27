@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Text" binding="${#binding#}" bindingMode="ONE_WAY" />

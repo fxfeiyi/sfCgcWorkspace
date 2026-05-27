@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="VisitInfoUI">
+        <Label id="VisiInfoId" text="Visit Information" translationStatus="1"/>
+        <Label id="RetailStoreId" text="Customer" translationStatus="1"/>
+        <Label id="VisitStatusId" text="Visit Status" translationStatus="1"/>
+        <Label id="VisitPlannedTimeId" text="Time From/Thru" translationStatus="1"/>
+        <Label id="VisitInfo" text="Visit Information" translationStatus="1"/>
+        <Label id="MainAddressId" text="Main Address" translationStatus="1"/>
+        <Label id="ZipCity" text="Zip City" translationStatus="1"/>
+        <Label id="StateId" text="State" translationStatus="1"/>
+        <Label id="AddressId" text="Address" translationStatus="1"/>
+        <Label id="CompletedTasksId" text="Completed" translationStatus="1"/>
+        <Label id="InProgressId" text="InProgress" translationStatus="1"/>
+        <Label id="NotStartedTasksId" text="NotStarted" translationStatus="1"/>
+        <Label id="TaskId" text="Task" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

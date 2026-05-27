@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderFastOrderUI">
+        <Label id="PastefromClipbardId" text="Paste from Clipboard" translationStatus="1"/>
+        <Label id="UpdateId" text="Done" translationStatus="1"/>
+        <Label id="FastOrderId" text="Fast Order" translationStatus="1"/>
+        <Label id="SeachBoxId" text="You can search for [b]Product number[/b] or [b]Product description[/b]." translationStatus="1"/>
+        <Label id="Quantityid" text="Quantity" translationStatus="1"/>
+        <Label id="GridEmptyMessageId" text="[b]Nothing ordered yet.[/b] Start typing in the search field to find products. Or copy and paste them from your clipboard." translationStatus="1"/>
+        <Label id="ProductNumberId" text="Product No" translationStatus="1"/>
+        <Label id="ProductDescriptionId" text="Description" translationStatus="1"/>
+        <Label id="ProductQuantityId" text="Qty" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

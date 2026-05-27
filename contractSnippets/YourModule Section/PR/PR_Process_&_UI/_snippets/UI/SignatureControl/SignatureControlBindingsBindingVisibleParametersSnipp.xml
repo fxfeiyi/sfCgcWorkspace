@@ -1,0 +1,3 @@
+<Binding target="Visible" type="Visible" call="${#call#}">
+	<Parameters />
+</Binding>

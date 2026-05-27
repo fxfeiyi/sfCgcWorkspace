@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ReportingTimeFrameSelectionUI">
+        <Label id="selectTimeFrameId" text="Select" translationStatus="1"/>
+        <Label id="ReportSelectTimeFrameId" text="Settings" translationStatus="1"/>
+        <Label id="ReportStartDateId" text="Start Date" translationStatus="1"/>
+        <Label id="ReportEndDateId" text="End Date" translationStatus="1"/>
+        <Label id="UserName" text="User" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="UserNotification">
+        <Label id="AllNotificationsId" text="All Notifications" translationStatus="1"/>
+        <Label id="UnreadNotificationsId" text="Only Unread" translationStatus="1"/>
+        <Label id="NotificationsTitleId" text="Notifications" translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="PriorityId" text="Priority" translationStatus="1"/>
+        <Label id="ReadId" text="Read" translationStatus="1"/>
+        <Label id="CategoryId" text="Category" translationStatus="1"/>
+        <Label id="DateId" text="Date" translationStatus="1"/>
+        <Label id="InitiatorId" text="Initiator" translationStatus="1"/>
+        <Label id="MessageId" text="Message" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

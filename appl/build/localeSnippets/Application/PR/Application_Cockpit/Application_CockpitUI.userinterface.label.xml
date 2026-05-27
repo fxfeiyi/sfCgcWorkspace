@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ApplicationCockpitUI">
+        <Label id="RefreshCockpitId" text="Refresh" translationStatus="1"/>
+        <Label id="CockpitTitle" text="Your Day" translationStatus="1"/>
+        <Label id="startOfDayLabelId" text="Start of Day" translationStatus="1"/>
+        <Label id="agendaOverviewLabelId" text="Visit Execution" translationStatus="1"/>
+        <Label id="endOfDayLabelId" text="End of Day" translationStatus="1"/>
+        <Label id="tourLabelId" text="Tour" translationStatus="1"/>
+        <Label id="truckLoadOverviewLabelId" text="Inventory" translationStatus="1"/>
+        <Label id="cashOverviewId" text="Cash" translationStatus="1"/>
+        <Label id="replenishmentOverviewId" text="Replenishment" translationStatus="1"/>
+        <Label id="customerOverviewLabelId" text="Customer" translationStatus="1"/>
+        <Label id="productOverviewLabelId" text="Product" translationStatus="1"/>
+        <Label id="orderOverviewLabelId" text="Order" translationStatus="1"/>
+        <Label id="SalesFolderId" text="Sales Folder" translationStatus="1"/>
+        <Label id="dailyReportOverviewLabelId" text="Time Card" translationStatus="1"/>
+        <Label id="ReportingLabelId" text="Reports" translationStatus="1"/>
+        <Label id="NotificationsLabelId" text="Notifications" translationStatus="1"/>
+        <Label id="customerContractsOverviewLabelId" text="Contracts" translationStatus="1"/>
+        <Label id="PaymentsLabelId" text="Payments" translationStatus="1"/>
+        <Label id="TodoLabelId" text="Tasks" translationStatus="1"/>
+        <Label id="IssueLabelId" text="Customer Tasks234" translationStatus="1"/>
+        <Label id="PersonalSettingsLabelId" text="My Settings" translationStatus="1"/>
+        <Label id="synchronizeLabelId" text="Synchronize" translationStatus="1"/>
+        <Label id="AboutLabelId" text="About" translationStatus="1"/>
+        <Label id="LogoutLabelId" text="Logout" translationStatus="1"/>
+        <Label id="VisitsId" text="Visits" translationStatus="1"/>
+        <Label id="CustomerTasksId" text="Customer Tasks6" translationStatus="1"/>
+        <Label id="TasksId" text="Tasks" translationStatus="1"/>
+        <Label id="CardUserWelcome_MessageText" text="Have a great day." translationStatus="1"/>
+        <Label id="TodayLabel" text="Today" translationStatus="1"/>
+        <Label id="UserWelcomeCardTitle" text="Summary" translationStatus="1"/>
+        <Label id="AddNewVisitId" text="Add new Visit" translationStatus="1"/>
+        <Label id="ShowCalendarLink" text="Show Call Calendar" translationStatus="1"/>
+        <Label id="VisitsCardTitle" text="Visits for today1" translationStatus="1"/>
+        <Label id="ReportingCardTitle" text="Reporting" translationStatus="1"/>
+        <Label id="ReportingCardInformation" text="All customers" translationStatus="1"/>
+        <Label id="CardActivities_NoDataMessageMainText" text="No activities today," translationStatus="1"/>
+        <Label id="CardActivities_NoDataMessageSubText" text="you'll find new activities here as soon as they're available" translationStatus="1"/>
+        <Label id="noId" text="-" translationStatus="1"/>
+        <Label id="Spacer" text="   " translationStatus="1"/>
+        <Label id="ShowAllActivitiesLink" text="All Activities" translationStatus="1"/>
+        <Label id="ActivitiesCardTitle" text="Activities" translationStatus="1"/>
+        <Label id="NavigateToId" text="Navigate to" translationStatus="1"/>
+        <Label id="ShowTourLink" text="SHOW TOUR" translationStatus="1"/>
+        <Label id="UserVisitsGuideCardTitle" text="Guidance" translationStatus="1"/>
+        <Label id="UserVisitsGuideCardInformation" text="Next visit" translationStatus="1"/>
+        <Label id="CardMobileLinks_NoDataMessageMainText" text="Sorry, no dashboard available" translationStatus="1"/>
+        <Label id="MobileLinksCardTitle" text="CRM Analytics" translationStatus="1"/>
+        <Label id="CardQuickAccess_NoDataMessageMainText" text="No quick links were defined for you yet" translationStatus="1"/>
+        <Label id="QuickAccessCardTitle" text="Quick Access" translationStatus="1"/>
+        <Label id="CardNotifications_NoDataMessageMainText" text="Congratulations," translationStatus="1"/>
+        <Label id="CardNotifications_NoDataMessageSubText" text="you have an empty inbox. :)" translationStatus="1"/>
+        <Label id="ShowNotificationsLink" text="All Notifications" translationStatus="1"/>
+        <Label id="UserNotificationsCardTitle" text="Notifications" translationStatus="1"/>
+        <Label id="AddNewCustomerTaskId" text="Add new Customer Task1" translationStatus="1"/>
+        <Label id="AllCustomerTasksLink" text="All Customer Tasks" translationStatus="1"/>
+        <Label id="CustomerTasksCardTitle" text="Customer Tasks Today" translationStatus="1"/>
+        <Label id="AddNewTaskId" text="Add new Task" translationStatus="1"/>
+        <Label id="AllTasksLink" text="All Tasks" translationStatus="1"/>
+        <Label id="TasksCardTitle" text="Tasks Due Today" translationStatus="1"/>
+        <Label id="OverdueCustomersLink" text="All Overdue" translationStatus="1"/>
+        <Label id="AllCustomersLink" text="All Customers" translationStatus="1"/>
+        <Label id="CustomersOverdueTitle" text="Overdue Customers" translationStatus="1"/>
+        <Label id="SyncCardTitle" text="Sync Status" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

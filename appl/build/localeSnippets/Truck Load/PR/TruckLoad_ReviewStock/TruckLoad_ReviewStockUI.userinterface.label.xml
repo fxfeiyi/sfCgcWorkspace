@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TruckLoadReviewStockUI">
+        <Label id="CurrentStockListId" text="Current Stock" translationStatus="1"/>
+        <Label id="Empty" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="IdId" text="Number" translationStatus="1"/>
+        <Label id="DescriptionId" text="Description" translationStatus="1"/>
+        <Label id="TruckLoadItemListTab_TypeId" text="Type" translationStatus="1"/>
+        <Label id="UoMId" text="Unit of Measures" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

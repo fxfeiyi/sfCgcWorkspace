@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ContractCustomerContractUI">
+        <Label id="createCustomerContractId" text="New" translationStatus="1"/>
+        <Label id="TitleId" text="Contracts" translationStatus="1"/>
+        <Label id="noId" text=" - " translationStatus="1"/>
+        <Label id="Spacer" text="    " translationStatus="1"/>
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="ProductId" text="Products" translationStatus="1"/>
+        <Label id="TacticId" text="Tactic" translationStatus="1"/>
+        <Label id="releaseCustomerContractId" text="ForApproval" translationStatus="1"/>
+        <Label id="approveCustomerContractId" text="Committed" translationStatus="1"/>
+        <Label id="rejectCustomerContractId" text="Rejected" translationStatus="1"/>
+        <Label id="cancelCustomerContractId" text="Cancel" translationStatus="1"/>
+        <Label id="CustomerContractId" text="Id" translationStatus="1"/>
+        <Label id="ContractName" text="Name" translationStatus="1"/>
+        <Label id="CustomerName" text="Customer" translationStatus="1"/>
+        <Label id="ContractType" text="Contract Type" translationStatus="1"/>
+        <Label id="InitiationDate" text="Initiation Date" translationStatus="1"/>
+        <Label id="StartDate" text="Start Date" translationStatus="1"/>
+        <Label id="EndDate" text="End Date" translationStatus="1"/>
+        <Label id="StartEndDateId" text="Start / End Date" translationStatus="1"/>
+        <Label id="IdentificationId" text="Identification" translationStatus="1"/>
+        <Label id="CurrentStatusId" text="Current Status" translationStatus="1"/>
+        <Label id="OwnerUserId" text="Owner" translationStatus="1"/>
+        <Label id="ResponsibleUserId" text="Responsible" translationStatus="1"/>
+        <Label id="StatusTitleId" text="Status" translationStatus="1"/>
+        <Label id="TextId" text="Text" translationStatus="1"/>
+        <Label id="AddProductLabelId" text="Add Product" translationStatus="1"/>
+        <Label id="AddProductGroupLabelId" text="Add Product Group" translationStatus="1"/>
+        <Label id="QuantityLabel" text="Quantity" translationStatus="1"/>
+        <Label id="DiscountLabel" text="Discount" translationStatus="1"/>
+        <Label id="SpecialPriceLabel" text="Special Price" translationStatus="1"/>
+        <Label id="ProductNameLabel" text="Product Name" translationStatus="1"/>
+        <Label id="AddTacticLabelId" text="Add Tactic" translationStatus="1"/>
+        <Label id="TacticNameLabel" text="Tactic Name" translationStatus="1"/>
+        <Label id="DateLabel" text="Date" translationStatus="1"/>
+        <Label id="AmountLabel" text="Amount" translationStatus="1"/>
+        <Label id="StatusLabel" text="Status" translationStatus="1"/>
+        <Label id="DateFromLabel" text="Date From" translationStatus="1"/>
+        <Label id="DateThruLabel" text="Thru" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

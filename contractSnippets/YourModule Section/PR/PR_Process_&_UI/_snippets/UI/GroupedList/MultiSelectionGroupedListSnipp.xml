@@ -1,0 +1,6 @@
+<MultiSelectionGroupedList name="${#name#}" searchable="${#searchable#}" groupBy="${#groupBy#}" sortBy="${#sortBy#}" master="${#master#}" dataSource="${#dataSource#}" direction="${#direction#}" indexBar="${#indexBar#}" swipe="${#swipe#}" hasBorder="${#hasBorder#}" onItemDisclosure="${#onItemDisclosure#}">
+	<Items name="Items" itemPattern="${#itemPattern#}">
+		<ItemListLayout />
+	</Items>
+	<GroupVisibleElementConfiguration />
+</MultiSelectionGroupedList>

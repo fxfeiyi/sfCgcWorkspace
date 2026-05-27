@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <PrintLayouts>
+      <PrintLayout id="VanSalesCashInvoicePDF">
+        <Label translationStatus="1" id="AddressId" text="Address:"/>
+        <Label translationStatus="1" id="PhoneId" text="Phone:"/>
+        <Label translationStatus="1" id="FaxId" text="Fax:"/>
+        <Label translationStatus="1" id="TINId" text="Tax Id:"/>
+        <Label translationStatus="1" id="BankAccId" text="Bank Account:"/>
+        <Label translationStatus="1" id="DocumentNoId" text="Document No.:"/>
+        <Label translationStatus="1" id="InvoiceNoId" text="Invoice No.:"/>
+        <Label translationStatus="1" id="CustomerAddressId" text="Address:"/>
+        <Label translationStatus="1" id="OrderStatusId" text="Order Status:"/>
+        <Label translationStatus="1" id="DeliveryDateId" text="Delivery Date:"/>
+        <Label translationStatus="1" id="CustomerCommitDateId" text="Order Date:"/>
+        <Label translationStatus="1" id="CustomerPhoneId" text="Phone:"/>
+        <Label translationStatus="1" id="SalesRepId" text="Sales Rep:"/>
+        <Label translationStatus="1" id="CustomerNumberId" text="Customer:"/>
+        <Label translationStatus="1" id="CustomerOrderId" text="Cust. PO No.:"/>
+        <Label translationStatus="1" id="InvoiceId" text="Invoice"/>
+        <Label translationStatus="1" id="PrdNumberId" text="No."/>
+        <Label translationStatus="1" id="TextId" text="Product"/>
+        <Label translationStatus="1" id="UnitId" text="Unit"/>
+        <Label translationStatus="1" id="QuantityId" text="Qty"/>
+        <Label translationStatus="1" id="UnitPriceId" text="Unit Price"/>
+        <Label translationStatus="1" id="FullAmountId" text="Full Amount"/>
+        <Label translationStatus="1" id="NettoAmountId" text="Net. Amount"/>
+        <Label translationStatus="1" id="TaxClassificationId" text="T"/>
+        <Label translationStatus="1" id="TotalId" text="Total"/>
+        <Label translationStatus="1" id="ReturnedItemsLabelId" text="Returns"/>
+        <Label translationStatus="1" id="ReturnTotalProductsId" text="Total Returns"/>
+        <Label translationStatus="1" id="HeaderConditionsLabelId" text="Header Conditions"/>
+        <Label translationStatus="1" id="EmtiesGridTitleId" text="Empties"/>
+        <Label translationStatus="1" id="TextEmptyId" text="Empties"/>
+        <Label translationStatus="1" id="DeliveredEmptiesId" text="Del."/>
+        <Label translationStatus="1" id="ReturnedEmptiesId" text="Ret."/>
+        <Label translationStatus="1" id="TotalQuantityEmptiesId" text="Qty"/>
+        <Label translationStatus="1" id="SumEmptiesLabelId" text="Total Empties"/>
+        <Label translationStatus="1" id="TotalPrdId" text="Total Products and Other Items"/>
+        <Label translationStatus="1" id="TotalAmountId" text="Total Amount"/>
+        <Label translationStatus="1" id="PaymentMethodId" text="Payment Method"/>
+        <Label translationStatus="1" id="TotalPaidAmountId" text="Total Paid Amount"/>
+        <Label translationStatus="1" id="BalanceId" text="Balance"/>
+      </PrintLayout>
+    </PrintLayouts>
+  </Translations>
+</Locale>

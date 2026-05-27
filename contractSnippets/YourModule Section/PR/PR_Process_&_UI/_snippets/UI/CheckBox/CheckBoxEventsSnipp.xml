@@ -1,0 +1,3 @@
+<Events>
+	<ValueChangedEvent event="${#event#}" />
+</Events>

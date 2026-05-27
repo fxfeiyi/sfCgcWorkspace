@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoOrderOverview">
+        <Label id="AsoOrderOverview_id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_orderType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_commitDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_deliveryDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_customerName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_initiatorName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_responsibleName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_grossTotalValue" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+      <AdvancedSearchObject id="AsoOrderCallOverview">
+        <Label id="AsoOrderOverview_id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_orderType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_phase" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_commitDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_deliveryDate" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_initiatorName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_responsibleName" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="AsoOrderOverview_grossTotalValue" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

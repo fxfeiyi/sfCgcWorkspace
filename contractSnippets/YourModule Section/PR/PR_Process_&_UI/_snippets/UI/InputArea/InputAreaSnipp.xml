@@ -1,0 +1,6 @@
+<InputArea name="${#name#}">
+	<Bindings>
+			<Resource target="Label" type="Label" defaultLabel="${#defaultLabel#}" id="${#id#}Id" />
+			<Binding target="Value" type="${#type#}" binding="${#binding#}" bindingMode="TWO_WAY" />
+	</Bindings>
+</InputArea>

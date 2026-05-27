@@ -1,0 +1,10 @@
+<ImageButton name="${#name#}" backendSystem="both">
+	<Bindings>
+		<Resource target="Image" type="Image" id="${#id1#}" />
+		<Resource target="Text" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+		<Binding target="Info" binding="${#binding#}" bindingMode="ONE_WAY" />
+	</Bindings>
+	<Events>
+		<ButtonPressedEvent event="${#event#}Pressed" />
+	</Events>
+</ImageButton>

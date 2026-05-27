@@ -1,0 +1,1 @@
+<Binding target="${#target#}" type="Image" binding="${#binding#}" bindingMode="ONE_WAY"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoFlyoutRegisterAsset">
+        <Label id="CasAstRegisterFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasAstRegisterSerialNumberTooLong" text="Serial Number may not exceed 50 characters." translationStatus="1"/>
+        <Label id="CasClbAssetRequiredScanning" text="The asset can be registered only via bar code scanner." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

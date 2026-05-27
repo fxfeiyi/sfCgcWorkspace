@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ContractCreateContractFlyoutUI">
+        <Label id="CreateCustomerContractId" text="Create" translationStatus="1"/>
+        <Label id="CreateCustomerContractTitleId" text="Add Contract" translationStatus="1"/>
+        <Label id="ContractName" text="Name" translationStatus="1"/>
+        <Label id="CustomerNameId" text="Customer" translationStatus="1"/>
+        <Label id="CustomerContractTypeId" text="Type" translationStatus="1"/>
+        <Label id="DateFromId" text="Date From" translationStatus="1"/>
+        <Label id="DateThruId" text="Date Thru" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

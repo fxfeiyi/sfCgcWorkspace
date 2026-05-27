@@ -1,0 +1,27 @@
+<Page pagePattern="SplitScreenPage" leftSectionFlex="${#leftSectionFlex#}" rightSectionFlex="${#rightSectionFlex#}">
+	<PageHeader>
+		<Bindings>
+			<Resource target="title" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" bindingMode="ONE_TIME" />
+		</Bindings>
+		<SplitScreenButtons>
+			<LeftSectionButton>
+				<Bindings>
+					<Resource target="Text" type="Label" id="${#id1#}Id" defaultLabel="${#defaultLabel1#}" />
+					<Resource target="Icon" type="Image" id="${#id2#}" />
+				</Bindings>
+			</LeftSectionButton>
+			<RightSectionButton>
+				<Bindings>
+					<Resource target="Text" type="Label" id="${#id3#}Id" defaultLabel="${#defaultLabel2#}" />
+					<Resource target="Icon" type="Image" id="${#id4#}" />
+				</Bindings>
+			</RightSectionButton>
+		</SplitScreenButtons>
+	</PageHeader>
+	<Section sectionName="leftSection" sectionPattern="${#sectionPattern#}" >
+		
+	</Section>
+	<Section sectionName="rightSection" sectionPattern="${#sectionPattern1#}" >
+		
+	</Section>
+</Page>

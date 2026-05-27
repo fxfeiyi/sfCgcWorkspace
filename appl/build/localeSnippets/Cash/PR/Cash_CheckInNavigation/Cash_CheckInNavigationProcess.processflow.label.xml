@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <Global/>
+    <NavigationLabels>
+      <Process id="Cash.CheckInNavigationProcess.Startnavigation">
+        <Label id="checkInItems" text="Main" translationStatus="1"/>
+        <Label id="checkInHeader" text="Summary" translationStatus="1"/>
+      </Process>
+    </NavigationLabels>
+    <ConfirmationMessages/>
+  </Translations>
+</Locale>

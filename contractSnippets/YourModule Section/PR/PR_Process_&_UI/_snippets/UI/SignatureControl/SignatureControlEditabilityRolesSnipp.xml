@@ -1,0 +1,3 @@
+<EditabilityRoles allRoles="false" >
+	<Role name="${#name#}"/>
+</EditabilityRoles>

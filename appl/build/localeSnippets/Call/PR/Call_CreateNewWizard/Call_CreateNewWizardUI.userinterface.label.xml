@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallCreateNewWizardUI">
+        <Label id="createNewCallId" text="Create" translationStatus="1"/>
+        <Label id="CallCreateNewTitleId" text="New Call" translationStatus="1"/>
+        <Label id="callTypeId" text="Call Type" translationStatus="1"/>
+        <Label id="VisitDateId" text="Date" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time" translationStatus="1"/>
+        <Label id="AllDay" text="All Day" translationStatus="1"/>
+        <Label id="CustomerName" text="Customer" translationStatus="1"/>
+        <Label id="TripListName" text="Trip List" translationStatus="1"/>
+        <Label id="JobListName" text="Job List" translationStatus="1"/>
+        <Label id="JobListCustomer" text="Customer" translationStatus="1"/>
+        <Label id="JobListValidFrom" text="Valid From" translationStatus="1"/>
+        <Label id="JobListValidThru" text="Valid Thru" translationStatus="1"/>
+        <Label id="JobListInfo" text="Job List Information" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

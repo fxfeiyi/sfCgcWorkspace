@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallInfoTabUI">
+        <Label id="CustomerName" text="Customer" translationStatus="1"/>
+        <Label id="VisitType" text="Visit Type" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time From" translationStatus="1"/>
+        <Label id="TimeThru" text="Time Thru" translationStatus="1"/>
+        <Label id="TimeFromThruId" text="Time From / Thru" translationStatus="1"/>
+        <Label id="SubstitutionVisit" text="Substitution visit" translationStatus="1"/>
+        <Label id="SubstitutionFor" text="Substitution for" translationStatus="1"/>
+        <Label id="CallInformation" text="Call Information" translationStatus="1"/>
+        <Label id="Street" text="Street" translationStatus="1"/>
+        <Label id="ZIP" text="ZIP" translationStatus="1"/>
+        <Label id="City" text="City" translationStatus="1"/>
+        <Label id="ZIPCityId" text="ZIP City" translationStatus="1"/>
+        <Label id="State" text="State" translationStatus="1"/>
+        <Label id="CustomerAddress" text="Address" translationStatus="1"/>
+        <Label id="ActivitiesListTitle" text="Activities" translationStatus="1"/>
+        <Label id="separatorLabelId" text=" - " translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

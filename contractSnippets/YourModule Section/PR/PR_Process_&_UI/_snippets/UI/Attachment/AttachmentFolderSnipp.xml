@@ -1,0 +1,24 @@
+<AttachmentFolder name="${#name#}" maxVisibleAttachments="2" attachmentList="attachments" dataSource="${#dataSource#}">
+	<Items>
+		<Bindings>
+			<Binding target="PKey" type="Text" binding="${#pKeyBinding#}" />
+			<Binding target="Title" type="Text" binding="${#titleBinding#}" />
+			<Binding target="InfoText" type="Text" binding="${#infoTextBinding#}" />
+		</Bindings>
+	</Items>
+	<Bindings>
+		<List target="attachments" dataSource="${#listDataSource#}">
+			<Binding bindingMode="ONE_WAY" target="MainPKey" type="Text" binding="${#mainPKeyBinding#}" />
+			<Binding bindingMode="ONE_WAY" target="Type" type="Text" binding="${#typeBinding#}" />
+			<Binding bindingMode="ONE_WAY" target="MediaPath" type="Text" binding="${#mediaPathBinding#}" />
+		</List>
+	</Bindings>
+	<AttachmentFolderInfoSections noOfColumns="2">
+		<AttachmentFolderInfoSection name="Section1" backendSystem="both">
+			<Bindings>
+				<Resource id="${#IconId#}" target="InfoIcon" type="Image" />
+			</Bindings>
+			<AttachmentFolderInfoSectionAttribute name="${#infoName#}" mappedTarget="${#mappedTarget#}"/>
+		</AttachmentFolderInfoSection>
+	</AttachmentFolderInfoSections>
+</AttachmentFolder>

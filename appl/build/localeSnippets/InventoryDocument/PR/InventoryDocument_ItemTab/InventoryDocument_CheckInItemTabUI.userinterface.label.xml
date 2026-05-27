@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="InventoryDocumentCheckInItemTabUI">
+        <Label id="ProductCode" text="Product Code" translationStatus="1"/>
+        <Label id="OderItemTemplateText" text="Type" translationStatus="1"/>
+        <Label id="UoMId" text="Unit of Measure (UoM)" translationStatus="1"/>
+        <Label id="CheckInQuantityLabel" text="Check in Qty: " translationStatus="1"/>
+        <Label id="LovQuantityLabel" text="LoV Qty: " translationStatus="1"/>
+        <Label id="TargetQuantityLabel" text="Expected Qty: " translationStatus="1"/>
+        <Label id="DifferenceLabel" text="Difference: " translationStatus="1"/>
+        <Label id="ReasonCodeLabel" text="Reason Type" translationStatus="1"/>
+        <Label id="AdvSettingsGroupId" text="Quantity Difference (UoM)" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CustomerCreateCustomerWizardUI">
+        <Label id="createNewCustomerId" text="Create" translationStatus="1"/>
+        <Label id="CreateCustomerTitleId" text="New Customer" translationStatus="1"/>
+        <Label id="BpaMetaTypesId" text="Type" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

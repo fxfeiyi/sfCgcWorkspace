@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoSalesFolderOverview">
+        <Label id="SalesFolder_Id" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="SalesFolder_Customer" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="SalesFolder_SloganText" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="SalesFolder_DateFrom" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="SalesFolder_DateThru" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallActivitiesListUI">
+        <Label id="ActivitiesId" text="Activities" translationStatus="1"/>
+        <Label id="separatorMinus" text=" - " translationStatus="1"/>
+        <Label id="ActivityTemplateId" text="Activity Template" translationStatus="1"/>
+        <Label id="CallTemplateId" text="Call Template" translationStatus="1"/>
+        <Label id="RelatedPromotion" text="Related Promotion" translationStatus="1"/>
+        <Label id="TimeFromThru" text="From/Thru" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

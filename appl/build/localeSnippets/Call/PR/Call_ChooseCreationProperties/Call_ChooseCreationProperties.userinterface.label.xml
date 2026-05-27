@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallChooseCreationProperties">
+        <Label id="DoneId" text="Done" translationStatus="1"/>
+        <Label id="CallChooseCallCreationPropertiesId" text="Choose properties" translationStatus="1"/>
+        <Label id="TripListDateId" text="Date" translationStatus="1"/>
+        <Label id="TimeFrom" text="Time" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

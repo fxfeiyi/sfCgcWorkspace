@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourManagementDetailUI">
+        <Label id="MainId" text="Main" translationStatus="1"/>
+        <Label id="ChecklistId" text="Checklist" translationStatus="1"/>
+        <Label id="reviewRelease" text="Release Info" translationStatus="1"/>
+        <Label id="reviewComplete" text="Complete Info" translationStatus="1"/>
+        <Label id="ReleaseTourId" text="Release" translationStatus="1"/>
+        <Label id="CompleteTourId" text="Complete" translationStatus="1"/>
+        <Label id="TourId" text="Tour Id" translationStatus="1"/>
+        <Label id="TourDescriptionId" text="Description" translationStatus="1"/>
+        <Label id="PlannedTourDate" text="Planned Tour Date" translationStatus="1"/>
+        <Label id="WorkStartDateId" text="Work Start Date" translationStatus="1"/>
+        <Label id="WorkStartTimeId" text="Work Start Time" translationStatus="1"/>
+        <Label id="WorkStartDateTimeId" text="Work Start" translationStatus="1"/>
+        <Label id="WorkEndDateId" text="Work End Date" translationStatus="1"/>
+        <Label id="WorkEndTimeId" text="Work End Time" translationStatus="1"/>
+        <Label id="WorkEndDateTimeId" text="Work End" translationStatus="1"/>
+        <Label id="DriverId" text="User" translationStatus="1"/>
+        <Label id="CoDriverId" text="Support User" translationStatus="1"/>
+        <Label id="TourInformationId" text="Tour Information" translationStatus="1"/>
+        <Label id="StartWhLblId" text="Start Warehouse" translationStatus="1"/>
+        <Label id="EndtWhLblId" text="End Warehouse" translationStatus="1"/>
+        <Label id="WarehouseId" text="Warehouse" translationStatus="1"/>
+        <Label id="TruckId" text="Truck Id" translationStatus="1"/>
+        <Label id="TrailorId" text="Trailer" translationStatus="1"/>
+        <Label id="Trailor2Id" text="Trailer 2" translationStatus="1"/>
+        <Label id="TrailorsId" text="Trailer 1/2" translationStatus="1"/>
+        <Label id="VehicleId" text="Vehicle" translationStatus="1"/>
+        <Label id="OdometerStartId" text="OdometerStart" translationStatus="1"/>
+        <Label id="OdometerEndId" text="OdometerEnd" translationStatus="1"/>
+        <Label id="TruckInformationId" text="Odometer Start/End" translationStatus="1"/>
+        <Label id="TruckOkStartId" text="Truck ok start" translationStatus="1"/>
+        <Label id="ReasonCodeStartId" text="Reason Code" translationStatus="1"/>
+        <Label id="TruckOkEndId" text="Truck ok end" translationStatus="1"/>
+        <Label id="ReasonCodeEndId" text="Reason Code" translationStatus="1"/>
+        <Label id="TruckInformationTitleId" text="Truck Information" translationStatus="1"/>
+        <Label id="MessageId" text="Message" translationStatus="1"/>
+        <Label id="ReasonId" text="Cancel Reason" translationStatus="1"/>
+        <Label id="CancelTourNote" text="Cancel Note" translationStatus="1"/>
+        <Label id="CancelInformationId" text="CANCEL INFORMATION" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

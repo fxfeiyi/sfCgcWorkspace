@@ -1,0 +1,8 @@
+<Footer>
+	<Items name="FooterItems">
+		<Bindings>
+			<Resource target="Icon" type="Image" id="${#id1#}" />
+			<Resource target="FooterLabel" type="Label" id="${#id#}Id" defaultLabel="${#defaultLabel#}" />
+		</Bindings>
+	</Items>
+</Footer>

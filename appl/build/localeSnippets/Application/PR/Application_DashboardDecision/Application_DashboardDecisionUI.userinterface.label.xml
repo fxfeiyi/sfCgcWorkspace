@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ApplicationDashboardDecisionUI">
+        <Label id="welcome" text="Welcome" translationStatus="1"/>
+        <Label id="SalesRepDashboardId" text="Retail" translationStatus="1"/>
+        <Label id="PrmApproverDashboardId" text="TPM" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

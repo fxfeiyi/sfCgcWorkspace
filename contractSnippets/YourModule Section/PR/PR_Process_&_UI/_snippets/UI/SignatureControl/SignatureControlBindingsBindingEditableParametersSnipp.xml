@@ -1,0 +1,3 @@
+<Binding target="Editable" type="Editable" call="${#call#}">
+	<Parameters />
+</Binding>

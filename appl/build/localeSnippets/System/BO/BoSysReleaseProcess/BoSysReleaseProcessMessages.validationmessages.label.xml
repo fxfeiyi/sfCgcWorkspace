@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoSysReleaseProcess">
+        <Label id="CasSysReleaseProcess_FillInName" text="Name for #stepName# missing." translationStatus="1"/>
+        <Label id="CasSysReleaseProcess_SignatureMissing" text="You haven’t recorded signature for #stepName#." translationStatus="1"/>
+        <Label id="CasSysReleaseProcess_ApprovalCodeMismatch" text="Authentication for #stepName# unsuccessful. User role, id, or approval code wrong or user is not assigned to the required warehouse." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="AssetManagementRegisterUnknownAssetUI">
+        <Label id="DoneAssetId" text="Done" translationStatus="1"/>
+        <Label id="RegisterAssetLabelId" text="Register Asset" translationStatus="1"/>
+        <Label id="SerialNumberId" text="Serial Number" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

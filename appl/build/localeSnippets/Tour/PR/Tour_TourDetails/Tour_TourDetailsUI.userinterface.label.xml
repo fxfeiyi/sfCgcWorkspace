@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="TourTourDetailsUI">
+        <Label id="StartTourLink" text="Start Tour" translationStatus="1"/>
+        <Label id="TourDetailsId" text="Tour Details" translationStatus="1"/>
+        <Label id="ReviewVehicleDetailsId" text="Review Vehicle Details" translationStatus="1"/>
+        <Label id="VehicleChecksId" text="Vehicle Checks" translationStatus="1"/>
+        <Label id="SafetyChecksId" text="Safety Checks" translationStatus="1"/>
+        <Label id="TourNameId" text="Tour ID" translationStatus="1"/>
+        <Label id="TourDescriptionId" text="Description" translationStatus="1"/>
+        <Label id="PlannedStartDateTimeId" text="Planned Start Date Time" translationStatus="1"/>
+        <Label id="ActualStartDateTimeId" text="Actual Start Date Time" translationStatus="1"/>
+        <Label id="PlannedEndDateTimeId" text="Planned End Date Time" translationStatus="1"/>
+        <Label id="ActualEndDateTimeId" text="Actual End Date Time" translationStatus="1"/>
+        <Label id="CoDriverId" text="Co-Driver" translationStatus="1"/>
+        <Label id="TourInformationId" text="Tour Information" translationStatus="1"/>
+        <Label id="StartWarehouseId" text="Start Warehouse" translationStatus="1"/>
+        <Label id="EndWarehouseId" text="End Warehouse" translationStatus="1"/>
+        <Label id="WarehouseId" text="Warehouse" translationStatus="1"/>
+        <Label id="TruckId" text="Truck" translationStatus="1"/>
+        <Label id="Trailer1Id" text="Trailer 1" translationStatus="1"/>
+        <Label id="Trailer2Id" text="Trailer 2" translationStatus="1"/>
+        <Label id="VehicleDetailsId" text="Vehicle Details" translationStatus="1"/>
+        <Label id="OdometerStart" text="Odometer Start" translationStatus="1"/>
+        <Label id="OdometerStartId" text="Initial Odometer Reading" translationStatus="1"/>
+        <Label id="OdometerEnd" text="Odometer End" translationStatus="1"/>
+        <Label id="OdometerEndId" text="Final Odometer Reading" translationStatus="1"/>
+        <Label id="VehicleOkStartId" text="Vehicle Condition OK at Start" translationStatus="1"/>
+        <Label id="VehicleOkStartReasonCodeId" text="Start Tour Condition Reason" translationStatus="1"/>
+        <Label id="VehicleOkEndId" text="Vehicle Condition OK at End" translationStatus="1"/>
+        <Label id="VehicleOkEndReasonCodeId" text="End Tour Condition Reason" translationStatus="1"/>
+        <Label id="VehicleInformationId" text="Vehicle Information" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

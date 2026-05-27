@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoUser">
+        <Label id="CasBoUserFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasBoUserTimeIntervalZero" text="Please enter a time interval greater than 0." translationStatus="1"/>
+        <Label id="CasBoUserNoOpenTimeCard" text="No open time card available. You can create one manually." translationStatus="1"/>
+        <Label id="CasBoUserRunningTimeEntryByCall" text="There is a open time entry for a #subject# Call. The time entry stared at #startTime#. With the confirmation of this message the system will capture the current time as end time of this time entry." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

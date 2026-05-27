@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallTripListWizardUI">
+        <Label id="DoneId" text="Create" translationStatus="1"/>
+        <Label id="UpdateId" text="Done" translationStatus="1"/>
+        <Label id="DeleteId" text="Delete" translationStatus="1"/>
+        <Label id="tripListId" text="Trip List" translationStatus="1"/>
+        <Label id="TripListDescription" text="Description" translationStatus="1"/>
+        <Label id="TripListTypeId" text="Type" translationStatus="1"/>
+        <Label id="TripListValidFromId" text="Valid From" translationStatus="1"/>
+        <Label id="TripListValidThruId" text="Valid Thru" translationStatus="1"/>
+        <Label id="DayOfWeekId" text="Day" translationStatus="1"/>
+        <Label id="ResponsibleUserId" text="Responsible" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="ProductScanProductUI">
+        <Label id="NonUniqueUPCId" text="Non-unique UPC" translationStatus="1"/>
+        <Label id="PrdGTINLabel" text="Prd GTIN :" translationStatus="1"/>
+        <Label id="PrdNoLabel" text="Prd No. :" translationStatus="1"/>
+        <Label id="UnitTypeLabel" text="Unit Type :" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoTour">
+        <Label id="CasBoRunningTourInContext" text="Tour Release not possible. There's already a Tour with status Running." translationStatus="1"/>
+        <Label id="CasBoOpenCalls" text="Sorry, Tour cannot be completed. One or more Calls are still open and have to be executed first." translationStatus="1"/>
+        <Label id="CasTmgOpenDocuments" text="Tour Complete not possible. One or more Documents are still open and have to be released before completing the Tour." translationStatus="1"/>
+        <Label id="CasTmgNoMandatoryCheckIn" text="Tour Complete not possible. Cash Check in has to be executed first to complete the Tour." translationStatus="1"/>
+        <Label id="CasTmgNoMandatoryPrdCheckIn" text="Tour Complete not possible. Product Check in has to be executed first to complete the Tour." translationStatus="1"/>
+        <Label id="CasTmgFillInTourDateTimeValues" text="Please fill in Tour Start End Date Time values." translationStatus="1"/>
+        <Label id="CasTmgFillTourStartDateTime" text="Please fill in Tour Start Date Time values." translationStatus="1"/>
+        <Label id="CasTmgFillTourEndDateTime" text="Please fill in Tour End Date Time values." translationStatus="1"/>
+        <Label id="CasTmgDateFromGreaterDateThru" text="Visit Start Date must be earlier than End Date." translationStatus="1"/>
+        <Label id="CasTmgTimeFromGreaterTimeThru" text="Time Thru must be greater than or equal to Time From." translationStatus="1"/>
+        <Label id="CasTmgMileageStart" text="Mileage Start must be greater than Zero." translationStatus="1"/>
+        <Label id="CasTmgMileageEnd" text="Mileage End must be greater than Zero." translationStatus="1"/>
+        <Label id="CasTmgTourDateWillBeSetToToday" text="Date of the tour will be changed to current date now. As there might be open calls related to the tour, please use the Reschedule functionality in the tour list to move the related calls together with the tour. If you continue, the tour will be moved without rescheduling the calls." translationStatus="1"/>
+        <Label id="CasBoTourMileage" text="Mileage End must be greater than Mileage Start." translationStatus="1"/>
+        <Label id="CasTmgTruckId" text="The Truck Id must be entered." translationStatus="1"/>
+        <Label id="CasTmgTrailerId" text="The Trailor1 Id must be entered." translationStatus="1"/>
+        <Label id="CasTmgTrailerId2" text="The Trailor2 Id must be entered." translationStatus="1"/>
+        <Label id="CasTmgVehicleOKStartYes" text="The Vehicle OK Start must be Yes." translationStatus="1"/>
+        <Label id="CasTmgVehicleOKEndYes" text="The Vehicle OK End must be Yes." translationStatus="1"/>
+        <Label id="CasTmgVehicleStatusStart" text="The truck must be ok before starting the tour or Reason Code has to be entered if truck is not ok." translationStatus="1"/>
+        <Label id="CasTmgVehicleStatusEnd" text="The truck must be ok before completing the tour or Reason Code has to be entered if truck is not ok." translationStatus="1"/>
+        <Label id="CasTmgTruckCheck" text="Tour can be released only if all start of day relevant tour checks are answered." translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedOpenCallsMessage" text="End of Day is not possible as there are still open calls which have to be executed first." translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedOpenOrdersOrDeliveriesMessage" text="End of Day is not possible as there are still open orders/deliveries/replenishment which have to be executed first." translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedOpenInventoryDocsMessage" text="End of Day is not possible as there are still open inventory documents not relevant to end of day which have to be executed first." translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedOpenCashDocsMessage" text="End of Day is not possible as there are still open cash documents not relevant to end of day which have to be executed first." translationStatus="1"/>
+        <Label id="EndOfDayNotAllowedOpenInventoryAndCashDocsMessage" text="End of Day is not possible as there are still open inventory and cash documents not relevant to end of day which have to be executed first." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

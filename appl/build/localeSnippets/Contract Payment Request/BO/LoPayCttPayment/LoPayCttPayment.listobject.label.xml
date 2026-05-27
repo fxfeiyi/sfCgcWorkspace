@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoContractPaymentRequests">
+        <Label id="LoPayCttPayment_PaymentType" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPayCttPayment_CustomerNameId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPayCttPayment_PhaseId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPayCttPayment_DateInitiationId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPayCttPayment_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPayCttPayment_Responsible" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

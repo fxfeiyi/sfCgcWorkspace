@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="IssueCopyFlyoutUI">
+        <Label id="copyIssueId" text="Done" translationStatus="1"/>
+        <Label id="CopyIssueId" text="Copy Issue" translationStatus="1"/>
+        <Label id="CustomerId" text="Customer" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

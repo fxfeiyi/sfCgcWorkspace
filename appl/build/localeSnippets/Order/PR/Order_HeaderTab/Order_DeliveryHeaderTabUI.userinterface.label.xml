@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="OrderDeliveryHeaderTabUI">
+        <Label id="CalculateOrderId" text="Calculate" translationStatus="1"/>
+        <Label id="releaseOrder" text="Release" translationStatus="1"/>
+        <Label id="reviewRelease" text="Release Info" translationStatus="1"/>
+        <Label id="previewOrderConfirmation" text="Preview" translationStatus="1"/>
+        <Label id="showPrint" text="Show Print" translationStatus="1"/>
+        <Label id="DocumentNumberId" text="Document Number" translationStatus="1"/>
+        <Label id="InvoiceNumberId" text="Invoice Number" translationStatus="1"/>
+        <Label id="DocumentDateId" text="Document Date" translationStatus="1"/>
+        <Label id="CustomerNameId" text="Customer Name" translationStatus="1"/>
+        <Label id="CustomerPurchaseNumberId" text="Customer Purchase Number" translationStatus="1"/>
+        <Label id="DocumentTypeId" text="Document Type" translationStatus="1"/>
+        <Label id="TransactionTypeId" text="Transaction Type" translationStatus="1"/>
+        <Label id="DocumentStatusId" text="Document Status" translationStatus="1"/>
+        <Label id="ASNNumberId" text="ASN Number" translationStatus="1"/>
+        <Label id="CancelReasonId" text="Cancel Reason Code" translationStatus="1"/>
+        <Label id="TourId" text="Tour" translationStatus="1"/>
+        <Label id="DeliveryDetailsId" text="Delivery Details" translationStatus="1"/>
+        <Label id="TotalValueId" text="Total Value" translationStatus="1"/>
+        <Label id="CurrencyId" text="Currency" translationStatus="1"/>
+        <Label id="TotalValue" text="Total Value" translationStatus="1"/>
+        <Label id="GrossValueId" text="Gross Value" translationStatus="1"/>
+        <Label id="GrossTotalValue" text="Gross Total Value" translationStatus="1"/>
+        <Label id="HeaderDiscountId" text="Header Discount (%)" translationStatus="1"/>
+        <Label id="PaymentMethodId" text="Payment Method" translationStatus="1"/>
+        <Label id="PaidAmountossValueId" text="Paid Amount" translationStatus="1"/>
+        <Label id="PaidAmountValue" text="Paid Amount" translationStatus="1"/>
+        <Label id="PaymentCollected" text="Payment Collected?" translationStatus="1"/>
+        <Label id="DocumentValueId" text="Document Value" translationStatus="1"/>
+        <Label id="ProductDetailsId" text="Product Details" translationStatus="1"/>
+        <Label id="UnitLabelId" text="Unit" translationStatus="1"/>
+        <Label id="InLabelId" text="Returned" translationStatus="1"/>
+        <Label id="OutLabelId" text="Shipped" translationStatus="1"/>
+        <Label id="SplittingOptionId" text="Splitting Groups" translationStatus="1"/>
+        <Label id="SplittingGroupNameId" text="Group" translationStatus="1"/>
+        <Label id="SplittingTotalValueId" text="Total" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoWizardTripList">
+        <Label id="CasTripListFillInAllValues" text="Please fill in all values." translationStatus="1"/>
+        <Label id="CasTripListCheckDaterange" text="Please enter a Date Thru that is greater than Date From." translationStatus="1"/>
+        <Label id="CasTripListCheckDay" text="For type as Daily, Day value cannot be No Day." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

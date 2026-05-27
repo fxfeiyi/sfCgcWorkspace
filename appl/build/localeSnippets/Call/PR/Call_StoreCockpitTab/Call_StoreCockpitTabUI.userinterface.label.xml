@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CallStoreCockpitTabUI">
+        <Label id="completeCallId" text="Complete Call" translationStatus="1"/>
+        <Label id="startVisitId" text="Start Visit" translationStatus="1"/>
+        <Label id="StoreCockpitId" text="Store Cockpit" translationStatus="1"/>
+        <Label id="StoreCheckLabelId" text="Store Check" translationStatus="1"/>
+        <Label id="SurveyLabelId" text="Survey" translationStatus="1"/>
+        <Label id="PromotionCalendarLabelId" text="Promotion Calendar" translationStatus="1"/>
+        <Label id="PromotionsLabelId" text="Promotions" translationStatus="1"/>
+        <Label id="SalesFolderLabelId" text="Sales Folder" translationStatus="1"/>
+        <Label id="PicturesLabelId" text="Pictures" translationStatus="1"/>
+        <Label id="NotesLabelId" text="Notes" translationStatus="1"/>
+        <Label id="CustomerDataLabelId" text="Customer Data" translationStatus="1"/>
+        <Label id="OrdersLabelId" text="Orders" translationStatus="1"/>
+        <Label id="AssetsLabelId" text="Assets" translationStatus="1"/>
+        <Label id="CustomerTasksLabelId" text="Customer Tasks" translationStatus="1"/>
+        <Label id="CallSummaryLabelId" text="Call Summary" translationStatus="1"/>
+        <Label id="ActivitiesCardTitle" text="Your activities for today" translationStatus="1"/>
+        <Label id="ShowDetailsLink" text="Show Details" translationStatus="1"/>
+        <Label id="ShowEmailLink" text="Send Email" translationStatus="1"/>
+        <Label id="HeaderCardTitle" text="Customer Details2" translationStatus="1"/>
+        <Label id="CardSellIns_NoDataMessageMainText" text="Nothing to sell-in for this customer" translationStatus="1"/>
+        <Label id="ShowPromotionsLink" text="Show Promotions" translationStatus="1"/>
+        <Label id="ShowCalendarLink" text="Show Calendar" translationStatus="1"/>
+        <Label id="SellInsCardTitle" text="Sales Folder" translationStatus="1"/>
+        <Label id="CardActivityPerformance_NoDataMessageMainText" text="No activity scores " translationStatus="1"/>
+        <Label id="CardActivityPerformance_NoDataMessageSubText" text="available yet." translationStatus="1"/>
+        <Label id="ShowActivityPerformanceLink" text="All Activity Performance" translationStatus="1"/>
+        <Label id="ActivityPerformanceCardTitle" text="Activity Performance" translationStatus="1"/>
+        <Label id="CardLatestPicture_NoDataMessageMainText" text="No pictures yet!" translationStatus="1"/>
+        <Label id="CardLatestPicture_NoDataMessageSubText" text="Take pictures to get started with your reviews." translationStatus="1"/>
+        <Label id="SelectPictureId" text="Select Picture" translationStatus="1"/>
+        <Label id="TakePictureId" text="Take Picture" translationStatus="1"/>
+        <Label id="AllPicturesLink" text="Review Pictures" translationStatus="1"/>
+        <Label id="PicturesCardTitle" text="Pictures" translationStatus="1"/>
+        <Label id="CardMobileLinks_NoDataMessageMainText" text="Sorry, no dashboard available" translationStatus="1"/>
+        <Label id="MobileLinksCardTitle" text="CRM Analytics" translationStatus="1"/>
+        <Label id="CardSurveyExceptions_NoDataMessageMainText" text="No survey exception for this visit." translationStatus="1"/>
+        <Label id="ReportingSurveyExceptionsCardTitle" text="Survey Exceptions" translationStatus="1"/>
+        <Label id="CardCustomerTasks_NoDataMessageMainText" text="No open tasks for this customer." translationStatus="1"/>
+        <Label id="AddNewCustomerTaskId" text="Add new Customer Task2" translationStatus="1"/>
+        <Label id="AllCustomerTasksLink" text="All Customer Tasks" translationStatus="1"/>
+        <Label id="CustomerTasksCardTitle" text="Customer Tasks" translationStatus="1"/>
+        <Label id="CardDisplays_NoDataMessageMainText" text="No displays for this customer." translationStatus="1"/>
+        <Label id="CardOrderHistory_NoDataMessageMainText" text="No orders for this customer," translationStatus="1"/>
+        <Label id="CardOrderHistory_NoDataMessageSubText" text="why don’t you create one." translationStatus="1"/>
+        <Label id="CreateNewOrderId" text="Create New Order" translationStatus="1"/>
+        <Label id="AllOrdersLink" text="All Orders" translationStatus="1"/>
+        <Label id="OrderHistoryCardTitle" text="Order History" translationStatus="1"/>
+        <Label id="CardFollowUpVisits_NoDataMessageMainText" text="There are no additional visits planned for this customer, why dont you create one?" translationStatus="1"/>
+        <Label id="CreateFollowUpVisitId" text="Create Follow-up Visit" translationStatus="1"/>
+        <Label id="FollowUpVisitsCardTitle" text="Follow-Up Visits" translationStatus="1"/>
+        <Label id="CardQuickAccess_NoDataMessageMainText" text="No quick links were defined for you yet" translationStatus="1"/>
+        <Label id="QuickAccessCardTitle" text="Quick Access" translationStatus="1"/>
+        <Label id="CardNotes_NoDataMessageMainText" text="No notes to display," translationStatus="1"/>
+        <Label id="CardNotes_NoDataMessageSubText" text="why dont you add one? " translationStatus="1"/>
+        <Label id="AddNewVisitNoteId" text="Edit Note" translationStatus="1"/>
+        <Label id="ShowNotesLink" text="All Notes" translationStatus="1"/>
+        <Label id="CallNotesCardTitle" text="Visit Notes" translationStatus="1"/>
+        <Label id="CardAccountReceivables_NoDataMessageMainText" text="Good job, all paid" translationStatus="1"/>
+        <Label id="AmountLabelId" text="Amount" translationStatus="1"/>
+        <Label id="AmountOpenLabelId" text="Open" translationStatus="1"/>
+        <Label id="DueDateLabelId" text="Due Date" translationStatus="1"/>
+        <Label id="ReceiptDateLabelId" text="Receipt Date" translationStatus="1"/>
+        <Label id="ShowAccountReceivablesLink" text="All Account Receivables" translationStatus="1"/>
+        <Label id="AccountReceivablesCardTitle" text="Account Receivables" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

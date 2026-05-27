@@ -1,0 +1,6 @@
+<Action name="${#ActionName#}" actionType="PRINT" printId="${#PrintId#}">
+	<Parameters>
+		<Input name="${#InputName#}" value="${#InputValue#}" />
+	</Parameters>
+	<TransitionTo action="${#TransitionToAction#}" />
+</Action>

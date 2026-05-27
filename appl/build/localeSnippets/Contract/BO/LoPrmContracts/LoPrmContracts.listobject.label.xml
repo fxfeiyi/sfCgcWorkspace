@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <AdvancedSearch>
+      <AdvancedSearchObject id="AsoContracts">
+        <Label id="LoPrmContracts_CustomerNameId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPrmContracts_PhaseId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPrmContracts_DateFromId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPrmContracts_DateThruId" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPrmContracts_Owner" text="AUTO-GENERATED" translationStatus="1"/>
+        <Label id="LoPrmContracts_User" text="AUTO-GENERATED" translationStatus="1"/>
+      </AdvancedSearchObject>
+    </AdvancedSearch>
+  </Translations>
+</Locale>

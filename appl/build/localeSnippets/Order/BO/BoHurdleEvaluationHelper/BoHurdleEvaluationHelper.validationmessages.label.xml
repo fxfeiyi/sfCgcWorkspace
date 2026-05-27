@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <ValidationMessages>
+      <BusinessObject id="BoHurdleEvaluationHelper">
+        <Label id="Header_RewardProductsList" text="You can choose up to #x# free products." translationStatus="1"/>
+        <Label id="Header_RewardProductsList_NoLimit" text="You can choose any number of products." translationStatus="1"/>
+      </BusinessObject>
+    </ValidationMessages>
+  </Translations>
+</Locale>

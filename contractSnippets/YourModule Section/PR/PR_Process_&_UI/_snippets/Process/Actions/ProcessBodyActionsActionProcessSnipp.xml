@@ -1,0 +1,9 @@
+<Action name="${#ActionName#}" actionType="PROCESS" process="${#Process#}">
+	<Parameters>
+		<Input name="${#InputName#}" value="${#Value#}" />
+	</Parameters>
+	<ReturnValues>
+		<Return name="${#ReturnName#}" value="${#ReturnValue#}" />
+	</ReturnValues>
+	<TransitionTo action="${#TransitionToAction#}" />
+</Action>

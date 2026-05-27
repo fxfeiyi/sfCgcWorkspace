@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Locale language="en">
+  <Translations>
+    <UserInterfaceContracts>
+      <UserInterface id="CashCheckInItemsUI">
+        <Label id="CashCheckInTitleId" text="Cash" translationStatus="1"/>
+        <Label id="ReasonId" text="Reason" translationStatus="1"/>
+        <Label id="DifferenceId" text="Difference" translationStatus="1"/>
+        <Label id="PmtDetailsId" text="Details" translationStatus="1"/>
+      </UserInterface>
+    </UserInterfaceContracts>
+  </Translations>
+</Locale>

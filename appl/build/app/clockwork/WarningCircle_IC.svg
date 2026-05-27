@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,0 C4.48717949,0 0,4.48717949 0,10 C0,15.5128205 4.48717949,20 10,20 C15.5128205,20 20,15.5128205 20,10 C20,4.48717949 15.5128205,0 10,0 Z M11.25,15 L9.375,15 L9.375,13.125 L11.25,13.125 L11.25,15 Z M11.25,11.25 L9.375,11.25 L9.375,5 L11.25,5 L11.25,11.25 Z" id="Shape" fill="#E3B721" fill-rule="nonzero"></path>
+    </g>
+</svg>

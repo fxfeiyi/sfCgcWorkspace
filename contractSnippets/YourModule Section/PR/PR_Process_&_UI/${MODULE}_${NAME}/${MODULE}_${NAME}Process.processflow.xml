@@ -1,0 +1,12 @@
+<Process name="${FULL_NAME}" defaultAction="${ACTION_NAME}" schemaVersion="0.0.0.5">
+  <Entry>
+    <ProcessContext>
+      <Declarations></Declarations>
+      <Parameters></Parameters>
+    </ProcessContext>
+    <EntryActions></EntryActions>
+  </Entry>
+  <Body>
+    <Actions></Actions>
+  </Body>
+</Process>
