@@ -1,0 +1,20 @@
+<DataSource name="DsLoMyDisplayOverview" backendSystem="sf" businessObjectClass="LoMyDisplayOverview" 
+    external="false" editableEntity="Display__c" schemaVersion="2.0">
+    <Attributes>
+        <Attribute name="pKey" table="Display__c" column="Id" />
+        <Attribute name="name" table="Display__c" column="Name" />
+        <Attribute name="description" table="Display__c" column="Description__c" />
+        <Attribute name="competitor" table="Display__c" column="Competitor_Display__c" />
+    </Attributes>
+    <Entities>
+        <Entity name="Display__c" alias="" idAttribute="Id" />
+    </Entities>
+    <QueryCondition><![CDATA[
+        Display__c.Account__c = #accountId#
+    ]]>
+    </QueryCondition>
+    <OrderCriteria />
+    <Parameters>
+        <Parameter name="accountId" type="TEXT" />
+    </Parameters>
+</DataSource>

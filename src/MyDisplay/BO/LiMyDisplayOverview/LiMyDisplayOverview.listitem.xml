@@ -1,0 +1,9 @@
+<ListItem name="LiMyDisplayOverview">
+    <SimpleProperties>
+        <SimpleProperty name="pKey" type="DomPKey" dataSourceProperty="pKey" />
+        <SimpleProperty name="name" type="DomId" dataSourceProperty="name" />
+        <SimpleProperty name="description" type="DomLongDescription" dataSourceProperty="description" />
+        <SimpleProperty name="competitor" type="DomBool" dataSourceProperty="competitor" />
+    </SimpleProperties>
+</ListItem>
+
